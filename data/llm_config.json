@@ -1,0 +1,6 @@
+{
+  "provider": "gemini",
+  "api_key": "AQ.Ab8RN6LoaYty6QIgujrmFJ-10qVKhx1p_PmCrZmG7lEV7ttrGQ",
+  "model": "gemini-2.5-flash",
+  "max_tokens": 8000
+}

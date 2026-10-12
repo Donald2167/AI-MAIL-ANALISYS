@@ -1,0 +1,1188 @@
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17 via Mailbox Transport; Thu, 30 Apr 2026 17:20:27 +0900
+Received: from HGI-EX02P.HGI.hanwha.com (172.28.11.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.2.2562.17; Thu, 30 Apr 2026 17:20:27 +0900
+Received: from HGI-EX03P.HGI.hanwha.com (172.28.11.43) by
+ HGI-EX02P.HGI.hanwha.com (172.28.11.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.1.2507.55; Thu, 30 Apr 2026 17:20:26 +0900
+Received: from HGI-EX03P.HGI.hanwha.com ([::1]) by HGI-EX03P.HGI.hanwha.com
+ ([fe80::50f:b25c:9887:d8a9%26]) with Microsoft SMTP Server id 15.01.2507.055;
+ Thu, 30 Apr 2026 17:20:26 +0900
+From: =?ks_c_5601-1987?B?wPzAr8H4?= <8921246@hanwha.com>
+To: =?ks_c_5601-1987?B?wPzAr8H4IMfRyK29w726xdsvSUNU?= <youjin0404@hanwha.com>
+Subject:
+	=?ks_c_5601-1987?B?wPy03jogW73FsdTAzMTJvu5dILCou+fGxMauKDGwxylfNTI2MA==?=
+Thread-Topic:
+	=?ks_c_5601-1987?B?W73FsdTAzMTJvu5dILCou+fGxMauKDGwxylfNTI2MA==?=
+Thread-Index: AdzYdndUoc9ziCNlTP6F+CBw/LrgcQABCtLg////IE0=
+Date: Thu, 30 Apr 2026 17:20:26 +0900
+Message-ID: <44f59beece474740a2eb869fdf9373f9@HGI-EX03P.HGI.hanwha.com>
+References:
+	<f5f63af3dba942978e09229a2b660b51@hanwha.com>,<6ef657b6818249b3a37234a67f02c22d@hanwha.com>
+In-Reply-To: <6ef657b6818249b3a37234a67f02c22d@hanwha.com>
+Content-Language: ko-KR
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-MS-Exchange-Organization-AuthSource: HGI-EX03P.HGI.hanwha.com
+X-MS-Exchange-Organization-ComplianceLabelId:
+	269edd4b-6f1a-456c-b817-d9d46ad5b050
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-AutoForwarded: true
+X-MS-Exchange-Organization-Network-Message-Id:
+	55beca69-9a33-47c2-d2c5-08dea6915574
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Inbox-Rules-Loop: 8921246@hanwha.com
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+Content-Type: multipart/alternative;
+	boundary="_000_44f59beece474740a2eb869fdf9373f9HGIEX03PHGIhanwhacom_"
+MIME-Version: 1.0
+
+--_000_44f59beece474740a2eb869fdf9373f9HGIEX03PHGIhanwhacom_
+Content-Type: text/plain; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: base64
+
+DQpfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXw0KurizvSC757b3OiDAzMH4KExFRSBK
+SU4pDQq6uLO9ILOvwqU6IDIwMjaz4iA0v/kgMzDAzyC48b/kwM8gv8DIxCA1OjIwOjI2IChVVEMr
+MDk6MDApILytv+8NCrnetMIgu+e29zogwPzAr8H4OyDAzMf2wNooTGVlIEh5dW5qYSkNCsGmuPE6
+IEZXOiBbvcWx1MDMxMm+7l0gsKi758bExq4oMbDHKV81MjYwDQoNCg0KDQpGcm9tOiCw7cC6wNoo
+R08gRVVOIEpBKQ0KU2VudDogVGh1cnNkYXksIEFwcmlsIDMwLCAyMDI2IDQ6NTQgUE0NClRvOiDA
+zMH4KExFRSBKSU4pIDxzdW1tZXJAaGFud2hhLmNvbT4NCkNjOiC8urnOyKMoU3VuZyBNaW4gaG8p
+IDw4MDY3MDY3QGhhbndoYS5jb20+DQpTdWJqZWN0OiBbvcWx1MDMxMm+7l0gsKi758bExq4oMbDH
+KV81MjYwDQoNCg0Kvsiz58fPvLy/5A0KDQqw7bC0u/O048bExq4gsO3AusDawNS0z7TZLg0KDQq/
+5MO7x8+9xSDAzMTJvu4gufjIo7ChIMiuwaS1x77uIL7Is7u15biztM+02S4NCg0KDQoNCjEuILCz
+ud8vxde9usauIMDPwaQgudcgv+6/tbndv7UgwM/BpL+hILTrx8+/qSC9xcO7wNqysrytIElUIMOk
+s84gvLq5zsijIML3wOW01LD6IMiuwM7Hz7zFvt8gx9W0z7TZLg0KDQqioSC66rejteW47SC6r7Dm
+wLi3ziDF28fDuLQguq+w5iCwx7+hIMfRx9ggSElQUyC/5MO7DQoNCkhJUFMgPiDA/Lvqw7O4rr/k
+w7sgPiDA/Lvqw7O4riCw+L/rIL/kw7u8rQ0KDQq+97mrsbi60CA6IMOks86+97mrMcbAID4gsPjF
+68H2v/gtU1dBDQoNCsGmuPEgOiC66rejteW47SC6r7DmwLi3ziDAzsfRIMXbx8O4tCC6r7DmDQoN
+CrO7v+sgOiDAzMTJvu4gufjIoyDD0SCh26HbsMcgKDOlqqWqpaosIDSlqqWqpaosIDWlqqWqpaop
+DQoNCjIuIMDPwaQgx/nAx7ChILXHvu6+3yC53b+1sKG0ySDH1bTPtNkuIMf5wMe1x8H2IL7KwLi4
+6SC53b+1tcfB9iC+yr3AtM+02Q0KDQoNCsDMxMm+7g0KDQo1MjYwDQoNCsDMxMm+7rjtDQoNCrrO
+vcew6L7gwqHIxCC758D8IMW9wfYgvsizuw0KDQq047TnwNoNCg0KwMzB+A0KDQq047Tnus68rQ0K
+DQqwqLvnvccgsKi758bExq4NCg0Kv+TDu7G4utANCg0KvcWx1A0KDQq537zbsbi60A0KDQpBDQoN
+CrnfvNu48cD7DQoNCr73uauw/LiuDQoNCrz2vcXA2rHiwdgNCg0KwPy807+1vvcgwfbBocDlLCDB
+9r+qtNzA5Q0KDQq5373FufjIo7HiwdgNCg0KMDItMzE2LTg0MTANCg0Kvsu4ssXlxdvHw7i0xNq1
+5Q0KDQpod19tX3RhbGtfMDg2MA0KDQq5373Fx8G3zsfKuO0NCg0Kx9HIrbzVx9i6uMfoX77LuLLF
+5Q0KDQrF2yDHwyC4tA0KDQpbx9HIrbzVurhdILrOvce/tb73wqHIxCDFvcH2vsu4sg0KDQoje0HB
+9sGhfSC6uMfot+EgsKG787DowcLA1LHdsMe89iCw+rTZt84NCsfPwKcgMzAlIMH2waG/oSDH2LTn
+tce++r3AtM+02S4NCrrOvcew6L7gwMwgwK/A1LXHwfYgvsq1tbfPIMO2wPrH0SCw/LiuILnZtvi0
+z7TZLg0KDQq5373Fus68rSA6ICC/tb73waGwy7zSxsTGrg0KDQqwy7z2v+TDu8DPDQoNCjIwMjYt
+MDQtMjgNCg0Kua68rbn4yKMNCg0KvcXDuy0yNjA0LTE5MTg5DQoNCr3Ju+ew4bD6DQoNCr3CwM4N
+Cg0KDQoNCg==
+
+--_000_44f59beece474740a2eb869fdf9373f9HGIEX03PHGIhanwhacom_
+Content-Type: text/html; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dks_c_5601=
+-1987">
+<meta content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style>
+<!--
+@font-face
+	{font-family:=B1=BC=B8=B2}
+@font-face
+	{font-family:=B1=BC=B8=B2}
+@font-face
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1"}
+@font-face
+	{}
+@font-face
+	{}
+@font-face
+	{font-family:Calibri}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:=B1=BC=B8=B2}
+a:link, span.MsoHyperlink
+	{color:#0563C1;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline}
+p
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:=B1=BC=B8=B2}
+p.xxxxxxxxxxxxxxxxxmsonormal, li.xxxxxxxxxxxxxxxxxmsonormal, div.xxxxxxxxxx=
+xxxxxxxmsonormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:=B1=BC=B8=B2}
+span.xxxxxxxxxxxxxxxxxspelle
+	{}
+span.EmailStyle20
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle21
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle22
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle23
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle24
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle25
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle26
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle27
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle28
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle29
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle30
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle31
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle32
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle33
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle34
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle35
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle36
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle37
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle38
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle39
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle40
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle41
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle42
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle43
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle44
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle45
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle46
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle47
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle48
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle49
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle50
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle51
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle52
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle53
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle54
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle55
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle56
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle57
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle58
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle59
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle60
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle61
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle62
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle63
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle64
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle65
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle66
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle67
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle68
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle69
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle70
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle71
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle72
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle73
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle74
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle75
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle76
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle77
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle78
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle79
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle80
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle81
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle82
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle83
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle84
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle85
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle86
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle87
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle88
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle89
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle90
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle91
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle92
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle93
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle94
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle95
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle96
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle97
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle98
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle99
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle100
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle101
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle102
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle103
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle104
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle105
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle106
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle107
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle108
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle109
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle110
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle111
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle112
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle113
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle114
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle115
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle116
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle117
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle118
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle119
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle120
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle121
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle122
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle123
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle124
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle125
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle126
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle127
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle128
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle129
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle130
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle131
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle132
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle133
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle134
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle135
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle136
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle137
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle138
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle139
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle140
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle141
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle142
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle143
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle144
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle145
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle146
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle147
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle148
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle149
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle150
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle151
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle152
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle153
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle154
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle155
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle156
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle157
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle158
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle159
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle160
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle161
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle162
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle163
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle164
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle165
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle166
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle167
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle168
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle169
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle170
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle171
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle172
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle173
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle174
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle175
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle176
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle177
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle178
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle179
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle180
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle181
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle182
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle183
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle184
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle185
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle186
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle187
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle188
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle189
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle190
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle191
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle192
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle193
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle194
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle195
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle196
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle197
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle198
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle199
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle200
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle201
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle202
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle203
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle204
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle205
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle206
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle207
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle208
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle209
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle210
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle211
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle212
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle213
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle214
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle215
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle216
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle217
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle218
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle219
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle220
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:windowtext}
+span.EmailStyle221
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle222
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle223
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle224
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle225
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle226
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle227
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+span.EmailStyle228
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:#1F497D}
+.MsoChpDefault
+	{}
+@page WordSection1
+	{margin:3.0cm 72.0pt 72.0pt 72.0pt}
+div.WordSection1
+	{}
+-->
+</style>
+</head>
+<body lang=3D"KO" link=3D"#0563C1" vlink=3D"#954F72">
+<strong>
+<div><font face=3D"Tahoma" color=3D"#000000" size=3D"2">&nbsp;</font></div>
+</strong>
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<font face=3D"Tahoma" size=3D"2"><b>=BA=B8=B3=BD =BB=E7=B6=F7:</b> =C0=CC=
+=C1=F8(LEE JIN)<br>
+<b>=BA=B8=B3=BD =B3=AF=C2=A5:</b> 2026=B3=E2 4=BF=F9 30=C0=CF =B8=F1=BF=E4=
+=C0=CF =BF=C0=C8=C4 5:20:26 (UTC&#43;09:00) =BC=AD=BF=EF<br>
+<b>=B9=DE=B4=C2 =BB=E7=B6=F7:</b> =C0=FC=C0=AF=C1=F8; =C0=CC=C7=F6=C0=DA(Le=
+e Hyunja)<br>
+<b>=C1=A6=B8=F1:</b> FW: [=BD=C5=B1=D4=C0=CC=C4=C9=BE=EE] =B0=A8=BB=E7=C6=
+=C4=C6=AE(1=B0=C7)_5260<br>
+</font><br>
+<div></div>
+<div>
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"word-break:break-hangul"><span lang=3D"EN-U=
+S" style=3D"font-size:10.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&q=
+uot;; color:#1F497D">&nbsp;</span></p>
+<p class=3D"MsoNormal" style=3D"word-break:break-hangul"><span lang=3D"EN-U=
+S" style=3D"font-size:10.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&q=
+uot;; color:#1F497D">&nbsp;</span></p>
+<div>
+<div style=3D"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0c=
+m 0cm 0cm">
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:11.0pt; f=
+ont-family:&quot;Calibri&quot;,sans-serif">From:</span></b><span lang=3D"EN=
+-US" style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-serif"=
+>
+</span><span style=3D"font-size:11.0pt">=B0=ED=C0=BA=C0=DA</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sans-=
+serif">(GO EUN JA)
+<br>
+<b>Sent:</b> Thursday, April 30, 2026 4:54 PM<br>
+<b>To:</b> </span><span style=3D"font-size:11.0pt">=C0=CC=C1=F8</span><span=
+ lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,=
+sans-serif">(LEE JIN) &lt;summer@hanwha.com&gt;<br>
+<b>Cc:</b> </span><span style=3D"font-size:11.0pt">=BC=BA=B9=CE=C8=A3</span=
+><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Calibri&=
+quot;,sans-serif">(Sung Min ho) &lt;8067067@hanwha.com&gt;<br>
+<b>Subject:</b> [</span><span style=3D"font-size:11.0pt">=BD=C5=B1=D4=C0=CC=
+=C4=C9=BE=EE</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-fam=
+ily:&quot;Calibri&quot;,sans-serif">]
+</span><span style=3D"font-size:11.0pt">=B0=A8=BB=E7=C6=C4=C6=AE</span><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;=
+,sans-serif">(1</span><span style=3D"font-size:11.0pt">=B0=C7</span><span l=
+ang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,sa=
+ns-serif">)_5260</span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<p><span style=3D"font-size:10.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=
+=B5=F1&quot;">=BE=C8=B3=E7<span style=3D"color:black">=C7=CF=BC=BC=BF=E4<sp=
+an lang=3D"EN-US"></span></span></span></p>
+<div>
+<div>
+<div id=3D"divtagdefaultwrapper">
+<div>
+<div>
+<div id=3D"divtagdefaultwrapper">
+<div>
+<div>
+<div id=3D"divtagdefaultwrapper">
+<div>
+<div>
+<div id=3D"divtagdefaultwrapper">
+<div>
+<div>
+<div id=3D"divtagdefaultwrapper">
+<p class=3D"xxxxxxxxxxxxxxxxxmsonormal"><span style=3D"font-size:10.0pt; fo=
+nt-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;; color:black">=B0=ED=B0=B4=
+=BB=F3=B4=E3=C6=C4=C6=AE =B0=ED=C0=BA=C0=DA=C0=D4=B4=CF=B4=D9<span lang=3D"=
+EN-US">.</span></span></p>
+<p class=3D"xxxxxxxxxxxxxxxxxmsonormal"><span style=3D"font-size:10.0pt; fo=
+nt-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;">=BF=E4=C3=BB=C7=CF=BD=C5
+<span class=3D"xxxxxxxxxxxxxxxxxspelle">=C0=CC=C4=C9=BE=EE</span> =B9=F8=C8=
+=A3=B0=A1 =C8=AE=C1=A4=B5=C7=BE=EE <span class=3D"xxxxxxxxxxxxxxxxxspelle">
+=BE=C8=B3=BB=B5=E5=B8=B3=B4=CF=B4=D9<span lang=3D"EN-US">.</span></span></s=
+pan><span lang=3D"EN-US"> <span style=3D"color:#1F497D">
+</span></span></p>
+<p class=3D"xxxxxxxxxxxxxxxxxmsonormal"><span lang=3D"EN-US" style=3D"font-=
+size:10.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;; color:#1F49=
+7D">&nbsp;</span></p>
+<p class=3D"xxxxxxxxxxxxxxxxxmsonormal"><b><span lang=3D"EN-US" style=3D"fo=
+nt-size:10.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;">1.
+</span></b><b><span style=3D"font-size:10.0pt; font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;">=B0=B3=B9=DF<span lang=3D"EN-US">/</span>=C5=D7=BD=
+=BA=C6=AE =C0=CF=C1=A4 =B9=D7 =BF=EE=BF=B5=B9=DD=BF=B5 =C0=CF=C1=A4=BF=A1 =
+=B4=EB=C7=CF=BF=A9 =BD=C5=C3=BB=C0=DA=B2=B2=BC=AD<span lang=3D"EN-US"> IT
+</span>=C3=A4=B3=CE =BC=BA=B9=CE=C8=A3 =C2=F7=C0=E5=B4=D4=B0=FA =C8=AE=C0=
+=CE=C7=CF=BC=C5=BE=DF =C7=D5=B4=CF=B4=D9<span lang=3D"EN-US">. </span></spa=
+n></b></p>
+<p class=3D"xxxxxxxxxxxxxxxxxmsonormal"><span style=3D"font-size:10.0pt; fo=
+nt-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;">=A2=A1 =BA=EA=B7=A3=B5=E5=
+=B8=ED =BA=AF=B0=E6=C0=B8=B7=CE =C5=DB=C7=C3=B8=B4 =BA=AF=B0=E6 =B0=C7=BF=
+=A1 =C7=D1=C7=D8<span lang=3D"EN-US"> HIPS
+</span>=BF=E4=C3=BB <span lang=3D"EN-US"></span></span></p>
+<p class=3D"xxxxxxxxxxxxxxxxxmsonormal"><span lang=3D"EN-US" style=3D"font-=
+size:10.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;">HIPS &gt;
+</span><span style=3D"font-size:10.0pt; font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;">=C0=FC=BB=EA=C3=B3=B8=AE=BF=E4=C3=BB<span lang=3D"EN-US"> =
+&gt;
+</span>=C0=FC=BB=EA=C3=B3=B8=AE =B0=F8=BF=EB =BF=E4=C3=BB=BC=AD<span lang=
+=3D"EN-US"></span></span></p>
+<p class=3D"xxxxxxxxxxxxxxxxxmsonormal"><span style=3D"font-size:10.0pt; fo=
+nt-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;">=BE=F7=B9=AB=B1=B8=BA=D0<s=
+pan lang=3D"EN-US"> :
+</span>=C3=A4=B3=CE=BE=F7=B9=AB<span lang=3D"EN-US">1</span>=C6=C0<span lan=
+g=3D"EN-US"> &gt; </span>=B0=F8=C5=EB=C1=F6=BF=F8<span lang=3D"EN-US">-SWA<=
+/span></span></p>
+<p class=3D"xxxxxxxxxxxxxxxxxmsonormal"><span style=3D"font-size:10.0pt; fo=
+nt-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;">=C1=A6=B8=F1<span lang=3D"=
+EN-US"> :
+</span>=BA=EA=B7=A3=B5=E5=B8=ED =BA=AF=B0=E6=C0=B8=B7=CE =C0=CE=C7=D1 =C5=
+=DB=C7=C3=B8=B4 =BA=AF=B0=E6<span lang=3D"EN-US"></span></span></p>
+<p class=3D"xxxxxxxxxxxxxxxxxmsonormal"><span style=3D"font-size:10.0pt; fo=
+nt-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;">=B3=BB=BF=EB<span lang=3D"=
+EN-US"> :
+</span>=C0=CC=C4=C9=BE=EE =B9=F8=C8=A3 =C3=D1 =A1=DB=A1=DB=B0=C7<span lang=
+=3D"EN-US"> (3</span>=A5=AA=A5=AA=A5=AA<span lang=3D"EN-US">, 4</span>=A5=
+=AA=A5=AA=A5=AA<span lang=3D"EN-US">, 5</span>=A5=AA=A5=AA=A5=AA<span lang=
+=3D"EN-US">)<span style=3D"color:#1F497D"></span></span></span></p>
+<p class=3D"xxxxxxxxxxxxxxxxxmsonormal"><b><span lang=3D"EN-US" style=3D"fo=
+nt-size:10.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;; color:bl=
+ack">2.
+</span></b><b><span style=3D"font-size:10.0pt; font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;; color:black">=C0=CF=C1=A4 =C7=F9=C0=C7=B0=A1 =B5=C7=
+=BE=EE=BE=DF =B9=DD=BF=B5=B0=A1=B4=C9 =C7=D5=B4=CF=B4=D9<span lang=3D"EN-US=
+">.
+</span>=C7=F9=C0=C7=B5=C7=C1=F6 =BE=CA=C0=B8=B8=E9 =B9=DD=BF=B5=B5=C7=C1=F6=
+ =BE=CA=BD=C0=B4=CF=B4=D9</span></b><b><span lang=3D"EN-US" style=3D"font-s=
+ize:10.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;; color:#1F497=
+D"></span></b></p>
+<p class=3D"xxxxxxxxxxxxxxxxxmsonormal"><b><span lang=3D"EN-US" style=3D"fo=
+nt-size:10.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;; color:#1=
+F497D">&nbsp;</span></b></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"0" style=3D"width:368.0pt; border-collapse:collapse">
+<tbody>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" style=3D"width:94.0pt; border:solid gray 1.0pt; backgroun=
+d:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;; color:black">=C0=CC=C4=C9=BE=EE<span lang=3D"EN-US"></span></span></b><=
+/p>
+</td>
+<td width=3D"365" style=3D"width:274.0pt; border:solid gray 1.0pt; border-l=
+eft:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt"=
+>
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;; color:black">5260</span></p>
+</td>
+</tr>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" style=3D"width:94.0pt; border:solid gray 1.0pt; border-to=
+p:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;; color:black">=C0=CC=C4=C9=BE=EE=B8=ED<span lang=3D"EN-US"></span></span=
+></b></p>
+</td>
+<td width=3D"365" style=3D"width:274.0pt; border-top:none; border-left:none=
+; border-bottom:solid gray 1.0pt; border-right:solid gray 1.0pt; padding:0c=
+m 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;=
+ color:black">=BA=CE=BD=C7=B0=E8=BE=E0=C2=A1=C8=C4 =BB=E7=C0=FC =C5=BD=C1=
+=F6 =BE=C8=B3=BB<span lang=3D"EN-US"></span></span></p>
+</td>
+</tr>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" style=3D"width:94.0pt; border:solid gray 1.0pt; border-to=
+p:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;; color:black">=B4=E3=B4=E7=C0=DA<span lang=3D"EN-US"></span></span></b><=
+/p>
+</td>
+<td width=3D"365" style=3D"width:274.0pt; border-top:none; border-left:none=
+; border-bottom:solid gray 1.0pt; border-right:solid gray 1.0pt; padding:0c=
+m 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;=
+ color:black">=C0=CC=C1=F8<span lang=3D"EN-US"></span></span></p>
+</td>
+</tr>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" style=3D"width:94.0pt; border:solid gray 1.0pt; border-to=
+p:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;; color:black">=B4=E3=B4=E7=BA=CE=BC=AD<span lang=3D"EN-US"></span></span=
+></b></p>
+</td>
+<td width=3D"365" style=3D"width:274.0pt; border-top:none; border-left:none=
+; border-bottom:solid gray 1.0pt; border-right:solid gray 1.0pt; padding:0c=
+m 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;=
+ color:black">=B0=A8=BB=E7=BD=C7 =B0=A8=BB=E7=C6=C4=C6=AE<span lang=3D"EN-U=
+S"></span></span></p>
+</td>
+</tr>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" style=3D"width:94.0pt; border:solid gray 1.0pt; border-to=
+p:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;">=BF=E4=C3=BB=B1=B8=BA=D0<span lang=3D"EN-US"></span></span></b></p>
+</td>
+<td width=3D"365" style=3D"width:274.0pt; border-top:none; border-left:none=
+; border-bottom:solid gray 1.0pt; border-right:solid gray 1.0pt; padding:0c=
+m 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;"=
+>=BD=C5=B1=D4<span lang=3D"EN-US"></span></span></p>
+</td>
+</tr>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" style=3D"width:94.0pt; border:solid gray 1.0pt; border-to=
+p:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;; color:black">=B9=DF=BC=DB=B1=B8=BA=D0<span lang=3D"EN-US"></span></span=
+></b></p>
+</td>
+<td width=3D"365" style=3D"width:274.0pt; border-top:none; border-left:none=
+; border-bottom:solid gray 1.0pt; border-right:solid gray 1.0pt; padding:0c=
+m 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;; color:black">A</span></p>
+</td>
+</tr>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" style=3D"width:94.0pt; border:solid gray 1.0pt; border-to=
+p:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;; color:black">=B9=DF=BC=DB=B8=F1=C0=FB<span lang=3D"EN-US"></span></span=
+></b></p>
+</td>
+<td width=3D"365" style=3D"width:274.0pt; border-top:none; border-left:none=
+; border-bottom:solid gray 1.0pt; border-right:solid gray 1.0pt; padding:0c=
+m 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;=
+ color:black">=BE=F7=B9=AB=B0=FC=B8=AE<span lang=3D"EN-US"></span></span></=
+p>
+</td>
+</tr>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" style=3D"width:94.0pt; border:solid gray 1.0pt; border-to=
+p:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;; color:black">=BC=F6=BD=C5=C0=DA=B1=E2=C1=D8<span lang=3D"EN-US"></span>=
+</span></b></p>
+</td>
+<td width=3D"365" nowrap=3D"" style=3D"width:274.0pt; border-top:none; bord=
+er-left:none; border-bottom:solid gray 1.0pt; border-right:solid gray 1.0pt=
+; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;=
+ color:black">=C0=FC=BC=D3=BF=B5=BE=F7 =C1=F6=C1=A1=C0=E5<span lang=3D"EN-U=
+S">,
+</span>=C1=F6=BF=AA=B4=DC=C0=E5<span lang=3D"EN-US"></span></span></p>
+</td>
+</tr>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" style=3D"width:94.0pt; border:solid gray 1.0pt; border-to=
+p:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;; color:black">=B9=DF=BD=C5=B9=F8=C8=A3=B1=E2=C1=D8<span lang=3D"EN-US"><=
+/span></span></b></p>
+</td>
+<td width=3D"365" style=3D"width:274.0pt; border-top:none; border-left:none=
+; border-bottom:solid gray 1.0pt; border-right:solid gray 1.0pt; padding:0c=
+m 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;; color:black">02-316-8410</span></p>
+</td>
+</tr>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" nowrap=3D"" style=3D"width:94.0pt; border:solid gray 1.0p=
+t; border-top:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; heig=
+ht:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;">=BE=CB=B8=B2=C5=E5=C5=DB=C7=C3=B8=B4=C4=DA=B5=E5<span lang=3D"EN-US"></=
+span></span></b></p>
+</td>
+<td width=3D"365" nowrap=3D"" style=3D"width:274.0pt; border-top:none; bord=
+er-left:none; border-bottom:solid gray 1.0pt; border-right:solid gray 1.0pt=
+; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;">hw_m_talk_0860</span></p>
+</td>
+</tr>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" style=3D"width:94.0pt; border:solid gray 1.0pt; border-to=
+p:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;">=B9=DF=BD=C5=C7=C1=B7=CE=C7=CA=B8=ED<span lang=3D"EN-US"></span></span>=
+</b></p>
+</td>
+<td width=3D"365" style=3D"width:274.0pt; border-top:none; border-left:none=
+; border-bottom:solid gray 1.0pt; border-right:solid gray 1.0pt; padding:0c=
+m 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;=
+ color:black">=C7=D1=C8=AD=BC=D5=C7=D8=BA=B8=C7=E8<span lang=3D"EN-US">_</s=
+pan>=BE=CB=B8=B2=C5=E5<span lang=3D"EN-US"></span></span></p>
+</td>
+</tr>
+<tr style=3D"height:119.6pt">
+<td width=3D"125" style=3D"width:94.0pt; border:solid gray 1.0pt; border-to=
+p:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:119.6pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:9.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;; color:black">=C5=DB =C7=C3 =B8=B4<span lang=3D"EN-US"></span></span></b=
+></p>
+</td>
+<td width=3D"365" valign=3D"top" style=3D"width:274.0pt; border-top:none; b=
+order-left:none; border-bottom:solid gray 1.0pt; border-right:solid gray 1.=
+0pt; padding:0cm 4.95pt 0cm 4.95pt; height:119.6pt">
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:9.0pt; font-=
+family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;; color:black">[</span><span st=
+yle=3D"font-size:9.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;; =
+color:black">=C7=D1=C8=AD=BC=D5=BA=B8<span lang=3D"EN-US">]
+</span>=BA=CE=BD=C7=BF=B5=BE=F7=C2=A1=C8=C4 =C5=BD=C1=F6=BE=CB=B8=B2<span l=
+ang=3D"EN-US"><br>
+<br>
+#{A</span>=C1=F6=C1=A1<span lang=3D"EN-US">} </span>=BA=B8=C7=E8=B7=E1 =B0=
+=A1=BB=F3=B0=E8=C1=C2=C0=D4=B1=DD=B0=C7=BC=F6 =B0=FA=B4=D9=B7=CE<span lang=
+=3D"EN-US"><br>
+</span>=C7=CF=C0=A7<span lang=3D"EN-US"> 30% </span>=C1=F6=C1=A1=BF=A1 =C7=
+=D8=B4=E7=B5=C7=BE=FA=BD=C0=B4=CF=B4=D9<span lang=3D"EN-US">. <br>
+</span>=BA=CE=BD=C7=B0=E8=BE=E0=C0=CC =C0=AF=C0=D4=B5=C7=C1=F6 =BE=CA=B5=B5=
+=B7=CF =C3=B6=C0=FA=C7=D1 =B0=FC=B8=AE =B9=D9=B6=F8=B4=CF=B4=D9<span lang=
+=3D"EN-US">. <br>
+<br>
+</span>=B9=DF=BD=C5=BA=CE=BC=AD<span lang=3D"EN-US"> :&nbsp; </span>=BF=B5=
+=BE=F7=C1=A1=B0=CB=BC=D2=C6=C4=C6=AE<span lang=3D"EN-US"></span></span></p>
+</td>
+</tr>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" nowrap=3D"" style=3D"width:94.0pt; border:solid gray 1.0p=
+t; border-top:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; heig=
+ht:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;">=B0=CB=BC=F6=BF=E4=C3=BB=C0=CF<span lang=3D"EN-US"></span></span></b></=
+p>
+</td>
+<td width=3D"365" nowrap=3D"" style=3D"width:274.0pt; border-top:none; bord=
+er-left:none; border-bottom:solid gray 1.0pt; border-right:solid gray 1.0pt=
+; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span l=
+ang=3D"EN-US" style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;">2026-04-28</span></p>
+</td>
+</tr>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" style=3D"width:94.0pt; border:solid gray 1.0pt; border-to=
+p:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quo=
+t;">=B9=AE=BC=AD=B9=F8=C8=A3<span lang=3D"EN-US"></span></span></b></p>
+</td>
+<td width=3D"365" nowrap=3D"" style=3D"width:274.0pt; border-top:none; bord=
+er-left:none; border-bottom:solid gray 1.0pt; border-right:solid gray 1.0pt=
+; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;"=
+>=BD=C5=C3=BB<span lang=3D"EN-US">-2604-19189</span></span></p>
+</td>
+</tr>
+<tr style=3D"height:14.1pt">
+<td width=3D"125" style=3D"width:94.0pt; border:solid gray 1.0pt; border-to=
+p:none; background:#D9D9D9; padding:0cm 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;"=
+>=BD=C9=BB=E7=B0=E1=B0=FA<span lang=3D"EN-US"></span></span></p>
+</td>
+<td width=3D"365" style=3D"width:274.0pt; border-top:none; border-left:none=
+; border-bottom:solid gray 1.0pt; border-right:solid gray 1.0pt; padding:0c=
+m 4.95pt 0cm 4.95pt; height:14.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:8.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;"=
+>=BD=C2=C0=CE<span lang=3D"EN-US"></span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"xxxxxxxxxxxxxxxxxmsonormal"><b><span lang=3D"EN-US" style=3D"fo=
+nt-size:10.0pt; font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;; color:#1=
+F497D">&nbsp;</span></b></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_44f59beece474740a2eb869fdf9373f9HGIEX03PHGIhanwhacom_--

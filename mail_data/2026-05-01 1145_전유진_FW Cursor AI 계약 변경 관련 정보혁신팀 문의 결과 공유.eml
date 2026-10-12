@@ -1,0 +1,2600 @@
+Received: from HSNC-EX03P.hsnc.hanwha.com (172.20.150.43) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17 via Mailbox Transport; Fri, 1 May 2026 11:45:04 +0900
+Received: from HGI-EX03P.HGI.hanwha.com (172.28.11.43) by
+ HSNC-EX03P.hsnc.hanwha.com (172.20.150.43) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.2.2562.17; Fri, 1 May 2026 11:45:04 +0900
+Received: from HGI-EX03P.HGI.hanwha.com (172.28.11.43) by
+ HGI-EX03P.HGI.hanwha.com (172.28.11.43) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.1.2507.55; Fri, 1 May 2026 11:45:03 +0900
+Received: from HGI-EX03P.HGI.hanwha.com ([fe80::50f:b25c:9887:d8a9]) by
+ HGI-EX03P.HGI.hanwha.com ([fe80::50f:b25c:9887:d8a9%26]) with mapi id
+ 15.01.2507.055; Fri, 1 May 2026 11:45:03 +0900
+From: =?ks_c_5601-1987?B?wPzAr8H4?= <8921246@hanwha.com>
+To: =?ks_c_5601-1987?B?wPzAr8H4IMfRyK29w726xdsvSUNU?= <youjin0404@hanwha.com>
+Subject:
+	=?ks_c_5601-1987?B?Rlc6IEN1cnNvciBBSSCw6L7gILqvsOYgsPy3wyDBpLq4x/W9xcbA?=
+ =?ks_c_5601-1987?B?ILmuwMcgsOGw+iCw+MCv?=
+Thread-Topic:
+	=?ks_c_5601-1987?B?Q3Vyc29yIEFJILDovuAguq+w5iCw/LfDIMGkurjH9b3FxsAgua4=?=
+ =?ks_c_5601-1987?B?wMcgsOGw+iCw+MCv?=
+Thread-Index: AdzXjOyvRtT/fBpkS6Crned/n2bBNgABPFYQACt3J/wANTGhkA==
+Date: Fri, 1 May 2026 11:45:03 +0900
+Message-ID: <b07aa586e0f140608f6eea65f8f9f827@hanwha.com>
+References:
+	<e2400b9a31904304a9e21e4cdaabeba4@hanwha.com>,<61fe09bd422e48c6b010c5b19229205b@hanwha.com>
+ <73c9f2de387e4d94ad8bd7fccfefc098@hanwha.com>
+In-Reply-To: <73c9f2de387e4d94ad8bd7fccfefc098@hanwha.com>
+Accept-Language: ko-KR, en-US
+Content-Language: ko-KR
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: HGI-EX03P.HGI.hanwha.com
+X-MS-Exchange-Organization-ComplianceLabelId:
+	269edd4b-6f1a-456c-b817-d9d46ad5b050
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	6d464c92-48e7-4075-92c2-08dea72ba5b0
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+Content-Type: multipart/alternative;
+	boundary="_000_b07aa586e0f140608f6eea65f8f9f827hanwhacom_"
+MIME-Version: 1.0
+
+--_000_b07aa586e0f140608f6eea65f8f9f827hanwhacom_
+Content-Type: text/plain; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: base64
+
+DQoNCkZyb206IMDMwfi/7CDH0citvcO9usXbL0lDVCA8amlud29vODMwMEBoYW53aGEuY29tPg0K
+U2VudDogVGh1cnNkYXksIEFwcmlsIDMwLCAyMDI2IDEwOjI2IEFNDQpUbzogsO3Hz7b3IMfRyK29
+w726xdsvSUNUIDxqanljb2NvQGhhbndoYS5jb20+OyCw+7y6wLogx9HIrb3DvbrF2y9JQ1QgPHNh
+bDA5MjVAaGFud2hhLmNvbT47ILG5wLHIoyhLb29rIFlvb24gSG8pIMfRyK29w726xdsvSUNUIDxi
+bHVlZXllMTAwNEBoYW53aGEuY29tPjsgsei5zry6IMfRyK29w726xdsvSUNUIDxtc3dvcmxkQGhh
+bndoYS5jb20+OyCx6LzSv/goS2ltIFNvV29uKSDH0citvcO9usXbL0lDVCA8d2lzaDExQGhhbndo
+YS5jb20+OyCx6L7Wv7Ugx9HIrb3DvbrF2y9JQ1QgPGFleW91bmcua2ltQGhhbndoYS5jb20+OyCz
+68jxtvcgx9HIrb3DvbrF2y9JQ1QgPGhlZXJhbUBoYW53aGEuY29tPjsgudq067/4IMfRyK29w726
+xdsvSUNUIDxkYWV3b24wN0BoYW53aGEuY29tPjsgudrB2Lz4IMfRyK29w726xdsvSUNUIDxxa3J3
+bnN0bnM1MkBoYW53aGEuY29tPjsgvNu5zrHUKFNvbmcgTWlua3l1KSDH0citvcO9usXbL0lDVCA8
+c3Rvbnk5OUBoYW53aGEuY29tPjsgvNvH/bDmIMfRyK29w726xdsvSUNUIDxoZ3Nvbmc5QGhhbndo
+YS5jb20+OyDAr8Dnw7Ygx9HIrb3DvbrF2y9JQ1QgPGpjeTIxNjdAaGFud2hhLmNvbT47IMDMsKHA
+uiDH0citvcO9usXbL0lDVCA8Z3JhY2U5MTVAaGFud2hhLmNvbT47IMDMu/PH+ShMRUUgU0FORyBI
+WVVQKSDH0citvcO9usXbL0lDVCA8a3l1bHlhZ3UyQGhhbndoYS5jb20+OyDAzLz2v7kgx9HIrb3D
+vbrF2y9JQ1QgPHNvb3llN0BoYW53aGEuY29tPjsgwMy89sC6IMfRyK29w726xdsvSUNUIDxsZWVo
+ZzBAaGFud2hhLmNvbT47IMDMwaS5ziDH0citvcO9usXbL0lDVCA8d2pkYWxzc2t0QGhhbndoYS5j
+b20+OyDAzMGkyMYoTGVlIEp1bmcgSG9vbikgx9HIrb3DvbrF2y9JQ1QgPGxlZWpoMjZAaGFud2hh
+LmNvbT47IMDMwfi/7CDH0citvcO9usXbL0lDVCA8amlud29vODMwMEBoYW53aGEuY29tPjsgwMzH
+2L/4IMfRyK29w726xdsvSUNUIDxoYWV3b24yMkBoYW53aGEuY29tPjsgwMzH9sDaKExlZSBIeXVu
+amEpIMfRyK29w726xdsvSUNUIDxjdXR5dG9yeTIyQGhhbndoYS5jb20+OyDA07q0sbkgx9HIrb3D
+vbrF2y9JQ1QgPGR1c3RpbjE0NUBoYW53aGEuY29tPjsgwNO81rnMIMfRyK29w726xdsvSUNUIDxz
+b2xtaWxpbUBoYW53aGEuY29tPjsgwNPDpL+sKExpbSBDaGFleWV1bikgx9HIrb3DvbrF2y9JQ1Qg
+PDIwMDJjb2R1c0BoYW53aGEuY29tPjsgwOXAr8C6IMfRyK29w726xdsvSUNUIDx5ZWphbmdAaGFu
+d2hhLmNvbT47IMD8wK/B+CDH0citvcO9usXbL0lDVCA8eW91amluMDQwNEBoYW53aGEuY29tPjsg
+w9bB38jxIMfRyK29w726xdsvSUNUIDxqaGVlY2hvaUBoYW53aGEuY29tPjsgxcK1v8DPKFRhZSBE
+b25naWwpIMfRyK29w726xdsvSUNUIDx0ZGkyMDAwQGhhbndoYS5jb20+OyDIsry6v6wgx9HIrb3D
+vbrF2y9JQ1QgPGh3YW5nc3lAaGFud2hhLmNvbT47IMiyx/24siDH0citvcO9usXbL0lDVCA8aGh5
+ZXJpbUBoYW53aGEuY29tPjsgSVTDpLPOMsbAU00vx9HIrbzVx9i6uMfoIDxkZXB0MjAxMDMwMDQ4
+NjQ4QGhhbndoYS5jb20+OyCw7cfPtvcgPDYwMDg5MDdAaGFud2hhLmNvbT47ILD7vLrAuiA8NjAy
+MDQ3MUBoYW53aGEuY29tPjsgsbnAscijKEtvb2sgWW9vbiBIbykgPGJsdWVleWVAaGFud2hhLmNv
+bT47ILHouc68uihNaW5TZW9uZyBLaW0pIDw4OTE5MzgxQGhhbndoYS5jb20+OyCx6LzSv/ggPDYw
+MTk3OTZAaGFud2hhLmNvbT47ILHovta/tSA8NjAwMzI0NUBoYW53aGEuY29tPjsgs+vI8bb3IDw2
+MDEyNTk1QGhhbndoYS5jb20+OyC52rTrv/ggPDYwMTgzOTBAaGFud2hhLmNvbT47ILnawdi8+Chw
+YXJrIGp1biBzdW4pIDw2MDA4ODU3QGhhbndoYS5jb20+OyC827nOsdQoU29uZyBNaW4gS3l1KSA8
+c3RvbnkyMDBAaGFud2hhLmNvbT47ILzbx/2w5iA8NjAxODM5MUBoYW53aGEuY29tPjsgwK/A58O2
+IDw4OTIxMjQyQGhhbndoYS5jb20+OyDAzLChwLogPDYwMTQxMjdAaGFud2hhLmNvbT47IMDMu/PH
++ShMRUUgU0FORyBIWVVQKSA8c2FuZ2h5dXAubGVlQGhhbndoYS5jb20+OyDAzLz2v7kgPDYwMTI2
+MTlAaGFud2hhLmNvbT47IMDMvPbAuiA8NjAwOTk2MEBoYW53aGEuY29tPjsgwMzBpLnOIDw2MDE0
+MTI2QGhhbndoYS5jb20+OyDAzMGkyMYoTGVlIEp1bmcgSG9vbikgPDg5MTg4MDNAaGFud2hhLmNv
+bT47IMDMwfi/7CA8NjAxNDU1NUBoYW53aGEuY29tPjsgwMzH2L/4KExlZSBIYWUgV29uKSA8ODky
+Mjg0OUBoYW53aGEuY29tPjsgwMzH9sDaKExlZSBIeXVuamEpIDw4MDcwMDM0QGhhbndoYS5jb20+
+OyDA07q0sbkgPDYwMDg4NDRAaGFud2hhLmNvbT47IMDTvNa5zCA8ODkxODEwM0BoYW53aGEuY29t
+PjsgwNPDpL+sKGxpbWNoYWV5ZXVuKSA8ODkxMjk2MUBoYW53aGEuY29tPjsgwOXAr8C6IDw4OTIx
+NTQ2QGhhbndoYS5jb20+OyDA/MCvwfggPDg5MjEyNDZAaGFud2hhLmNvbT47IMPWwd/I8SA8NjAx
+NDI4MUBoYW53aGEuY29tPjsgxcK1v8DPKFRBRSBET05HIElMKSA8ODkxMjI2M0BoYW53aGEuY29t
+PjsgyLK8ur+sIDw2MDEwNDczQGhhbndoYS5jb20+OyDIssf9uLIgPDYwMDgxMjJAaGFud2hhLmNv
+bT4NClN1YmplY3Q6IEZXOiBDdXJzb3IgQUkgsOi+4CC6r7DmILD8t8MgwaS6uMf1vcXGwCC5rsDH
+ILDhsPogsPjArw0KDQoNCr7Is+fHz7y8v+QuDQoNCkFYIMCvtNYgwMzB+L/sIMfBt87A1LTPtNku
+DQoNCg0KDQoNCg0KursgwMy43sDPwLoNCg0KQUkgVG9vbCDB3yBDdXJzb3Igu+e/68Dav6EgtOvH
+0SDAzLjewM8gwNS0z7TZLg0KDQrH9sDnIEN1cnNvciC757/rwNogutDAuiDA+r+hsNQgW7/svLEg
+ud+x3sDaILTru/PA2l0guN7Az8DMIL/UtMLB9iwNClvIxLz4wKcgud+x3sDaILTru/PA2l0guN7A
+z8DMIL/UtMLB9iCws8DOwPvAuLfOILjevcXA+iDB1r3DuOkgsKi757XluK6w2r3AtM+02S4NCg0K
+sKi758fVtM+02S4NCg0KwMzB+L/sILXluLIuDQpfX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fXw0KurizvSC757b3OiDAzMHYv+sNCrq4s70gs6/CpTogMjAyNrPiIDS/+SAyOcDPILz2v+TA
+zyC/wMjEIDE6MzgNCrnetMIgu+e29zogv8C8vLnOKFNFTUlOIE9IKSDH0citvcO9usXbL0lDVDsg
+wMy80sH4IMfRyK29w726xdsvSUNUOyCx6Mi/uc4oSFlPTUlOIEtJTSkgx9HIrb3DvbrF2y9JQ1Q7
+IMDMwfi/7CDH0citvcO9usXbL0lDVA0KwvzBtjogsejIq8HWKEtpbSBIb25nIEpvbykgx9HIrb3D
+vbrF2y9JQ1QNCsGmuPE6IFJFOiBDdXJzb3IgQUkgsOi+4CC6r7DmILD8t8MgwaS6uMf1vcXGwCC5
+rsDHILDhsPogsPjArw0KDQoNCr7Is+fHz7y8v+QuDQoNCkFYIMCvtNYgwMzB2L/rIMfBt87A1LTP
+tNkuDQoNCg0KDQpDdXJzb3IgQUkgsPy3w8fPv6kgwaS6uMf1vcXGwL+hvK0gw9+woSC+97WlwMzG
+riDH2MHYILO7v+sgsPjAryC15biztM+02S4NCg0KDQoNCjEuILjewM+/oSC6u8DOwMwgv+y8sSC5
+37HeILTru/PA2iC287DtIMD7x/TA1rTZuOkgsde067fOIEN1cnNvciC757/rLiA1LzYovPYpILrO
+xc0gu+e/6yCwobTJDQoNCjIuILjewM+/oSC6u8DOwMwgyMS8+MCnILnfsd4gtOu788DaILbzsO0g
+wPvH9MDWtNm46SA1LzYovPYpIL+htbUgu+e/6yC60rChLiC0ysC4uOkgNr/5IMPKIEN1cnNvciC7
+57/rILChtMnH0iC/ucGkLg0KDQq+8MGmus7FzSC757/rILChtMnH0sH2IL7LILz2IL74wLi5x7fO
+ILHex8+02bjpIMWst7m59r26IMD8wNqw4cDnIMXrx9ggQ29waWxvdCC9xcO7ILChtMkuDQoNCjMu
+ICi43sDPILO7v+u/oSBDbGF1ZGUgsPy3w8fPv6kpIMi4u+e/obytIDW/+SDB38C4t84gQ2xhdWRl
+LCBPcGVuIEFJIL/NwMcgsOi+4MC7IMHYuvHHz7DtIMDWwL0uDQoNCsPfyMQgQ2xhdWRlLCBPcGVu
+IEFJIL/NwMcgsOi+4MDMIL/Pt+G1x7DtILOquOkgxay3ubn2vbogwPzA2rDhwOe/oSAzufjCsCDE
+2rX5xfi3ziBDbGF1ZGUgQ29kZSwgNLn4wrAgxNq1+cX4t84gQ29kZXggvcXDuyCwobTJLg0KDQqx
+17anIMjxuMHA2rXpwLogwPzA2rDhwOcgvcXDu8fPv6kgQ2xhdWRlIENvZGUgudcgQ29kZXggt84g
+sKW+xiDFuyC89iDA1sC9LiC058DlIL3FsOYgvrUgx8q/5CBYLg0KDQoNCg0KsKi758fVtM+02S4N
+Cg0KwMzB2L/rILXluLIuDQoNCg0KDQpGcm9tOiDAzMHYv+sNClNlbnQ6IFdlZG5lc2RheSwgQXBy
+aWwgMjksIDIwMjYgMTowMyBQTQ0KVG86IL/AvLy5zihTRU1JTiBPSCkgx9HIrb3DvbrF2y9JQ1Qg
+PGFydHNtMUBoYW53aGEuY29tPG1haWx0bzphcnRzbTFAaGFud2hhLmNvbT4+OyDAzLzSwfggx9HI
+rb3DvbrF2y9JQ1QgPHp0YXlhOTVAaGFud2hhLmNvbTxtYWlsdG86enRheWE5NUBoYW53aGEuY29t
+Pj47ILHoyL+5zihIWU9NSU4gS0lNKSDH0citvcO9usXbL0lDVCA8aHlvbWluOTExQGhhbndoYS5j
+b208bWFpbHRvOmh5b21pbjkxMUBoYW53aGEuY29tPj47IMDMwfi/7CDH0citvcO9usXbL0lDVCA8
+amlud29vODMwMEBoYW53aGEuY29tPG1haWx0bzpqaW53b284MzAwQGhhbndoYS5jb20+Pg0KQ2M6
+ILHoyKvB1ihLaW0gSG9uZyBKb28pIMfRyK29w726xdsvSUNUIDxraGpnYXRlQGhhbndoYS5jb208
+bWFpbHRvOmtoamdhdGVAaGFud2hhLmNvbT4+DQpTdWJqZWN0OiBDdXJzb3IgQUkgsOi+4CC6r7Dm
+ILD8t8MgwaS6uMf1vcXGwCC5rsDHILDhsPogsPjArw0KDQoNCg0Kvsiz58fPvLy/5C4NCg0KQVgg
+wK+01iDAzMHYv+sgx8G3zsDUtM+02S4NCg0KDQoNCkN1cnNvciBBSSCw/LfDx8+/qSDBpLq4x/W9
+xcbAv6Egua7AxyDIxCDA/LTeud7AuiCzu7/rILD4wK8gteW4s7TPtNkuDQoNCg0KDQoxLiC43sDP
+v6EgurvAzsDMIL/svLEgud+x3iC067vzwNogtvOw7SDA+8f0wNa02bjpILHXtOu3ziBDdXJzb3Ig
+u+e/6y4gNS82KLz2KSC6zsXNILvnv+sgsKG0yQ0KDQoyLiC43sDPv6EgurvAzsDMIMjEvPjApyC5
+37HeILTru/PA2iC287DtIMD7x/TA1rTZuOkgNS82KLz2KSC/obW1ILvnv+sgutKwoS4gNb/5ILO7
+v6G0wiBDdXJzb3Igu+e/6yCwobTJx9Igv7nBpC4NCg0KtNwgvvDBprrOxc0gu+e/6yCwobTJx9LB
+9iC+yyC89iC++MC4uce3ziCx3sfPtNm46SDFrLe5ufa9uiDA/MDasOHA5yDF68fYIENvcGlsb3Qg
+vcXDuyCwobTJLg0KDQozLiAouN7AzyCzu7/rv6EgQ2xhdWRlILD8t8PHz7+pKSDIuLvnv6G8rSA1
+v/kgwd/AuLfOIENsYXVkZSC/zcDHILDovuDAuyDB2Lrxx8+w7SDA1sC9Lg0KDQrD38jEIENsYXVk
+Zb/NwMcgsOi+4MDMIL/Pt+G1x7DtILOquOkgxay3ubn2vbogwPzA2rDhwOe/oSAzufjCsCDE2rX5
+xfi3ziC9xcO7ILChtMkuILHXtqcgyPG4wcDatenAuiDA/MDasOHA5yC9xcO7x8+/qSBDbGF1ZGW3
+ziCwpb7GIMW7ILz2IMDWwL0uILTnwOUgvcWw5iC+tSDHyr/kIFguDQoNCg0KDQrA+sjxILzVurhJ
+VE8xxsC/obyttMIgyMS8+MCnILnfsd4gtOu788DatekgQ29waWxvdCDAuLfOIMD8yK8gvcXDuyC/
+ucGkwNS0z7TZLg0KDQrC/LDtILrOxbm15biztM+02S4NCg0KDQoNCrCou+fH1bTPtNkuDQoNCsDM
+wdi/6yC15biyLg0KDQoNCg0KDQoNCg0KDQpfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+Xw0KDQq6uLO9ILvntvc6IMDMuO3H9ihMZWVNeXVuZ0h5dW4pIMfRyK29w726xdsvSUNUDQq6uLO9
+ILOvwqU6IDIwMjaz4iA0v/kgMjnAzyC89r/kwM8gv8DA/CA4OjU3OjAwIChVVEMrMDk6MDApILyt
+v+8NCrnetMIgu+e29zogyKvAusH4KPvz69ry2CkoRXVuamluIEhvbmcpIMfRyK29w726xdsvSUNU
+OyDHz7z2uc4gx9HIrb3DvbrF2y9JQ1Q7IMDMwdi/6yDH0citvcO9usXbL0lDVDsgt/m/tcfPKFJ5
+dSBZb3VuZ0hhKSDH0citvcO9usXbL0lDVDsgwNO6tMHWKExpbUJ5ZW9uZ2pvbykgx9HIrb3DvbrF
+2y9JQ1Q7IL3Fx/bBvihTaGluIEh5dW4gSm9uZykgx9HIrb3DvbrF2y9JQ1Q7ILG4tb/I8ShEb25n
+SHVpIEtvbykgx9HIrb3DvbrF2y9JQ1Q7ILnayMYoUGFyayBIb29uKSDH0citvcO9usXbL0lDVDsg
+udrBpMitKEplb25naHdhIFBhcmspIMfRyK29w726xdsvSUNUOyC52sf2sdQoUGFyayBIeWVvbkd5
+dSkgx9HIrb3DvbrF2y9JQ1Q7IMDMwOfH9ShMZWUgSmFlIEh5dWspIMfRyK29w726xdsvSUNUOyDA
+zLDmwOcoTGVlIEt5dW5nSmFlKSDH0citvcO9usXbL0lDVDsgw9bB9sC6KENIT0kgSklFVU4pIMfR
+yK29w726xdsvSUNUOyCx6LW/x/Ygx9HIrb3DvbrF2y9JQ1Q7IMG2x/XB2ChIeXVranVuIENobykg
+x9HIrb3DvbrF2y9JQ1Q7IMGkvNK28yhKdW5nIFNvUmEpIMfRyK29w726xdsvSUNUOyDD1sGkyKMo
+SmVvbmcgSG8gQ2hvaSkgx9HIrb3DvbrF2y9JQ1Q7ILHovLrAuiDH0citvcO9usXbL0lDVDsgwNPH
+9sH4IMfRyK29w726xdsvSUNUOyDAr8f8tbUgx9HIrb3DvbrF2y9JQ1Q7IL7nsbnH9ihZYW5nIEd1
+a2h5ZW9uKSDH0citvcO9usXbL0lDVDsgsejAusG+KEtpbUV1bkpvbmcpIMfRyK29w726xdsvSUNU
+OyC52rz2v6wgx9HIrb3DvbrF2y9JQ1Q7IMDMwfbH0CDH0citvcO9usXbL0lDVDsgudrBpLrzKEpl
+b25nYmluIFBhcmspIMfRyK29w726xdsvSUNUOyC+58C6vPYoWWFuZyBFdW4tU29vKSDH0citvcO9
+usXbL0lDVDsgwK/BpLz3IMfRyK29w726xdsvSUNUOyC+yLGkwfcoQW4gR3dhbmdqaWspIMfRyK29
+w726xdsvSUNUOyCwrbnOv7Ugx9HIrb3DvbrF2y9JQ1Q7IMfUv7W9xCDH0citvcO9usXbL0lDVDsg
+wMzDpMf2IMfRyK29w726xdsvSUNUOyDH0cijwaQgx9HIrb3DvbrF2y9JQ1Q7ILHotb+8riDH0cit
+vcO9usXbL0lDVDsgsejDorHUIMfRyK29w726xdsvSUNUOyCx6MHYv7Ugx9HIrb3DvbrF2y9JQ1Q7
+ILHotbWwxyhLaW1kb2d1bikgx9HIrb3DvbrF2y9JQ1Q7IL7nx/a9wihIeXVuc2V1bmcgWWFuZykg
+x9HIrb3DvbrF2y9JQ1Q7IMGkx/a/tSDH0citvcO9usXbL0lDVDsgwMzH0by6IMfRyK29w726xdsv
+SUNUOyCx6LOrseIgx9HIrb3DvbrF2y9JQ1Q7IMDMwOe/tShMZWUgSmFleW91bmcpIMfRyK29w726
+xdsvSUNUOyCx6Mf9wfgoSHllamluIEtpbSkgx9HIrb3DvbrF2y9JQ1Q7ILHow+bI8SDH0citvcO9
+usXbL0lDVDsgx9G787/sIMfRyK29w726xdsvSUNUOyCx6MDnyKsgx9HIrb3DvbrF2y9JQ1Q7ILHH
+vcLB1iDH0citvcO9usXbL0lDVDsgsei7+cC6KEtpbSBTYWVtRXVuKSDH0citvcO9usXbL0lDVDsg
+vK3B9sf9IMfRyK29w726xdsvSUNUOyDBtr3CyKMoU2V1bmdobyBKbykgx9HIrb3DvbrF2y9JQ1Q7
+ILnpwOfH9iDH0citvcO9usXbL0lDVDsgwPy787i4KFNBTkdNQU4gSkVPTikgx9HIrb3DvbrF2y9J
+Q1Q7ILHowfa/uSDH0citvcO9usXbL0lDVDsgyLK9wsivKEh3YW5nIHNldW5nSHdhbikgx9HIrb3D
+vbrF2y9JQ1Q7ILHov+vI1iDH0citvcO9usXbL0lDVDsgwMyxpL/AIMfRyK29w726xdsvSUNUOyC8
+rbnOKFNFTyBNSUhOKSDH0citvcO9usXbL0lDVDsgwMy9wr/sKExlZVNldW5nV29vKSDH0citvcO9
+usXbL0lDVDsgx9HB9sf2IMfRyK29w726xdsvSUNUOyDAzL/svcIgx9HIrb3DvbrF2y9JQ1Q7ILHo
+wK+29SDH0citvcO9usXbL0lDVDsgsei80sjxIMfRyK29w726xdsvSUNUOyDAzL+swfYgx9HIrb3D
+vbrF2y9JQ1Q7ILHowaTIxihGQ00zxsApKEp1bmdob29uIEtpbSkgx9HIrb3DvbrF2y9JQ1Q7IMDM
+vNLB+CDH0citvcO9usXbL0lDVDsgwaS9wsf9IMfRyK29w726xdsvSUNUOyDFwrW/wM8oVGFlIERv
+bmdpbCkgx9HIrb3DvbrF2y9JQ1Q7IMfPwLrH/SDH0citvcO9usXbL0lDVDsgw9awob/CKENob2kg
+R2Fvbikgx9HIrb3DvbrF2y9JQ1Q7IMDMwLrB9ihMRUUgRVVOIEpJKSDH0citvcO9usXbL0lDVDsg
+waTBvsjGIMfRyK29w726xdsvSUNUOyC80sGkyK8oSmVvbmdod2FuIFNvKSDH0citvcO9usXbL0lD
+VDsgv8DDpL+1IMfRyK29w726xdsvSUNUOyDAzLz2uvMgx9HIrb3DvbrF2y9JQ1Q7IMGkwfa/+F9J
+Q1Qgx9HIrb3DvbrF2y9JQ1Q7ILHow+bI8SDH0citvcO9usXbL0lDVDsgsei7+cC6KEtpbSBTYWVt
+RXVuKSDH0citvcO9usXbL0lDVDsgwOW09sH4KERlb2tqaW4gSmFuZykgx9HIrb3DvbrF2y9JQ1Q7
+IMDMtbXH9ihMZWUgRG9IeXVuKSDH0citvcO9usXbL0lDVDsgx9HBpMDnKEp1bmdKYWUgSGFuKSDH
+0citvcO9usXbL0lDVDsgsei1v7/sKERvbmd3b28gS2ltKSDH0citvcO9usXbL0lDVDsgsejBvsO2
+KEtJTSBKT05HQ0hFT0wpIMfRyK29w726xdsvSUNUOyDBtr/swdYod29vanVjaG8pIMfRyK29w726
+xdsvSUNUOyDAr73CufwoWW9vIHNldW5nYnVtKSDH0citvcO9usXbL0lDVDsgsejH9sO2IMfRyK29
+w726xdsvSUNUOyDD1sjGvK4gx9HIrb3DvbrF2y9JQ1Q7ILzbx/zB+CDH0citvcO9usXbL0lDVDsg
+sei1zr+sKEtJTSBET09ZT1VOKSDH0citvcO9usXbL0lDVDsgwPzB+MivKEpFT04gSklOSFdBTikg
+x9HIrb3DvbrF2y9JQ1Q7IMGkuenIoyDH0citvcO9usXbL0lDVDsgvsjH/biyKEh5ZXJpbSBBaG4p
+IMfRyK29w726xdsvSUNUOyC+yMCxwfYo5MzryvKkKShZT09OSkkgQU4pIMfRyK29w726xdsvSUNU
+OyDBpMG+yPEgx9HIrb3DvbrF2y9JQ1Q7ILCtuawoS2FuZyBNb29rKSDH0citvcO9usXbL0lDVDsg
+wbbH9r/tKEh5dW53b29rIENobykgx9HIrb3DvbrF2y9JQ1Q7IL7IwdjHzyhBaG4gSnVuaGEpIMfR
+yK29w726xdsvSUNUOyDB1rnOvcQoTWluc2lrIEpvbykgx9HIrb3DvbrF2y9JQ1Q7ILHosObBpihL
+WUVPTkdKRSBLSU0pIMfRyK29w726xdsvSUNUOyDA/LnOyKMgx9HIrb3DvbrF2y9JQ1Q7IMDMtOvH
+9ihEYWVoeXVuIExlZSkgx9HIrb3DvbrF2y9JQ1Q7IL/AvLy5zihTRU1JTiBPSCkgx9HIrb3DvbrF
+2y9JQ1Q7IMGkufy/6yDH0citvcO9usXbL0lDVDsgwMy788CxIMfRyK29w726xdsvSUNUOyDA/L/s
+x/wgx9HIrb3DvbrF2y9JQ1Q7ILDtwK+5zChLbyB5b28gbWkpIMfRyK29w726xdsvSUNUOyCwrcij
+wfgoS2FuZyBIb2ppbikgx9HIrb3DvbrF2y9JQ1Q7IMG2x/3BpChDaG8gSHllanVuZykgx9HIrb3D
+vbrF2y9JQ1Q7ILnowfbH9iDH0citvcO9usXbL0lDVDsgsei9wr7GKEtpbSBTZXVuZy1haCkgx9HI
+rb3DvbrF2y9JQ1Q7IMDMv7nB+CDH0citvcO9usXbL0lDVDsgsejIv7nOKEh5b01pbiBLaW0pIMfR
+yK29w726xdsvSUNUOyDA5cDOxcIoSmFuZyBJbnRhZSkgx9HIrb3DvbrF2y9JQ1Q7ILHotbW68yhE
+b2JpbiBLaW0pIMfRyK29w726xdsvSUNUOyC8rcH2x/0gx9HIrb3DvbrF2y9JQ1Q7IMDlwOe/rChK
+YWV5ZW9uIEphbmcpIMfRyK29w726xdsvSUNUOyDH48DOsOYgx9HIrb3DvbrF2y9JQ1Q7ILzVuc7H
+9ShNaW5oeWVvayBTb24pIMfRyK29w726xdsvSUNUOyC52sDnv+0gx9HIrb3DvbrF2y9JQ1Q7IMGk
+v+vIrSDH0citvcO9usXbL0lDVDsgsejDpL/4IMfRyK29w726xdsvSUNUOyC80rq0yPEgx9HIrb3D
+vbrF2y9JQ1Q7ILnavNK/tSDH0citvcO9usXbL0lDVDsgwMzI8b/4IMfRyK29w726xdsvSUNUOyDI
+srvzvcQoU0FOR1NJSyBIV0FORykgx9HIrb3DvbrF2y9JQ1Q7ILHowLrBpChLaW0gRXVuanVuZykg
+x9HIrb3DvbrF2y9JQ1Q7IMDMtb/AzihMRUUgRE9OR0lOKSDH0citvcO9usXbL0lDVDsgwbbH9r/s
+IMfRyK29w726xdsvSUNUOyDFuby8v7Ugx9HIrb3DvbrF2y9JQ1Q7ILOqx/bB2ChIWVVOSlVOIE5B
+KSDH0citvcO9usXbL0lDVDsgsO26tMjEIMfRyK29w726xdsvSUNUOyCx6MXCx/woS2ltIFRhZWh5
+ZW9uZykgx9HIrb3DvbrF2y9JQ1Q7IMHWv7nB+CDH0citvcO9usXbL0lDVDsgw6S/z7HiIMfRyK29
+w726xdsvSUNUOyCx6Mf2v+wgx9HIrb3DvbrF2y9JQ1Q7ILf5yK22+yDH0citvcO9usXbL0lDVDsg
+wMy/+MjxKExlZSBXb25odWkpIMfRyK29w726xdsvSUNUOyCxx7TZwM4gx9HIrb3DvbrF2y9JQ1Q7
+IMirvLrH9ihIb25nU2VvbmdoeWVvbikgx9HIrb3DvbrF2y9JQ1Q7ILHowfbH9iDH0citvcO9usXb
+L0lDVDsgw9bBprz2KENob2kgSmVTb28pIMfRyK29w726xdsvSUNUOyDAzLOqv6wgx9HIrb3DvbrF
+2y9JQ1Q7IMCxseLIrSDH0citvcO9usXbL0lDVDsgvNXBpL/4IMfRyK29w726xdsvSUNUOyC/ucfY
+wdYgx9HIrb3DvbrF2y9JQ1Q7IMGksc3B2ChHV0lKVU4gSlVORykgx9HIrb3DvbrF2y9JQ1Q7ILCt
+wfi/7CDH0citvcO9usXbL0lDVDsgwMzB9rz2IMfRyK29w726xdsvSUNUOyCx6L+1wvcoeW91bmdj
+aGEga2ltKSDH0citvcO9usXbL0lDVDsgwLG89riyIMfRyK29w726xdsvSUNUOyDAzMfRvLogx9HI
+rb3DvbrF2y9JQ1Q7IMPWwLIgx9HIrb3DvbrF2y9JQ1QNCsL8wbY6ILnau/O/7ChQYXJrLXNhbmd3
+b28pIMfRyK29w726xdsvSUNUOyC8rb+5wfYgx9HIrb3DvbrF2y9JQ1Q7IMCxwdi8uihZdW4gSnVu
+c2VvbmcpIMfRyK29w726xdsvSUNUDQrBprjxOiAowd+/5CkgQ3Vyc29yIEFJILDovuAguq+w5r+h
+ILX7uKUgtvPAzLyxvbogwOe56MShIL7Is7sNCg0KursguN7Az8C6IE0zNjUgRVhPKEV4Y2hhbmdl
+IE9ubGluZSkgyK+w5r+hvK0gud+827XHvvq9wLTPtNkuDQoNCrjewM8gyLi9xSCw+sGkv6G8rSC/
+wLf5sKEgud+7/cfSILDmv+wsIL7Gt6EgwP3C97+hILX7tvMgwbbEoSDIxCDA57nfvNvH2CDB1r3D
+seIgudm2+LTPtNkuDQoNCk91dGxvb2sgxsTAzyCh5iC/ybzHIKHmILjewM8goeYguN69w8H2ILq4
+s7ux4iCh5iDA2rW/v8+8uiC48bfPILrxv+yx4iA6ILChwMy15SC787y8ILnZt86wobHiIChWaWV3
+IERldGFpbGVkIEd1aWRlKTxodHRwczovL2hhbndoYS5jbGV2ZXJzZS5rci9PdXRsb29rQXV0b0Nv
+bXBsZXRpb25EZWxldGVHdWlkZS5odG1sPg0KDQoNCg0KDQq+yLPnx8+8vL/kLg0KDQrBpLq4x/W9
+xcbAIMDMuO3H9sDUtM+02S4NCg0KDQoNCkN1cnNvciBBSSCw6L7gILqvsOYoVGVhbSBQbGFuID0+
+IEVudGVycHJpc2UgUGxhbinAuLfOIMDOx9ggtvPAzLyxvbogwOe56MShIL7Is7sgteW4s7TPtNku
+DQrH2LTnILjewM/AuyC89r3Fx8+9xSC60LXpwMcgsOa/7CC/7LyxILnfsd4gtOu788Dat84gud+x
+3rXGtPggVGVhbSBQbGFuILbzwMy8sb26sKEgMDQvMzAouPEpIDIyvcO/oSDIuLz2tce45yAwNS8w
+Nii89im/oSC8+ML3wPvAuLfOILbzwMy8sb26sKEgud+x3rXJIL+5waTA1LTPtNkuDQoNCg0KDQqh
+2qHaodogwNPAx7fOILTZuKUgu+e/68DaIMPKtOu4piDHz7DFs6ogtvPAzLyxvbq4piDA08DHt84g
+vue1tcfPvccgsOa/7CC80rzTIMbAIMikwLogsLPAzr+hsNQgtvPAzLyxvboguvG/68DMILqwtbUg
+w7uxuLXJILz2IMDWwLi0zyCywCDB1sDHILrOxbm15biztM+02S4godqh2qHaDQoNCg0KDQojILO7
+v+sNCg0KMS4gICAgILDovuAguq+w5iC56LDmDQoNCi0gICAgICAgx/bA5yDBpMOlwMcgsOa/7CC5
+zLvnv+sgtvPAzLyxvbogsPy4rrChILrSsKG0yQ0Ku+e/68DaILHiwdjAuLfOIL+ssKMgsOi+4LXI
+ILG4wba3ziDAzsfYIDHIuLi4ILvnv+vHz7T1tvO1tSC/rLCjILrxv+vAzCDDu7G4tcew7SDA1r7u
+ILDowaQgyLi89iC51yCw/LiusKEgutKwoQ0KDQotICAgICAgIENyZWRpdHPAzCC68ci/wLLA+8C4
+t84gu+e/67XHsO0gwNa+7iCws7yxIMfKv+QNCrbzwMy8sb26ILvnv+vA2sDHIDQxJbChIMfStOe1
+yCDAr7fhILvnv+u3rsDHIDEwJbW1ILvnv+vHz7DtIMDWwfYgvsrAuLjnIENvcmUgu+e/68DawMcg
+NzUlsKEgMsHWIL7Iv6Egx9K057XIIENyZWRpdHPAuyC48LXOILzSuPDHz7DtIMDWwL0uDQqws8DO
+ILHiwdggxeTFqyCw/Liuv6G8rSDIuLvnIMD8w7wgxeTFqyCw/Liut84gwPzIr8DMIMfKv+TH1C4N
+Cg0KLSAgICAgICDH9sfgIFBsYW7AuLfOtMIgtvPAzLyxvboguq+1vyDAzLfCIMG2yLggutKwobTJ
+DQoNCsf2wOcgu+e/68fPsO0gwNa0wiBUZWFtIFBsYW6/obyttMIgtvPAzLyxvboguq+1vyDAzLfC
+KEF1ZGl0IExvZym4piDBprD4x8/B9iC+yr7GIMSnx9ggu+ew7SC537v9wMyzqiC68cDOsKEgu+e/
+68DasKEgsKHA1MffwLsgtqcgsOa3ziDD38D7wMwguMW/7CC+7rfBv/INCg0KDQoNCjIuICAgICDA
+z8GkDQoNCi0gICAgICAgVGVhbSBQbGFuILbzwMy8sb26ILDovuAgwb634SA6IH4wNC8zMCix3SkN
+Cg0KLSAgICAgICBFbnRlcnByaXNlILDovuAgvcPA2yA6IDA1LzAxKMXkKQ0KDQotICAgICAgIEVu
+dGVycHJpc2UgyK+w5iCxuMPgIDogMDUvMDQov/kpDQoNCi0gICAgICAgv+y8sSC537HeILTru/PA
+2iC288DMvLG9uiC537HeIDogMDUvMDYovPYpDQoNCi0gICAgICAgyMS8+MCnILnfsd4gtOu788Da
+ILnfsd4gOiAwNb/5IPHpDQqh2CDD37ChIEFJIENvZGluZyBBZ2VudChleC4gQ2xhdWRlIENvZGUp
+uKYgNb/5IMHfv6Egud+x3iC/ucGkDQoNCjMuICAgICC/7LyxILnfsd4gtOu78w0KDQotICAgICAg
+ILTru/MgOiAxNTC47Q0KDQotICAgICAgILyxurAgseLB2CA6IDA0v/kgwK+34SC757/rt64gu/PA
+pyAxNTC47SjH47/rtcfB9iC+ysC6ILDmt87AxyC5q7TcILvnv+vA2rTCIMGmv9wpDQoNCg0KDQo0
+LiAgICAgyMS8+MCnILnfsd4gtOu78w0KDQotICAgICAgILTru/MgOiAyMDm47Q0KDQotICAgICAg
+ILyxurAgseLB2CA6IMD8w7wgu+e/68DaIPHpIL/svLEgud+x3iC067vzwNq4piDBpr/cx9EgwM6/
++CjH47/rtcfB9iC+ysC6ILDmt87AxyC5q7TcILvnv+vA2rTCIMGmv9wpDQoNCi0gICAgICAgQ3Vy
+c29yIEFJILbzwMy8sb26IMPfsKEgyK66uCDA/L+hIEFJIEFnZW50sKEgx8q/5MfPvcUgsOa/7CBH
+aXRodWIgQ29waWxvdMC4t84gvcXDuw0KDQoNCg0KDQoNCqHaodqh2iDA08DHt84gtNm4pSC757/r
+wNogw8q067imIMfPsMWzqiC288DMvLG9urimIMDTwMe3ziC+57W1x8+9xyCw5r/sILzSvNMgxsAg
+yKTAuiCws8DOv6Gw1CC288DMvLG9uiC68b/rwMwgurC1tSDDu7G4tckgvPYgwNbAuLTPILLAIMHW
+wMcgus7FubXluLO0z7TZLiCh2qHaodoNCg0KsKi758fVtM+02S4NCg==
+
+--_000_b07aa586e0f140608f6eea65f8f9f827hanwhacom_
+Content-Type: text/html; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dks_c_5601=
+-1987">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:=B1=BC=B8=B2;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+@font-face
+	{font-family:"\@=B8=BC=C0=BA =B0=ED=B5=F1";}
+@font-face
+	{font-family:"\@=B1=BC=B8=B2";
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:12.0pt;
+	font-family:=B1=BC=B8=B2;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:3.0cm 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"KO" link=3D"blue" vlink=3D"purple" style=3D"word-wrap:break-w=
+ord">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"word-break:break-hangul"><span lang=3D"EN-U=
+S" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&qu=
+ot;"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"word-break:break-hangul"><span lang=3D"EN-U=
+S" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&qu=
+ot;"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:11.0pt;fo=
+nt-family:&quot;Calibri&quot;,sans-serif">From:</span></b><span lang=3D"EN-=
+US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C0=CC=C1=F8=BF=EC</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;jinwoo8300@hanwha.com&gt;
+<br>
+<b>Sent:</b> Thursday, April 30, 2026 10:26 AM<br>
+<b>To:</b> </span><span style=3D"font-size:11.0pt">=B0=ED=C7=CF=B6=F7</span=
+><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif=
+">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;jjycoco@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B0=FB=BC=BA=C0=BA</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;sal0925@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B1=B9=C0=B1=C8=A3</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(Kook Yoon Ho)
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;blueeye1004@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B1=E8=B9=CE=BC=BA</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;msworld@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B1=E8=BC=D2=BF=F8</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(Kim SoWon)
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;wish11@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B1=E8=BE=D6=BF=B5</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;aeyoung.kim@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B3=EB=C8=F1=B6=F7</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;heeram@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B9=DA=B4=EB=BF=F8</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;daewon07@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B9=DA=C1=D8=BC=F8</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;qkrwnstns52@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=BC=DB=B9=CE=B1=D4</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(Song Minkyu)
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;stony99@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=BC=DB=C7=FD=B0=E6</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;hgsong9@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=AF=C0=E7=C3=B6</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;jcy2167@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=B0=A1=C0=BA</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;grace915@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=BB=F3=C7=F9</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(LEE SANG HYUP)
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;kyulyagu2@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=BC=F6=BF=B9</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;sooye7@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=BC=F6=C0=BA</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;leehg0@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=C1=A4=B9=CE</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;wjdalsskt@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=C1=A4=C8=C6</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(Lee Jung Hoon)
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;leejh26@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=C1=F8=BF=EC</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;jinwoo8300@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=C7=D8=BF=F8</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;haewon22@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=C7=F6=C0=DA</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(Lee Hyunja)
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;cutytory22@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=D3=BA=B4=B1=B9</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;dustin145@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=D3=BC=D6=B9=CC</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;solmilim@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=D3=C3=A4=BF=AC</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(Lim Chaeyeun)
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;2002codus@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=E5=C0=AF=C0=BA</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;yejang@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=FC=C0=AF=C1=F8</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;youjin0404@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C3=D6=C1=DF=C8=F1</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;jheechoi@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C5=C2=B5=BF=C0=CF</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(Tae Dongil)
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;tdi2000@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C8=B2=BC=BA=BF=AC</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;hwangsy@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C8=B2=C7=FD=B8=B2</span><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C7=D1=C8=AD=BD=C3=BD=BA=C5=DB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif">/ICT &lt;hhyerim@hanwha.com&gt;; IT</span><span style=3D"=
+font-size:11.0pt">=C3=A4=B3=CE</span><span lang=3D"EN-US" style=3D"font-siz=
+e:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">2</span><span style=3D=
+"font-size:11.0pt">=C6=C0</span><span lang=3D"EN-US" style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,sans-serif">SM/</span><span style=3D"fo=
+nt-size:11.0pt">=C7=D1=C8=AD=BC=D5=C7=D8=BA=B8=C7=E8</span><span lang=3D"EN=
+-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+ &lt;dept201030048648@hanwha.com&gt;; </span><span style=3D"font-size:11.0p=
+t">=B0=ED=C7=CF=B6=F7</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,sans-serif"> &lt;6008907@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B0=FB=BC=BA=C0=BA</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6020471@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B1=B9=C0=B1=C8=A3</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(Kook Yoon Ho) &lt;blueeye@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B1=E8=B9=CE=BC=BA</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(MinSeong Kim) &lt;8919381@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B1=E8=BC=D2=BF=F8</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6019796@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B1=E8=BE=D6=BF=B5</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6003245@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B3=EB=C8=F1=B6=F7</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6012595@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B9=DA=B4=EB=BF=F8</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6018390@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=B9=DA=C1=D8=BC=F8</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(park jun sun) &lt;6008857@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=BC=DB=B9=CE=B1=D4</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(Song Min Kyu) &lt;stony200@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=BC=DB=C7=FD=B0=E6</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6018391@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=AF=C0=E7=C3=B6</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;8921242@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=B0=A1=C0=BA</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6014127@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=BB=F3=C7=F9</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(LEE SANG HYUP) &lt;sanghyup.lee@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=BC=F6=BF=B9</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6012619@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=BC=F6=C0=BA</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6009960@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=C1=A4=B9=CE</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6014126@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=C1=A4=C8=C6</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(Lee Jung Hoon) &lt;8918803@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=C1=F8=BF=EC</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6014555@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=C7=D8=BF=F8</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(Lee Hae Won) &lt;8922849@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=CC=C7=F6=C0=DA</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(Lee Hyunja) &lt;8070034@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=D3=BA=B4=B1=B9</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6008844@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=D3=BC=D6=B9=CC</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;8918103@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=D3=C3=A4=BF=AC</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(limchaeyeun) &lt;8912961@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=E5=C0=AF=C0=BA</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;8921546@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C0=FC=C0=AF=C1=F8</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;8921246@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C3=D6=C1=DF=C8=F1</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6014281@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C5=C2=B5=BF=C0=CF</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">(TAE DONG IL) &lt;8912263@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C8=B2=BC=BA=BF=AC</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6010473@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt">=C8=B2=C7=FD=B8=B2</span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif"> &lt;6008122@hanwha.com&gt;<br>
+<b>Subject:</b> FW: Cursor AI </span><span style=3D"font-size:11.0pt">=B0=
+=E8=BE=E0</span><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&q=
+uot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=BA=AF=B0=E6</span><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=B0=FC=B7=C3</span><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=C1=A4=BA=B8=C7=F5=BD=C5=C6=C0</spa=
+n><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f">
+</span><span style=3D"font-size:11.0pt">=B9=AE=C0=C7</span><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=B0=E1=B0=FA</span><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt">=B0=F8=C0=AF</span><span lang=3D"EN=
+-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">=
+<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<div id=3D"divtagdefaultwrapper">
+<p><span style=3D"color:black">=BE=C8=B3=E7=C7=CF=BC=BC=BF=E4</span><span l=
+ang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:bla=
+ck">.<o:p></o:p></span></p>
+<p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif=
+;color:black">AX </span>
+<span style=3D"color:black">=C0=AF=B4=D6</span><span style=3D"font-family:&=
+quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=C0=CC=C1=F8=BF=EC</span><span style=3D"=
+font-family:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=C7=C1=B7=CE=C0=D4=B4=CF=B4=D9</span><sp=
+an lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif;color=
+:black">.<o:p></o:p></span></p>
+<p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif=
+;color:black"><o:p>&nbsp;</o:p></span></p>
+<p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif=
+;color:black"><o:p>&nbsp;</o:p></span></p>
+<p><span style=3D"color:black">=BA=BB</span><span style=3D"font-family:&quo=
+t;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=C0=CC=B8=DE=C0=CF=C0=BA</span><span lan=
+g=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:black=
+"><o:p></o:p></span></p>
+<p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif=
+;color:black">AI Tool
+</span><span style=3D"color:black">=C1=DF</span><span style=3D"font-family:=
+&quot;Calibri&quot;,sans-serif;color:black">
+</span><b><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,san=
+s-serif;color:red">Cursor
+</span></b><b><span style=3D"color:red">=BB=E7=BF=EB=C0=DA</span></b><span =
+style=3D"color:black">=BF=A1</span><span style=3D"font-family:&quot;Calibri=
+&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=B4=EB=C7=D1</span><span style=3D"font-f=
+amily:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=C0=CC=B8=DE=C0=CF</span><span style=3D"=
+font-family:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=C0=D4=B4=CF=B4=D9</span><span lang=3D"E=
+N-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:black">.<o:=
+p></o:p></span></p>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Cali=
+bri&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:black">=C7=F6=C0=E7</span><span=
+ lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:b=
+lack"> Cursor
+</span><span style=3D"color:black">=BB=E7=BF=EB=C0=DA</span><span style=3D"=
+font-family:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=BA=D0=C0=BA</span><span style=3D"font-f=
+amily:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=C0=FA=BF=A1=B0=D4</span><span style=3D"=
+font-family:&quot;Calibri&quot;,sans-serif;color:black">
+<b><i><span lang=3D"EN-US">[</span></i></b></span><b><i><span style=3D"colo=
+r:black">=BF=EC=BC=B1</span></i></b><b><i><span style=3D"font-family:&quot;=
+Calibri&quot;,sans-serif;color:black">
+</span></i></b><b><i><span style=3D"color:black">=B9=DF=B1=DE=C0=DA</span><=
+/i></b><b><i><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;colo=
+r:black">
+</span></i></b><b><i><span style=3D"color:black">=B4=EB=BB=F3=C0=DA</span><=
+/i></b><b><i><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,=
+sans-serif;color:black">]</span></i></b><span lang=3D"EN-US" style=3D"font-=
+family:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=B8=DE=C0=CF=C0=CC</span><span style=3D"=
+font-family:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=BF=D4=B4=C2=C1=F6</span><span lang=3D"E=
+N-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:black">,
+<o:p></o:p></span></p>
+<div>
+<p class=3D"MsoNormal"><b><i><span lang=3D"EN-US" style=3D"font-family:&quo=
+t;Calibri&quot;,sans-serif;color:black">[</span></i></b><b><i><span style=
+=3D"color:black">=C8=C4=BC=F8=C0=A7</span></i></b><b><i><span style=3D"font=
+-family:&quot;Calibri&quot;,sans-serif;color:black">
+</span></i></b><b><i><span style=3D"color:black">=B9=DF=B1=DE=C0=DA</span><=
+/i></b><b><i><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;colo=
+r:black">
+</span></i></b><b><i><span style=3D"color:black">=B4=EB=BB=F3=C0=DA</span><=
+/i></b><b><i><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,=
+sans-serif;color:black">]</span></i></b><span lang=3D"EN-US" style=3D"font-=
+family:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=B8=DE=C0=CF=C0=CC</span><span style=3D"=
+font-family:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=BF=D4=B4=C2=C1=F6</span><span style=3D"=
+font-family:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=B0=B3=C0=CE=C0=FB=C0=B8=B7=CE</span><sp=
+an style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=B8=DE=BD=C5=C0=FA</span><span style=3D"=
+font-family:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=C1=D6=BD=C3=B8=E9</span><span style=3D"=
+font-family:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"color:black">=B0=A8=BB=E7=B5=E5=B8=AE=B0=DA=BD=C0=B4=
+=CF=B4=D9</span><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quo=
+t;,sans-serif;color:black">.<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Cali=
+bri&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black">=B0=A8=BB=E7=C7=D5=B4=CF=
+=B4=D9</span><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,=
+sans-serif;color:black">.<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Cali=
+bri&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><span style=3D"color:=
+black">=C0=CC=C1=F8=BF=EC</span><span style=3D"font-family:&quot;Calibri&qu=
+ot;,sans-serif;color:black">
+</span><span style=3D"color:black">=B5=E5=B8=B2</span><span lang=3D"EN-US" =
+style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:black">.<o:p></o:=
+p></span></p>
+<div>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:b=
+lack">
+<hr size=3D"2" width=3D"98%" align=3D"center">
+</span></div>
+<div id=3D"divRplyFwdMsg">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;color:black">=BA=
+=B8=B3=BD</span></b><b><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:black">
+</span></b><b><span style=3D"font-size:11.0pt;color:black">=BB=E7=B6=F7</sp=
+an></b><b><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;=
+Calibri&quot;,sans-serif;color:black">:</span></b><span lang=3D"EN-US" styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:blac=
+k">
+</span><span style=3D"font-size:11.0pt;color:black">=C0=CC=C1=D8=BF=EB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif;color:black"><br>
+</span><b><span style=3D"font-size:11.0pt;color:black">=BA=B8=B3=BD</span><=
+/b><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-=
+serif;color:black">
+</span></b><b><span style=3D"font-size:11.0pt;color:black">=B3=AF=C2=A5</sp=
+an></b><b><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;=
+Calibri&quot;,sans-serif;color:black">:</span></b><span lang=3D"EN-US" styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:blac=
+k">
+ 2026</span><span style=3D"font-size:11.0pt;color:black">=B3=E2</span><span=
+ lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,s=
+ans-serif;color:black"> 4</span><span style=3D"font-size:11.0pt;color:black=
+">=BF=F9</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&=
+quot;Calibri&quot;,sans-serif;color:black">
+ 29</span><span style=3D"font-size:11.0pt;color:black">=C0=CF</span><span s=
+tyle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:b=
+lack">
+</span><span style=3D"font-size:11.0pt;color:black">=BC=F6=BF=E4=C0=CF</spa=
+n><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:black">
+</span><span style=3D"font-size:11.0pt;color:black">=BF=C0=C8=C4</span><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,=
+sans-serif;color:black"> 1:38<br>
+</span><b><span style=3D"font-size:11.0pt;color:black">=B9=DE=B4=C2</span><=
+/b><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-=
+serif;color:black">
+</span></b><b><span style=3D"font-size:11.0pt;color:black">=BB=E7=B6=F7</sp=
+an></b><b><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;=
+Calibri&quot;,sans-serif;color:black">:</span></b><span lang=3D"EN-US" styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:blac=
+k">
+</span><span style=3D"font-size:11.0pt;color:black">=BF=C0=BC=BC=B9=CE</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif;color:black">(SEMIN OH)
+</span><span style=3D"font-size:11.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:11.0pt;color:black">=C0=CC=BC=D2=C1=F8</spa=
+n><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:black">
+</span><span style=3D"font-size:11.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:11.0pt;color:black">=B1=E8=C8=BF=B9=CE</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif;color:black">(HYOMIN KIM)
+</span><span style=3D"font-size:11.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:11.0pt;color:black">=C0=CC=C1=F8=BF=EC</spa=
+n><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:black">
+</span><span style=3D"font-size:11.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif;color:black">/ICT<br>
+</span><b><span style=3D"font-size:11.0pt;color:black">=C2=FC=C1=B6</span><=
+/b><b><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Cali=
+bri&quot;,sans-serif;color:black">:</span></b><span lang=3D"EN-US" style=3D=
+"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"font-size:11.0pt;color:black">=B1=E8=C8=AB=C1=D6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif;color:black">(Kim Hong Joo)
+</span><span style=3D"font-size:11.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif;color:black">/ICT<br>
+</span><b><span style=3D"font-size:11.0pt;color:black">=C1=A6=B8=F1</span><=
+/b><b><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Cali=
+bri&quot;,sans-serif;color:black">:</span></b><span lang=3D"EN-US" style=3D=
+"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">
+ RE: Cursor AI </span><span style=3D"font-size:11.0pt;color:black">=B0=E8=
+=BE=E0</span><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot=
+;,sans-serif;color:black">
+</span><span style=3D"font-size:11.0pt;color:black">=BA=AF=B0=E6</span><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;colo=
+r:black">
+</span><span style=3D"font-size:11.0pt;color:black">=B0=FC=B7=C3</span><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;colo=
+r:black">
+</span><span style=3D"font-size:11.0pt;color:black">=C1=A4=BA=B8=C7=F5=BD=
+=C5=C6=C0</span><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&q=
+uot;,sans-serif;color:black">
+</span><span style=3D"font-size:11.0pt;color:black">=B9=AE=C0=C7</span><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;colo=
+r:black">
+</span><span style=3D"font-size:11.0pt;color:black">=B0=E1=B0=FA</span><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;colo=
+r:black">
+</span><span style=3D"font-size:11.0pt;color:black">=B0=F8=C0=AF</span><spa=
+n style=3D"font-family:&quot;Calibri&quot;,sans-serif;color:black">
+<span lang=3D"EN-US"><o:p></o:p></span></span></p>
+<div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Cali=
+bri&quot;,sans-serif;color:black">&nbsp;<o:p></o:p></span></p>
+</div>
+</div>
+<div>
+<div>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=BE=C8=B3=E7=C7=CF=BC=BC=BF=E4<span lang=3D"EN-US">.</span></span><sp=
+an lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =
+=B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">AX
+</span><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=C0=AF=B4=D6 =C0=CC=C1=D8=BF=EB =C7=C1=B7=CE=
+=C0=D4=B4=CF=B4=D9<span lang=3D"EN-US">.</span></span><span lang=3D"EN-US" =
+style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;=
+;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;</span><span lang=3D"EN-US" style=3D"font-size=
+:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p=
+></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">Cursor AI
+</span><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=B0=FC=B7=C3=C7=CF=BF=A9 =C1=A4=BA=B8=C7=F5=BD=
+=C5=C6=C0=BF=A1=BC=AD =C3=DF=B0=A1 =BE=F7=B5=A5=C0=CC=C6=AE =C7=D8=C1=D8 =
+=B3=BB=BF=EB =B0=F8=C0=AF =B5=E5=B8=B3=B4=CF=B4=D9<span lang=3D"EN-US">.</s=
+pan></span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot=
+;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;</span><span lang=3D"EN-US" style=3D"font-size=
+:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p=
+></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">1.&nbsp;</span><span style=3D"font-size:11.0pt;font-=
+family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">=B8=DE=C0=CF=BF=
+=A1 =BA=BB=C0=CE=C0=CC<span lang=3D"EN-US">&nbsp;</span></span><b><u><span =
+style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;=
+;color:red">=BF=EC=BC=B1
+ =B9=DF=B1=DE =B4=EB=BB=F3=C0=DA</span></u></b><span lang=3D"EN-US" style=
+=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;colo=
+r:black">&nbsp;</span><span style=3D"font-size:11.0pt;font-family:&quot;=B8=
+=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">=B6=F3=B0=ED =C0=FB=C7=F4=C0=D6=
+=B4=D9=B8=E9 =B1=D7=B4=EB=B7=CE<span lang=3D"EN-US">&nbsp;Cursor&nbsp;</spa=
+n>=BB=E7=BF=EB<span lang=3D"EN-US">. 5/6(</span>=BC=F6<span lang=3D"EN-US">=
+)&nbsp;</span>=BA=CE=C5=CD
+ =BB=E7=BF=EB =B0=A1=B4=C9</span><span lang=3D"EN-US" style=3D"font-size:10=
+.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p></=
+o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">2.&nbsp;</span><span style=3D"font-size:11.0pt;font-=
+family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">=B8=DE=C0=CF=BF=
+=A1 =BA=BB=C0=CE=C0=CC<span lang=3D"EN-US">&nbsp;</span></span><b><u><span =
+style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;=
+;color:red">=C8=C4=BC=F8=C0=A7
+ =B9=DF=B1=DE =B4=EB=BB=F3=C0=DA</span></u></b><span lang=3D"EN-US" style=
+=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;colo=
+r:black">&nbsp;</span><span style=3D"font-size:11.0pt;font-family:&quot;=B8=
+=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">=B6=F3=B0=ED =C0=FB=C7=F4=C0=D6=
+=B4=D9=B8=E9<span lang=3D"EN-US">&nbsp;5/6(</span>=BC=F6<span lang=3D"EN-US=
+">)&nbsp;</span>=BF=A1=B5=B5 =BB=E7=BF=EB =BA=D2=B0=A1<span lang=3D"EN-US">=
+.
+</span><b><u>=B4=CA=C0=B8=B8=E9<span lang=3D"EN-US"> 6</span>=BF=F9 =C3=CA<=
+span lang=3D"EN-US">&nbsp;Cursor&nbsp;</span>=BB=E7=BF=EB =B0=A1=B4=C9=C7=
+=D2 =BF=B9=C1=A4</u><span lang=3D"EN-US">.&nbsp;</span></b></span><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=
+=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph;text-indent:11.=
+0pt"><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=
+=B5=F1&quot;;color:black">=BE=F0=C1=A6=BA=CE=C5=CD =BB=E7=BF=EB =B0=A1=B4=
+=C9=C7=D2=C1=F6 =BE=CB =BC=F6 =BE=F8=C0=B8=B9=C7=B7=CE =B1=DE=C7=CF=B4=D9=
+=B8=E9 =C5=AC=B7=B9=B9=F6=BD=BA =C0=FC=C0=DA=B0=E1=C0=E7 =C5=EB=C7=D8<span =
+lang=3D"EN-US">&nbsp;Copilot&nbsp;</span>=BD=C5=C3=BB =B0=A1=B4=C9<span lan=
+g=3D"EN-US">.</span></span><span lang=3D"EN-US" style=3D"font-size:10.0pt;f=
+ont-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p></o:p></=
+span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">3.&nbsp;<b>(</b></span><b><span style=3D"font-size:1=
+1.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">=B8=DE=
+=C0=CF =B3=BB=BF=EB=BF=A1<span lang=3D"EN-US">&nbsp;Claude&nbsp;</span>=B0=
+=FC=B7=C3=C7=CF=BF=A9<span lang=3D"EN-US">)</span></span></b><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;</span><span style=3D"font-size:11.0pt;font-fa=
+mily:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">=C8=B8=BB=E7=BF=A1=
+=BC=AD<span lang=3D"EN-US">&nbsp;5</span>=BF=F9
+ =C1=DF=C0=B8=B7=CE<span lang=3D"EN-US">&nbsp;Claude, Open AI&nbsp;</span>=
+=BF=CD=C0=C7 =B0=E8=BE=E0=C0=BB =C1=D8=BA=F1=C7=CF=B0=ED =C0=D6=C0=BD<span =
+lang=3D"EN-US">.&nbsp;</span></span><span lang=3D"EN-US" style=3D"font-size=
+:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p=
+></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph;text-indent:11.=
+0pt"><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=
+=B5=F1&quot;;color:black">=C3=DF=C8=C4<span lang=3D"EN-US">&nbsp;Claude, Op=
+en AI
+</span>=BF=CD=C0=C7 =B0=E8=BE=E0=C0=CC =BF=CF=B7=E1=B5=C7=B0=ED =B3=AA=B8=
+=E9 =C5=AC=B7=B9=B9=F6=BD=BA =C0=FC=C0=DA=B0=E1=C0=E7=BF=A1<span lang=3D"EN=
+-US">&nbsp;3</span>=B9=F8=C2=B0 =C4=DA=B5=F9=C5=F8=B7=CE<span lang=3D"EN-US=
+"> Claude Code, 4</span>=B9=F8=C2=B0 =C4=DA=B5=F9=C5=F8=B7=CE<span lang=3D"=
+EN-US"> Codex
+</span>=BD=C5=C3=BB =B0=A1=B4=C9<span lang=3D"EN-US">.&nbsp;</span></span><=
+span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph;text-indent:11.=
+0pt"><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=
+=B5=F1&quot;;color:black">=B1=D7=B6=A7 =C8=F1=B8=C1=C0=DA=B5=E9=C0=BA =C0=
+=FC=C0=DA=B0=E1=C0=E7 =BD=C5=C3=BB=C7=CF=BF=A9<span lang=3D"EN-US">&nbsp;Cl=
+aude Code
+</span>=B9=D7<span lang=3D"EN-US"> Codex </span>=B7=CE =B0=A5=BE=C6 =C5=BB =
+=BC=F6 =C0=D6=C0=BD<span lang=3D"EN-US">.&nbsp;</span>=B4=E7=C0=E5 =BD=C5=
+=B0=E6 =BE=B5 =C7=CA=BF=E4<span lang=3D"EN-US">&nbsp;X.</span></span><span =
+lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;</span><span lang=3D"EN-US" style=3D"font-size=
+:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p=
+></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=B0=A8=BB=E7=C7=D5=B4=CF=B4=D9<span lang=3D"EN-US">.</span></span><sp=
+an lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =
+=B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=C0=CC=C1=D8=BF=EB =B5=E5=B8=B2<span lang=3D"EN-US">.</span></span><s=
+pan lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA=
+ =B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;<o:p></o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><b><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif;color:black">From:</span></b><span lang=3D"EN-US" style=3D"font-size:1=
+1.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">
+</span><span style=3D"font-size:11.0pt;color:black">=C0=CC=C1=D8=BF=EB</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif;color:black">
+<br>
+<b>Sent:</b> Wednesday, April 29, 2026 1:03 PM<br>
+<b>To:</b> </span><span style=3D"font-size:11.0pt;color:black">=BF=C0=BC=BC=
+=B9=CE</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&qu=
+ot;Calibri&quot;,sans-serif;color:black">(SEMIN OH)
+</span><span style=3D"font-size:11.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif;color:black">/ICT &lt;<a href=3D"mailto:arts=
+m1@hanwha.com">artsm1@hanwha.com</a>&gt;;
+</span><span style=3D"font-size:11.0pt;color:black">=C0=CC=BC=D2=C1=F8</spa=
+n><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:black">
+</span><span style=3D"font-size:11.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif;color:black">/ICT &lt;<a href=3D"mailto:ztay=
+a95@hanwha.com">ztaya95@hanwha.com</a>&gt;;
+</span><span style=3D"font-size:11.0pt;color:black">=B1=E8=C8=BF=B9=CE</spa=
+n><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,sans-serif;color:black">(HYOMIN KIM)
+</span><span style=3D"font-size:11.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif;color:black">/ICT &lt;<a href=3D"mailto:hyom=
+in911@hanwha.com">hyomin911@hanwha.com</a>&gt;;
+</span><span style=3D"font-size:11.0pt;color:black">=C0=CC=C1=F8=BF=EC</spa=
+n><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:black">
+</span><span style=3D"font-size:11.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif;color:black">/ICT &lt;<a href=3D"mailto:jinw=
+oo8300@hanwha.com">jinwoo8300@hanwha.com</a>&gt;<br>
+<b>Cc:</b> </span><span style=3D"font-size:11.0pt;color:black">=B1=E8=C8=AB=
+=C1=D6</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&qu=
+ot;Calibri&quot;,sans-serif;color:black">(Kim Hong Joo)
+</span><span style=3D"font-size:11.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif;color:black">/ICT &lt;<a href=3D"mailto:khjg=
+ate@hanwha.com">khjgate@hanwha.com</a>&gt;<br>
+<b>Subject:</b> Cursor AI </span><span style=3D"font-size:11.0pt;color:blac=
+k">=B0=E8=BE=E0</span><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif;color:black">
+</span><span style=3D"font-size:11.0pt;color:black">=BA=AF=B0=E6</span><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;colo=
+r:black">
+</span><span style=3D"font-size:11.0pt;color:black">=B0=FC=B7=C3</span><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;colo=
+r:black">
+</span><span style=3D"font-size:11.0pt;color:black">=C1=A4=BA=B8=C7=F5=BD=
+=C5=C6=C0</span><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&q=
+uot;,sans-serif;color:black">
+</span><span style=3D"font-size:11.0pt;color:black">=B9=AE=C0=C7</span><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;colo=
+r:black">
+</span><span style=3D"font-size:11.0pt;color:black">=B0=E1=B0=FA</span><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;colo=
+r:black">
+</span><span style=3D"font-size:11.0pt;color:black">=B0=F8=C0=AF</span><spa=
+n lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =
+=B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+</div>
+</div>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;<o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=BE=C8=B3=E7=C7=CF=BC=BC=BF=E4<span lang=3D"EN-US">.</span></span><sp=
+an lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =
+=B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">AX
+</span><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=C0=AF=B4=D6 =C0=CC=C1=D8=BF=EB =C7=C1=B7=CE=
+=C0=D4=B4=CF=B4=D9<span lang=3D"EN-US">.</span></span><span lang=3D"EN-US" =
+style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;=
+;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;</span><span lang=3D"EN-US" style=3D"font-size=
+:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p=
+></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">Cursor AI
+</span><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=B0=FC=B7=C3=C7=CF=BF=A9 =C1=A4=BA=B8=C7=F5=BD=
+=C5=C6=C0=BF=A1 =B9=AE=C0=C7 =C8=C4 =C0=FC=B4=DE=B9=DE=C0=BA =B3=BB=BF=EB =
+=B0=F8=C0=AF =B5=E5=B8=B3=B4=CF=B4=D9<span lang=3D"EN-US">.</span></span><s=
+pan lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA=
+ =B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;</span><span lang=3D"EN-US" style=3D"font-size=
+:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p=
+></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">1.
+</span><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=B8=DE=C0=CF=BF=A1 =BA=BB=C0=CE=C0=CC </span>
+<b><u><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=
+=B5=F1&quot;;color:red">=BF=EC=BC=B1 =B9=DF=B1=DE =B4=EB=BB=F3=C0=DA</span>=
+</u></b><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black"> =B6=F3=B0=ED =C0=FB=C7=F4=C0=D6=B4=D9=B8=E9 =
+=B1=D7=B4=EB=B7=CE<span lang=3D"EN-US"> Cursor
+</span>=BB=E7=BF=EB<span lang=3D"EN-US">. 5/6(</span>=BC=F6<span lang=3D"EN=
+-US">) </span>=BA=CE=C5=CD =BB=E7=BF=EB =B0=A1=B4=C9</span><span lang=3D"EN=
+-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&=
+quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">2.
+</span><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=B8=DE=C0=CF=BF=A1 =BA=BB=C0=CE=C0=CC </span>
+<b><u><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=
+=B5=F1&quot;;color:red">=C8=C4=BC=F8=C0=A7 =B9=DF=B1=DE =B4=EB=BB=F3=C0=DA<=
+/span></u></b><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black"> =B6=F3=B0=ED =C0=FB=C7=F4=C0=D6=B4=D9=
+=B8=E9<span lang=3D"EN-US"> 5/6(</span>=BC=F6<span lang=3D"EN-US">)
+</span>=BF=A1=B5=B5 =BB=E7=BF=EB =BA=D2=B0=A1<span lang=3D"EN-US">. 5</span=
+>=BF=F9 =B3=BB=BF=A1=B4=C2<span lang=3D"EN-US"> Cursor </span>
+=BB=E7=BF=EB =B0=A1=B4=C9=C7=D2 =BF=B9=C1=A4<span lang=3D"EN-US">. </span><=
+/span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=
+=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph;text-indent:11.=
+0pt"><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=
+=B5=F1&quot;;color:black">=B4=DC =BE=F0=C1=A6=BA=CE=C5=CD =BB=E7=BF=EB =B0=
+=A1=B4=C9=C7=D2=C1=F6 =BE=CB =BC=F6 =BE=F8=C0=B8=B9=C7=B7=CE =B1=DE=C7=CF=
+=B4=D9=B8=E9 =C5=AC=B7=B9=B9=F6=BD=BA =C0=FC=C0=DA=B0=E1=C0=E7 =C5=EB=C7=D8=
+<span lang=3D"EN-US"> Copilot
+</span>=BD=C5=C3=BB =B0=A1=B4=C9<span lang=3D"EN-US">.</span></span><span l=
+ang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">3.
+<b>(</b></span><b><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=
+=C0=BA =B0=ED=B5=F1&quot;;color:black">=B8=DE=C0=CF =B3=BB=BF=EB=BF=A1<span=
+ lang=3D"EN-US"> Claude
+</span>=B0=FC=B7=C3=C7=CF=BF=A9<span lang=3D"EN-US">)</span></span></b><spa=
+n lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =
+=B0=ED=B5=F1&quot;;color:black">
+</span><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=C8=B8=BB=E7=BF=A1=BC=AD<span lang=3D"EN-US"> =
+5</span>=BF=F9 =C1=DF=C0=B8=B7=CE<span lang=3D"EN-US"> Claude
+</span>=BF=CD=C0=C7 =B0=E8=BE=E0=C0=BB =C1=D8=BA=F1=C7=CF=B0=ED =C0=D6=C0=
+=BD<span lang=3D"EN-US">. </span></span><span lang=3D"EN-US" style=3D"font-=
+size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">=
+<o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph;text-indent:11.=
+0pt"><span style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=
+=B5=F1&quot;;color:black">=C3=DF=C8=C4<span lang=3D"EN-US"> Claude</span>=
+=BF=CD=C0=C7 =B0=E8=BE=E0=C0=CC =BF=CF=B7=E1=B5=C7=B0=ED =B3=AA=B8=E9 =C5=
+=AC=B7=B9=B9=F6=BD=BA =C0=FC=C0=DA=B0=E1=C0=E7=BF=A1<span lang=3D"EN-US"> 3=
+</span>=B9=F8=C2=B0 =C4=DA=B5=F9=C5=F8=B7=CE =BD=C5=C3=BB =B0=A1=B4=C9<span=
+ lang=3D"EN-US">.
+</span>=B1=D7=B6=A7 =C8=F1=B8=C1=C0=DA=B5=E9=C0=BA =C0=FC=C0=DA=B0=E1=C0=E7=
+ =BD=C5=C3=BB=C7=CF=BF=A9<span lang=3D"EN-US"> Claude</span>=B7=CE =B0=A5=
+=BE=C6 =C5=BB =BC=F6 =C0=D6=C0=BD<span lang=3D"EN-US">.
+</span>=B4=E7=C0=E5 =BD=C5=B0=E6 =BE=B5 =C7=CA=BF=E4<span lang=3D"EN-US"> X=
+.</span></span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&=
+quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;</span><span lang=3D"EN-US" style=3D"font-size=
+:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p=
+></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=C0=FA=C8=F1 =BC=D5=BA=B8<span lang=3D"EN-US">ITO1</span>=C6=C0=BF=A1=
+=BC=AD=B4=C2 =C8=C4=BC=F8=C0=A7 =B9=DF=B1=DE =B4=EB=BB=F3=C0=DA=B5=E9<span =
+lang=3D"EN-US"> Copilot
+</span>=C0=B8=B7=CE =C0=FC=C8=AF =BD=C5=C3=BB =BF=B9=C1=A4=C0=D4=B4=CF=B4=
+=D9<span lang=3D"EN-US">.</span></span><span lang=3D"EN-US" style=3D"font-s=
+ize:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><=
+o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=C2=FC=B0=ED =BA=CE=C5=B9=B5=E5=B8=B3=B4=CF=B4=D9<span lang=3D"EN-US"=
+>.</span></span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;</span><span lang=3D"EN-US" style=3D"font-size=
+:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p=
+></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=B0=A8=BB=E7=C7=D5=B4=CF=B4=D9<span lang=3D"EN-US">.</span></span><sp=
+an lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =
+=B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:11.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=C0=CC=C1=D8=BF=EB =B5=E5=B8=B2<span lang=3D"EN-US">.</span></span><s=
+pan lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA=
+ =B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;<o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;<o:p></o:p></span></p>
+<div>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><b><span lang=
+=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-se=
+rif;color:black">&nbsp;</span></b><span lang=3D"EN-US" style=3D"font-size:1=
+0.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p><=
+/o:p></span></p>
+</div>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ lang=3D"EN-US" style=3D"color:black">
+<hr size=3D"2" width=3D"98%" align=3D"center">
+</span></div>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><b><span style=
+=3D"font-size:10.0pt;color:black">=BA=B8=B3=BD</span></b><b><span style=3D"=
+font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">
+</span></b><b><span style=3D"font-size:10.0pt;color:black">=BB=E7=B6=F7</sp=
+an></b><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=
+Tahoma&quot;,sans-serif;color:black">:</span></b><span lang=3D"EN-US" style=
+=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black"=
+>
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=B8=ED=C7=F6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(LeeMyungHyun)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT<br>
+</span><b><span style=3D"font-size:10.0pt;color:black">=BA=B8=B3=BD</span><=
+/b><b><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-s=
+erif;color:black">
+</span></b><b><span style=3D"font-size:10.0pt;color:black">=B3=AF=C2=A5</sp=
+an></b><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=
+Tahoma&quot;,sans-serif;color:black">:</span></b><span lang=3D"EN-US" style=
+=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black"=
+>
+ 2026</span><span style=3D"font-size:10.0pt;color:black">=B3=E2</span><span=
+ lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sa=
+ns-serif;color:black"> 4</span><span style=3D"font-size:10.0pt;color:black"=
+>=BF=F9</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&q=
+uot;Tahoma&quot;,sans-serif;color:black">
+ 29</span><span style=3D"font-size:10.0pt;color:black">=C0=CF</span><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:bl=
+ack">
+</span><span style=3D"font-size:10.0pt;color:black">=BC=F6=BF=E4=C0=CF</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=BF=C0=C0=FC</span><spa=
+n lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,s=
+ans-serif;color:black"> 8:57:00 (UTC&#43;09:00)
+</span><span style=3D"font-size:10.0pt;color:black">=BC=AD=BF=EF</span><spa=
+n lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,s=
+ans-serif;color:black"><br>
+</span><b><span style=3D"font-size:10.0pt;color:black">=B9=DE=B4=C2</span><=
+/b><b><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-s=
+erif;color:black">
+</span></b><b><span style=3D"font-size:10.0pt;color:black">=BB=E7=B6=F7</sp=
+an></b><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=
+Tahoma&quot;,sans-serif;color:black">:</span></b><span lang=3D"EN-US" style=
+=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black"=
+>
+</span><span style=3D"font-size:10.0pt;color:black">=C8=AB=C0=BA=C1=F8</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(</span><span style=3D"font-size:10.0pt;color:=
+black">=FB=F3=EB=DA=F2=D8</span><span lang=3D"EN-US" style=3D"font-size:10.=
+0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">)(Eunjin
+ Hong) </span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=
+=C3=BD=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-f=
+amily:&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C7=CF=BC=F6=B9=CE</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=C1=D8=BF=EB</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B7=F9=BF=B5=C7=CF</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Ryu YoungHa)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=D3=BA=B4=C1=D6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(LimByeongjoo)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BD=C5=C7=F6=C1=BE</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Shin Hyun Jong)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=B8=B5=BF=C8=F1</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(DongHui Koo)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B9=DA=C8=C6</span><spa=
+n lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,s=
+ans-serif;color:black">(Park Hoon)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B9=DA=C1=A4=C8=AD</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Jeonghwa Park)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B9=DA=C7=F6=B1=D4</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Park HyeonGyu)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=C0=E7=C7=F5</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Lee Jae Hyuk)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=B0=E6=C0=E7</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Lee KyungJae)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C3=D6=C1=F6=C0=BA</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(CHOI JIEUN)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=B5=BF=C7=F6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=B6=C7=F5=C1=D8</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Hyukjun Cho)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=A4=BC=D2=B6=F3</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Jung SoRa)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C3=D6=C1=A4=C8=A3</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Jeong Ho Choi)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=BC=BA=C0=BA</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=D3=C7=F6=C1=F8</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=AF=C7=FC=B5=B5</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BE=E7=B1=B9=C7=F6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Yang Gukhyeon)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C0=BA=C1=BE</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(KimEunJong)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B9=DA=BC=F6=BF=AC</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=C1=F6=C7=D0</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B9=DA=C1=A4=BA=F3</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Jeongbin Park)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BE=E7=C0=BA=BC=F6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Yang Eun-Soo)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=AF=C1=A4=BC=F7</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BE=C8=B1=A4=C1=F7</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(An Gwangjik)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B0=AD=B9=CE=BF=B5</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D4=BF=B5=BD=C4</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=C3=A4=C7=F6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=A3=C1=A4</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=B5=BF=BC=AE</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C3=A2=B1=D4</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C1=D8=BF=B5</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=B5=B5=B0=C7</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Kimdogun)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BE=E7=C7=F6=BD=C2</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Hyunseung Yang)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=A4=C7=F6=BF=B5</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=C7=D1=BC=BA</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=B3=AB=B1=E2</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=C0=E7=BF=B5</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Lee Jaeyoung)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C7=FD=C1=F8</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Hyejin Kim)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C3=E6=C8=F1</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=BB=F3=BF=EC</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C0=E7=C8=AB</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=C7=BD=C2=C1=D6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=BB=F9=C0=BA</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Kim SaemEun)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BC=AD=C1=F6=C7=FD</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=B6=BD=C2=C8=A3</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Seungho Jo)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B9=E9=C0=E7=C7=F6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=FC=BB=F3=B8=B8</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(SANGMAN JEON)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C1=F6=BF=B9</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C8=B2=BD=C2=C8=AF</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Hwang seungHwan)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=BF=EB=C8=D6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=B1=A4=BF=C0</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BC=AD=B9=CE</span><spa=
+n lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,s=
+ans-serif;color:black">(SEO MIHN)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=BD=C2=BF=EC</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(LeeSeungWoo)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C1=F6=C7=F6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=BF=EC=BD=C2</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C0=AF=B6=F5</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=BC=D2=C8=F1</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=BF=AC=C1=F6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C1=A4=C8=C6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(FCM3</span><span style=3D"font-size:10.0pt;co=
+lor:black">=C6=C0</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Tahoma&quot;,sans-serif;color:black">)(Junghoon
+ Kim) </span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=
+=C3=BD=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-f=
+amily:&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=BC=D2=C1=F8</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=A4=BD=C2=C7=FD</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C5=C2=B5=BF=C0=CF</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Tae Dongil)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C7=CF=C0=BA=C7=FD</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C3=D6=B0=A1=BF=C2</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Choi Gaon)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=C0=BA=C1=F6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(LEE EUN JI)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=A4=C1=BE=C8=C6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BC=D2=C1=A4=C8=AF</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Jeonghwan So)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BF=C0=C3=A4=BF=B5</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=BC=F6=BA=F3</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=A4=C1=F6=BF=F8</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">_ICT
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C3=E6=C8=F1</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=BB=F9=C0=BA</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Kim SaemEun)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=E5=B4=F6=C1=F8</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Deokjin Jang)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=B5=B5=C7=F6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Lee DoHyun)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C1=A4=C0=E7</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(JungJae Han)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=B5=BF=BF=EC</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Dongwoo Kim)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C1=BE=C3=B6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(KIM JONGCHEOL)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=B6=BF=EC=C1=D6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(woojucho)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=AF=BD=C2=B9=FC</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Yoo seungbum)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C7=F6=C3=B6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C3=D6=C8=C6=BC=AE</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BC=DB=C7=FC=C1=F8</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=B5=CE=BF=AC</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(KIM DOOYOUN)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=FC=C1=F8=C8=AF</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(JEON JINHWAN)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=A4=B9=E9=C8=A3</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BE=C8=C7=FD=B8=B2</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Hyerim Ahn)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BE=C8=C0=B1=C1=F6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(</span><span style=3D"font-size:10.0pt;color:=
+black">=E4=CC=EB=CA=F2=A4</span><span lang=3D"EN-US" style=3D"font-size:10.=
+0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">)(YOONJI
+ AN) </span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=
+=BD=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=A4=C1=BE=C8=F1</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B0=AD=B9=AC</span><spa=
+n lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,s=
+ans-serif;color:black">(Kang Mook)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=B6=C7=F6=BF=ED</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Hyunwook Cho)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BE=C8=C1=D8=C7=CF</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Ahn Junha)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=D6=B9=CE=BD=C4</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Minsik Joo)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=B0=E6=C1=A6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(KYEONGJE KIM)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=FC=B9=CE=C8=A3</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=B4=EB=C7=F6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Daehyun Lee)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BF=C0=BC=BC=B9=CE</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(SEMIN OH)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=A4=B9=FC=BF=EB</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=BB=F3=C0=B1</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=FC=BF=EC=C7=FC</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B0=ED=C0=AF=B9=CC</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Ko yoo mi)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B0=AD=C8=A3=C1=F8</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Kang Hojin)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=B6=C7=FD=C1=A4</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Cho Hyejung)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B9=E8=C1=F6=C7=F6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=BD=C2=BE=C6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Kim Seung-ah)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=BF=B9=C1=F8</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C8=BF=B9=CE</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(HyoMin Kim)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=E5=C0=CE=C5=C2</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Jang Intae)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=B5=B5=BA=F3</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Dobin Kim)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BC=AD=C1=F6=C7=FD</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=E5=C0=E7=BF=AC</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Jaeyeon Jang)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C7=E3=C0=CE=B0=E6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BC=D5=B9=CE=C7=F5</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Minhyeok Son)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B9=DA=C0=E7=BF=ED</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=A4=BF=EB=C8=AD</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C3=A4=BF=F8</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BC=D2=BA=B4=C8=F1</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B9=DA=BC=D2=BF=B5</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=C8=F1=BF=F8</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C8=B2=BB=F3=BD=C4</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(SANGSIK HWANG)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C0=BA=C1=A4</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Kim Eunjung)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=B5=BF=C0=CE</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(LEE DONGIN)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=B6=C7=F6=BF=EC</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C5=B9=BC=BC=BF=B5</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B3=AA=C7=F6=C1=D8</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(HYUNJUN NA)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B0=ED=BA=B4=C8=C4</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C5=C2=C7=FC</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Kim Taehyeong)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=D6=BF=B9=C1=F8</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C3=A4=BF=CF=B1=E2</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C7=F6=BF=EC</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B7=F9=C8=AD=B6=FB</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=BF=F8=C8=F1</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Lee Wonhui)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=C7=B4=D9=C0=CE</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C8=AB=BC=BA=C7=F6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(HongSeonghyeon)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=C1=F6=C7=F6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C3=D6=C1=A6=BC=F6</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Choi JeSoo)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=B3=AA=BF=AC</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=B1=B1=E2=C8=AD</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BC=D5=C1=A4=BF=F8</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BF=B9=C7=D8=C1=D6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C1=A4=B1=CD=C1=D8</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(GWIJUN JUNG)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B0=AD=C1=F8=BF=EC</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=C1=F6=BC=F6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=B1=E8=BF=B5=C2=F7</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(youngcha kim)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=B1=BC=F6=B8=B2</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=CC=C7=D1=BC=BA</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C3=D6=C0=B2</span><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color=
+:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT<br>
+</span><b><span style=3D"font-size:10.0pt;color:black">=C2=FC=C1=B6</span><=
+/b><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Taho=
+ma&quot;,sans-serif;color:black">:</span></b><span lang=3D"EN-US" style=3D"=
+font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=B9=DA=BB=F3=BF=EC</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Park-sangwoo)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=BC=AD=BF=B9=C1=F6</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT;
+</span><span style=3D"font-size:10.0pt;color:black">=C0=B1=C1=D8=BC=BA</spa=
+n><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,sans-serif;color:black">(Yun Junseong)
+</span><span style=3D"font-size:10.0pt;color:black">=C7=D1=C8=AD=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,sans-serif;color:black">/ICT<br>
+</span><b><span style=3D"font-size:10.0pt;color:black">=C1=A6=B8=F1</span><=
+/b><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Taho=
+ma&quot;,sans-serif;color:black">:</span></b><span lang=3D"EN-US" style=3D"=
+font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color:black">
+ (</span><span style=3D"font-size:10.0pt;color:black">=C1=DF=BF=E4</span><s=
+pan lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;=
+,sans-serif;color:black">) Cursor AI
+</span><span style=3D"font-size:10.0pt;color:black">=B0=E8=BE=E0</span><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color=
+:black">
+</span><span style=3D"font-size:10.0pt;color:black">=BA=AF=B0=E6=BF=A1</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=B5=FB=B8=A5</span><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;color=
+:black">
+</span><span style=3D"font-size:10.0pt;color:black">=B6=F3=C0=CC=BC=B1=BD=
+=BA</span><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sa=
+ns-serif;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=C0=E7=B9=E8=C4=A1</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif=
+;color:black">
+</span><span style=3D"font-size:10.0pt;color:black">=BE=C8=B3=BB</span><spa=
+n lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =
+=B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"750" style=3D"width:562.5pt;background:#F2F2F2;border-colla=
+pse:collapse">
+<tbody>
+<tr>
+<td style=3D"border:solid #9EB6D6 1.0pt;padding:3.75pt 5.25pt 3.75pt 5.25pt=
+">
+<div>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=BA=BB =B8=DE=C0=CF=C0=BA<span lang=3D"EN-US"> M365 EXO(Exchange Onli=
+ne)
+</span>=C8=AF=B0=E6=BF=A1=BC=AD =B9=DF=BC=DB=B5=C7=BE=FA=BD=C0=B4=CF=B4=D9<=
+span lang=3D"EN-US">.</span></span><span lang=3D"EN-US" style=3D"font-size:=
+10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;"><o:p></o:p></span=
+></p>
+</div>
+<div>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=B8=DE=C0=CF =C8=B8=BD=C5 =B0=FA=C1=A4=BF=A1=BC=AD =BF=C0=B7=F9=B0=A1=
+ =B9=DF=BB=FD=C7=D2 =B0=E6=BF=EC<span lang=3D"EN-US">,
+</span>=BE=C6=B7=A1 =C0=FD=C2=F7=BF=A1 =B5=FB=B6=F3 =C1=B6=C4=A1 =C8=C4 =C0=
+=E7=B9=DF=BC=DB=C7=D8 =C1=D6=BD=C3=B1=E2 =B9=D9=B6=F8=B4=CF=B4=D9<span lang=
+=3D"EN-US">.</span></span><span lang=3D"EN-US" style=3D"font-size:10.0pt;fo=
+nt-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;"><o:p></o:p></span></p>
+</div>
+<div>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><b><span lang=
+=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=
+=B5=F1&quot;;color:black">Outlook
+</span></b><b><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">=C6=C4=C0=CF =A1=E6 =BF=C9=BC=C7 =A1=E6=
+ =B8=DE=C0=CF =A1=E6 =B8=DE=BD=C3=C1=F6 =BA=B8=B3=BB=B1=E2 =A1=E6 =C0=DA=B5=
+=BF=BF=CF=BC=BA =B8=F1=B7=CF =BA=F1=BF=EC=B1=E2<span lang=3D"EN-US"> :
+</span></span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-famil=
+y:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><a href=3D"https://han=
+wha.cleverse.kr/OutlookAutoCompletionDeleteGuide.html"><b><span lang=3D"EN-=
+US" style=3D"color:#0563C1"><span lang=3D"EN-US">=B0=A1=C0=CC=B5=E5</span><=
+/span></b><b><span lang=3D"EN-US" style=3D"color:#0563C1"><span lang=3D"EN-=
+US">
+</span></span></b><b><span lang=3D"EN-US" style=3D"color:#0563C1"><span lan=
+g=3D"EN-US">=BB=F3=BC=BC</span></span></b><b><span lang=3D"EN-US" style=3D"=
+color:#0563C1"><span lang=3D"EN-US">
+</span></span></b><b><span lang=3D"EN-US" style=3D"color:#0563C1"><span lan=
+g=3D"EN-US">=B9=D9=B7=CE=B0=A1=B1=E2</span></span></b><b><span lang=3D"EN" =
+style=3D"color:#0563C1"> (View Detailed Guide)</span></b></a><b>
+</b></span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot=
+;=B8=BC=C0=BA =B0=ED=B5=F1&quot;"><o:p></o:p></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"color:black">&nbsp;</span><span lang=3D"EN-US" style=3D"fon=
+t-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black=
+"><o:p></o:p></span></p>
+<div>
+<div>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=BE=C8=B3=E7=C7=CF=BC=BC=BF=E4<span lang=3D"EN-US">.<o:p></o:p></span=
+></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=C1=A4=BA=B8=C7=F5=BD=C5=C6=C0 =C0=CC=B8=ED=C7=F6=C0=D4=B4=CF=B4=D9<s=
+pan lang=3D"EN-US">.<o:p></o:p></span></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;<o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">Cursor AI
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=B0=E8=BE=E0 =BA=AF=B0=E6<span lang=3D"EN-US">=
+(Team Plan =3D&gt; Enterprise Plan)</span>=C0=B8=B7=CE =C0=CE=C7=D8 =B6=F3=
+=C0=CC=BC=B1=BD=BA =C0=E7=B9=E8=C4=A1 =BE=C8=B3=BB =B5=E5=B8=B3=B4=CF=B4=D9=
+<span lang=3D"EN-US">.<br>
+</span>=C7=D8=B4=E7 =B8=DE=C0=CF=C0=BB =BC=F6=BD=C5=C7=CF=BD=C5 =BA=D0=B5=
+=E9=C0=C7 =B0=E6=BF=EC </span><b><u><span style=3D"font-size:10.0pt;font-fa=
+mily:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:red">=BF=EC=BC=B1 =B9=DF=
+=B1=DE =B4=EB=BB=F3=C0=DA</span></u></b><span style=3D"font-size:10.0pt;fon=
+t-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">=B7=CE =B9=DF=
+=B1=DE=B5=C6=B4=F8<span lang=3D"EN-US"> Team Plan
+</span>=B6=F3=C0=CC=BC=B1=BD=BA=B0=A1<span lang=3D"EN-US"> 04/30(</span>=B8=
+=F1<span lang=3D"EN-US">) 22</span>=BD=C3=BF=A1 =C8=B8=BC=F6=B5=C7=B8=E7<sp=
+an lang=3D"EN-US"> 05/06(</span>=BC=F6<span lang=3D"EN-US">)</span>=BF=A1 =
+=BC=F8=C2=F7=C0=FB=C0=B8=B7=CE =B6=F3=C0=CC=BC=B1=BD=BA=B0=A1 =B9=DF=B1=DE=
+=B5=C9 =BF=B9=C1=A4=C0=D4=B4=CF=B4=D9<span lang=3D"EN-US">.<o:p></o:p></spa=
+n></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;<o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:14.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=A1=DA=A1=DA=A1=DA =C0=D3=C0=C7=B7=CE =B4=D9=B8=A5 =BB=E7=BF=EB=C0=DA=
+ =C3=CA=B4=EB=B8=A6 =C7=CF=B0=C5=B3=AA =B6=F3=C0=CC=BC=B1=BD=BA=B8=A6 =C0=
+=D3=C0=C7=B7=CE =BE=E7=B5=B5=C7=CF=BD=C7 =B0=E6=BF=EC
+</span><b><u><span style=3D"font-size:14.0pt;font-family:&quot;=B8=BC=C0=BA=
+ =B0=ED=B5=F1&quot;;color:red">=BC=D2=BC=D3 =C6=C0 =C8=A4=C0=BA =B0=B3=C0=
+=CE=BF=A1=B0=D4 =B6=F3=C0=CC=BC=B1=BD=BA =BA=F1=BF=EB=C0=CC =BA=B0=B5=B5 =
+=C3=BB=B1=B8</span></u></b><span style=3D"font-size:14.0pt;font-family:&quo=
+t;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">=B5=C9 =BC=F6 =C0=D6=C0=B8=
+=B4=CF =B2=C0 =C1=D6=C0=C7 =BA=CE=C5=B9=B5=E5=B8=B3=B4=CF=B4=D9<span lang=
+=3D"EN-US">.
+</span>=A1=DA=A1=DA=A1=DA</span><span lang=3D"EN-US" style=3D"font-size:10.=
+0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p></o=
+:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:14.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;</span><span lang=3D"EN-US" style=3D"font-size=
+:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p=
+></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">#
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=B3=BB=BF=EB<span lang=3D"EN-US"><o:p></o:p></=
+span></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=
+=C0=BA =B0=ED=B5=F1&quot;;color:black">1.</span></b><b><span lang=3D"EN-US"=
+ style=3D"font-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;col=
+or:black">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></b><b><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">=B0=E8=BE=E0 =BA=AF=B0=E6 =B9=E8=B0=E6<=
+/span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=
+=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">-</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=C7=F6=C0=E7 =C1=A4=C3=A5=C0=C7 =B0=E6=BF=EC =
+=B9=CC=BB=E7=BF=EB =B6=F3=C0=CC=BC=B1=BD=BA =B0=FC=B8=AE=B0=A1 =BA=D2=B0=A1=
+=B4=C9<span lang=3D"EN-US"><br>
+</span>=BB=E7=BF=EB=C0=DA =B1=E2=C1=D8=C0=B8=B7=CE </span><b><u><span style=
+=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;colo=
+r:red">=BF=AC=B0=A3 =B0=E8=BE=E0=B5=C8 =B1=B8=C1=B6=B7=CE =C0=CE=C7=D8<span=
+ lang=3D"EN-US"> 1</span>=C8=B8=B8=B8 =BB=E7=BF=EB=C7=CF=B4=F5=B6=F3=B5=B5 =
+=BF=AC=B0=A3 =BA=F1=BF=EB=C0=CC =C3=BB=B1=B8</span></u></b><span style=3D"f=
+ont-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:bla=
+ck">=B5=C7=B0=ED =C0=D6=BE=EE =B0=E8=C1=A4 =C8=B8=BC=F6 =B9=D7 =B0=FC=B8=AE=
+=B0=A1 =BA=D2=B0=A1<span lang=3D"EN-US"><o:p></o:p></span></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">-</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=
+=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">Credits</span><span style=3D"font=
+-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"=
+>=C0=CC =BA=F1=C8=BF=C0=B2=C0=FB=C0=B8=B7=CE =BB=E7=BF=EB=B5=C7=B0=ED =C0=
+=D6=BE=EE =B0=B3=BC=B1 =C7=CA=BF=E4<span lang=3D"EN-US"><br>
+</span>=B6=F3=C0=CC=BC=B1=BD=BA =BB=E7=BF=EB=C0=DA=C0=C7<span lang=3D"EN-US=
+"> 41%</span>=B0=A1 =C7=D2=B4=E7=B5=C8 =C0=AF=B7=E1 =BB=E7=BF=EB=B7=AE=C0=
+=C7<span lang=3D"EN-US"> 10%</span>=B5=B5 =BB=E7=BF=EB=C7=CF=B0=ED =C0=D6=
+=C1=F6 =BE=CA=C0=B8=B8=E7<span lang=3D"EN-US"> Core
+</span>=BB=E7=BF=EB=C0=DA=C0=C7<span lang=3D"EN-US"> 75%</span>=B0=A1<span =
+lang=3D"EN-US"> 2</span>=C1=D6 =BE=C8=BF=A1 =C7=D2=B4=E7=B5=C8<span lang=3D=
+"EN-US"> Credits</span>=C0=BB =B8=F0=B5=CE =BC=D2=B8=F0=C7=CF=B0=ED =C0=D6=
+=C0=BD<span lang=3D"EN-US">.<br>
+</span>=B0=B3=C0=CE =B1=E2=C1=D8 =C5=E4=C5=AB =B0=FC=B8=AE=BF=A1=BC=AD </sp=
+an><b><u><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:red">=C8=B8=BB=E7 =C0=FC=C3=BC =C5=E4=C5=AB =B0=FC=B8=
+=AE=B7=CE =C0=FC=C8=AF</span></u></b><span style=3D"font-size:10.0pt;font-f=
+amily:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">=C0=CC =C7=CA=BF=
+=E4=C7=D4<span lang=3D"EN-US">.<o:p></o:p></span></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">-</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=C7=F6=C7=E0<span lang=3D"EN-US"> Plan</span>=
+=C0=B8=B7=CE=B4=C2 =B6=F3=C0=CC=BC=B1=BD=BA =BA=AF=B5=BF =C0=CC=B7=C2 =C1=
+=B6=C8=B8 =BA=D2=B0=A1=B4=C9<span lang=3D"EN-US"><o:p></o:p></span></span><=
+/p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph"><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=
+=B5=F1&quot;;color:black">=C7=F6=C0=E7 =BB=E7=BF=EB=C7=CF=B0=ED =C0=D6=B4=
+=C2<span lang=3D"EN-US"> Team Plan</span>=BF=A1=BC=AD=B4=C2 =B6=F3=C0=CC=BC=
+=B1=BD=BA =BA=AF=B5=BF =C0=CC=B7=C2<span lang=3D"EN-US">(Audit Log)</span>=
+=B8=A6 =C1=A6=B0=F8=C7=CF=C1=F6 =BE=CA=BE=C6 =C4=A7=C7=D8 =BB=E7=B0=ED =B9=
+=DF=BB=FD=C0=CC=B3=AA<span lang=3D"EN-US">&nbsp;</span>=BA=F1=C0=CE=B0=A1
+ =BB=E7=BF=EB=C0=DA=B0=A1 =B0=A1=C0=D4=C7=DF=C0=BB =B6=A7 =B0=E6=B7=CE =C3=
+=DF=C0=FB=C0=CC =B8=C5=BF=EC =BE=EE=B7=C1=BF=F2<span lang=3D"EN-US"><o:p></=
+o:p></span></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;<o:p></o:p></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=
+=C0=BA =B0=ED=B5=F1&quot;;color:black">2.</span></b><b><span lang=3D"EN-US"=
+ style=3D"font-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;col=
+or:black">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></b><b><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">=C0=CF=C1=A4</span></b><span lang=3D"EN=
+-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&=
+quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">-</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=
+=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">Team Plan
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=B6=F3=C0=CC=BC=B1=BD=BA =B0=E8=BE=E0 =C1=BE=
+=B7=E1<span lang=3D"EN-US"> : ~04/30(</span>=B1=DD<span lang=3D"EN-US">)<o:=
+p></o:p></span></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">-</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=
+=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">Enterprise
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=B0=E8=BE=E0 =BD=C3=C0=DB<span lang=3D"EN-US">=
+ : 05/01(</span>=C5=E4<span lang=3D"EN-US">)<o:p></o:p></span></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">-</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=
+=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">Enterprise
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=C8=AF=B0=E6 =B1=B8=C3=E0<span lang=3D"EN-US">=
+ : 05/04(</span>=BF=F9<span lang=3D"EN-US">)<o:p></o:p></span></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">-</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=BF=EC=BC=B1 =B9=DF=B1=DE =B4=EB=BB=F3=C0=DA =
+=B6=F3=C0=CC=BC=B1=BD=BA =B9=DF=B1=DE<span lang=3D"EN-US"> : 05/06(</span>=
+=BC=F6<span lang=3D"EN-US">)<o:p></o:p></span></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">-</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=C8=C4=BC=F8=C0=A7 =B9=DF=B1=DE =B4=EB=BB=F3=
+=C0=DA =B9=DF=B1=DE<span lang=3D"EN-US"> : 05</span>=BF=F9 =F1=E9<span lang=
+=3D"EN-US"><br>
+</span>=A1=D8 =C3=DF=B0=A1<span lang=3D"EN-US"> AI Coding Agent(ex. Claude =
+Code)</span>=B8=A6<span lang=3D"EN-US"> 5</span>=BF=F9 =C1=DF=BF=A1 =B9=DF=
+=B1=DE =BF=B9=C1=A4<span lang=3D"EN-US"><o:p></o:p></span></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=
+=C0=BA =B0=ED=B5=F1&quot;;color:black">3.</span></b><b><span lang=3D"EN-US"=
+ style=3D"font-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;col=
+or:black">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></b><b><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">=BF=EC=BC=B1 =B9=DF=B1=DE =B4=EB=BB=F3<=
+/span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=
+=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">-</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=B4=EB=BB=F3<span lang=3D"EN-US"> : 150</span>=
+=B8=ED<span lang=3D"EN-US"><o:p></o:p></span></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">-</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=BC=B1=BA=B0 =B1=E2=C1=D8<span lang=3D"EN-US">=
+ : 04</span>=BF=F9 =C0=AF=B7=E1 =BB=E7=BF=EB=B7=AE =BB=F3=C0=A7<span lang=
+=3D"EN-US"> 150</span>=B8=ED<span lang=3D"EN-US">(</span>=C7=E3=BF=EB=B5=C7=
+=C1=F6 =BE=CA=C0=BA =B0=E6=B7=CE=C0=C7 =B9=AB=B4=DC =BB=E7=BF=EB=C0=DA=B4=
+=C2 =C1=A6=BF=DC<span lang=3D"EN-US">)<o:p></o:p></span></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=
+=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">&nbsp;<o:p></o:p></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=
+=C0=BA =B0=ED=B5=F1&quot;;color:black">4.</span></b><b><span lang=3D"EN-US"=
+ style=3D"font-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;col=
+or:black">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></b><b><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">=C8=C4=BC=F8=C0=A7 =B9=DF=B1=DE =B4=EB=
+=BB=F3</span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family=
+:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p></o:p></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">-</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=B4=EB=BB=F3<span lang=3D"EN-US"> : 209</span>=
+=B8=ED<span lang=3D"EN-US"><o:p></o:p></span></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">-</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=BC=B1=BA=B0 =B1=E2=C1=D8<span lang=3D"EN-US">=
+ :
+</span>=C0=FC=C3=BC =BB=E7=BF=EB=C0=DA =F1=E9 =BF=EC=BC=B1 =B9=DF=B1=DE =B4=
+=EB=BB=F3=C0=DA=B8=A6 =C1=A6=BF=DC=C7=D1 =C0=CE=BF=F8<span lang=3D"EN-US">(=
+</span>=C7=E3=BF=EB=B5=C7=C1=F6 =BE=CA=C0=BA =B0=E6=B7=CE=C0=C7 =B9=AB=B4=
+=DC =BB=E7=BF=EB=C0=DA=B4=C2 =C1=A6=BF=DC<span lang=3D"EN-US">)<o:p></o:p><=
+/span></span></p>
+<p style=3D"margin-left:40.0pt;text-align:justify;text-justify:inter-ideogr=
+aph;text-indent:-18.0pt">
+<span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=
+=BA =B0=ED=B5=F1&quot;;color:black">-</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=
+=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">Cursor AI
+</span><span style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=
+=ED=B5=F1&quot;;color:black">=B6=F3=C0=CC=BC=B1=BD=BA =C3=DF=B0=A1 =C8=AE=
+=BA=B8 =C0=FC=BF=A1<span lang=3D"EN-US"> AI Agent</span>=B0=A1 =C7=CA=BF=E4=
+=C7=CF=BD=C5 =B0=E6=BF=EC<span lang=3D"EN-US"> Github Copilot</span>=C0=B8=
+=B7=CE =BD=C5=C3=BB<span lang=3D"EN-US"><o:p></o:p></span></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;<o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=
+=F1&quot;;color:black">&nbsp;<o:p></o:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:14.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=A1=DA=A1=DA=A1=DA =C0=D3=C0=C7=B7=CE =B4=D9=B8=A5 =BB=E7=BF=EB=C0=DA=
+ =C3=CA=B4=EB=B8=A6 =C7=CF=B0=C5=B3=AA =B6=F3=C0=CC=BC=B1=BD=BA=B8=A6 =C0=
+=D3=C0=C7=B7=CE =BE=E7=B5=B5=C7=CF=BD=C7 =B0=E6=BF=EC
+</span><b><u><span style=3D"font-size:14.0pt;font-family:&quot;=B8=BC=C0=BA=
+ =B0=ED=B5=F1&quot;;color:red">=BC=D2=BC=D3 =C6=C0 =C8=A4=C0=BA =B0=B3=C0=
+=CE=BF=A1=B0=D4 =B6=F3=C0=CC=BC=B1=BD=BA =BA=F1=BF=EB=C0=CC =BA=B0=B5=B5 =
+=C3=BB=B1=B8</span></u></b><span style=3D"font-size:14.0pt;font-family:&quo=
+t;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black">=B5=C9 =BC=F6 =C0=D6=C0=B8=
+=B4=CF =B2=C0 =C1=D6=C0=C7 =BA=CE=C5=B9=B5=E5=B8=B3=B4=CF=B4=D9<span lang=
+=3D"EN-US">.
+</span>=A1=DA=A1=DA=A1=DA</span><span lang=3D"EN-US" style=3D"font-size:10.=
+0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:black"><o:p></o=
+:p></span></p>
+<p style=3D"text-align:justify;text-justify:inter-ideograph"><span style=3D=
+"font-size:10.0pt;font-family:&quot;=B8=BC=C0=BA =B0=ED=B5=F1&quot;;color:b=
+lack">=B0=A8=BB=E7=C7=D5=B4=CF=B4=D9<span lang=3D"EN-US">.<o:p></o:p></span=
+></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_b07aa586e0f140608f6eea65f8f9f827hanwhacom_--

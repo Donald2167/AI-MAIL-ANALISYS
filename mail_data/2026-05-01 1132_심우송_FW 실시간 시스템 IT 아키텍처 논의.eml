@@ -1,0 +1,221 @@
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17 via Mailbox Transport; Fri, 1 May 2026 11:32:03 +0900
+Received: from HGI-EX02P.HGI.hanwha.com (172.28.11.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.2.2562.17; Fri, 1 May 2026 11:32:03 +0900
+Received: from HGI-EX03P.HGI.hanwha.com (172.28.11.43) by
+ HGI-EX02P.HGI.hanwha.com (172.28.11.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.1.2507.55; Fri, 1 May 2026 11:32:03 +0900
+Received: from HGI-EX03P.HGI.hanwha.com ([fe80::50f:b25c:9887:d8a9]) by
+ HGI-EX03P.HGI.hanwha.com ([fe80::50f:b25c:9887:d8a9%26]) with mapi id
+ 15.01.2507.055; Fri, 1 May 2026 11:32:03 +0900
+From: =?ks_c_5601-1987?B?vcm/7Lzb?= <woosong.shim@hanwha.com>
+To: =?ks_c_5601-1987?B?wPzAr8H4IMfRyK29w726xdsvSUNU?= <youjin0404@hanwha.com>
+Subject: =?ks_c_5601-1987?B?Rlc6IL3HvcOwoyC9w726xdsgSVQgvsbFsMXYw7Mgs+3Axw==?=
+Thread-Topic: =?ks_c_5601-1987?B?vce9w7CjIL3DvbrF2yBJVCC+xsWwxdjDsyCz7cDH?=
+Thread-Index: AdzFeqkTfAkW5+z/QF62EjqTI3bmowAAFguQ
+Sender: =?ks_c_5601-1987?B?wPzAr8H4?= <8921246@hanwha.com>
+X-MS-Exchange-MessageSentRepresentingType: 2
+Date: Fri, 1 May 2026 11:32:02 +0900
+Message-ID: <9d8436ed2b2846e9bb95dc4cca9dc227@hanwha.com>
+References: <c75ad97857ce4b1db3633004f9da616a@hanwha.com>
+In-Reply-To: <c75ad97857ce4b1db3633004f9da616a@hanwha.com>
+Accept-Language: ko-KR, en-US
+Content-Language: ko-KR
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: HGI-EX03P.HGI.hanwha.com
+X-MS-Exchange-Organization-ComplianceLabelId:
+	269edd4b-6f1a-456c-b817-d9d46ad5b050
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	7f4c5ed0-a4c7-4031-0ae8-08dea729d44d
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+Content-Type: multipart/alternative;
+	boundary="_000_9d8436ed2b2846e9bb95dc4cca9dc227hanwhacom_"
+MIME-Version: 1.0
+
+--_000_9d8436ed2b2846e9bb95dc4cca9dc227hanwhacom_
+Content-Type: text/plain; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: base64
+
+DQoNCi0tLS0tT3JpZ2luYWwgQXBwb2ludG1lbnQtLS0tLQ0KRnJvbTogvcm/7LzbIDx3b29zb25n
+LnNoaW1AaGFud2hhLmNvbTxtYWlsdG86d29vc29uZy5zaGltQGhhbndoYS5jb20+Pg0KU2VudDog
+TW9uZGF5LCBBcHJpbCA2LCAyMDI2IDE6MDggUE0NClRvOiC9yb/svNs7ILHosK3I8ShLaW0gS2Fu
+ZyBIZWUpOyDA/MCvwfg7ILHotNnH9ihLaW0gRGFoeXVuKQ0KU3ViamVjdDogvce9w7CjIL3DvbrF
+2yBJVCC+xsWwxdjDsyCz7cDHDQpXaGVuOiAyMDI2s+IgNL/5IDbAzyC/+b/kwM8gv8DIxCAzOjEw
+Lb/AyMQgMzo0MCAoVVRDKzA5OjAwKSC8rb/vDQpXaGVyZTogMTdNMQ0KDQoNCg==
+
+--_000_9d8436ed2b2846e9bb95dc4cca9dc227hanwhacom_
+Content-Type: text/html; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dks_c_5601=
+-1987">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:=B1=BC=B8=B2;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+@font-face
+	{font-family:"\@=B8=BC=C0=BA =B0=ED=B5=F1";}
+@font-face
+	{font-family:"\@=B1=BC=B8=B2";
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-autospace:none;
+	word-break:break-hangul;
+	font-size:10.0pt;
+	font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:3.0cm 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"KO" link=3D"#0563C1" vlink=3D"#954F72" style=3D"word-wrap:bre=
+ak-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<div>
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&qu=
+ot;,sans-serif">-----Original Appointment-----<br>
+<b>From:</b> </span><span style=3D"font-size:11.0pt;font-family:=B1=BC=B8=
+=B2">=BD=C9=BF=EC=BC=DB</span><span lang=3D"EN-US" style=3D"font-size:11.0p=
+t;font-family:&quot;Calibri&quot;,sans-serif"> &lt;<a href=3D"mailto:wooson=
+g.shim@hanwha.com">woosong.shim@hanwha.com</a>&gt;
+<br>
+<b>Sent:</b> Monday, April 6, 2026 1:08 PM<br>
+<b>To:</b> </span><span style=3D"font-size:11.0pt;font-family:=B1=BC=B8=B2"=
+>=BD=C9=BF=EC=BC=DB</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;fo=
+nt-family:&quot;Calibri&quot;,sans-serif">;
+</span><span style=3D"font-size:11.0pt;font-family:=B1=BC=B8=B2">=B1=E8=B0=
+=AD=C8=F1</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif">(Kim Kang Hee);
+</span><span style=3D"font-size:11.0pt;font-family:=B1=BC=B8=B2">=C0=FC=C0=
+=AF=C1=F8</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif">;
+</span><span style=3D"font-size:11.0pt;font-family:=B1=BC=B8=B2">=B1=E8=B4=
+=D9=C7=F6</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif">(Kim Dahyun)<br>
+<b>Subject:</b> </span><span style=3D"font-size:11.0pt;font-family:=B1=BC=
+=B8=B2">=BD=C7=BD=C3=B0=A3</span><span style=3D"font-size:11.0pt;font-famil=
+y:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt;font-family:=B1=BC=B8=B2">=BD=C3=BD=
+=BA=C5=DB</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,sans-serif"> IT
+</span><span style=3D"font-size:11.0pt;font-family:=B1=BC=B8=B2">=BE=C6=C5=
+=B0=C5=D8=C3=B3</span><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt;font-family:=B1=BC=B8=B2">=B3=ED=C0=
+=C7</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;=
+Calibri&quot;,sans-serif"><br>
+<b>When:</b> 2026</span><span style=3D"font-size:11.0pt;font-family:=B1=BC=
+=B8=B2">=B3=E2</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-fa=
+mily:&quot;Calibri&quot;,sans-serif"> 4</span><span style=3D"font-size:11.0=
+pt;font-family:=B1=BC=B8=B2">=BF=F9</span><span lang=3D"EN-US" style=3D"fon=
+t-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+ 6</span><span style=3D"font-size:11.0pt;font-family:=B1=BC=B8=B2">=C0=CF</=
+span><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-s=
+erif">
+</span><span style=3D"font-size:11.0pt;font-family:=B1=BC=B8=B2">=BF=F9=BF=
+=E4=C0=CF</span><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&q=
+uot;,sans-serif">
+</span><span style=3D"font-size:11.0pt;font-family:=B1=BC=B8=B2">=BF=C0=C8=
+=C4</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;=
+Calibri&quot;,sans-serif"> 3:10-</span><span style=3D"font-size:11.0pt;font=
+-family:=B1=BC=B8=B2">=BF=C0=C8=C4</span><span lang=3D"EN-US" style=3D"font=
+-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">
+ 3:40 (UTC&#43;09:00) </span><span style=3D"font-size:11.0pt;font-family:=
+=B1=BC=B8=B2">=BC=AD=BF=EF</span><span lang=3D"EN-US" style=3D"font-size:11=
+.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br>
+<b>Where:</b> 17M1<o:p></o:p></span></p>
+</div>
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left"><span lang=
+=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_9d8436ed2b2846e9bb95dc4cca9dc227hanwhacom_
+Content-Type: text/calendar; charset="utf-8"; method=REQUEST
+Content-Transfer-Encoding: base64
+
+QkVHSU46VkNBTEVOREFSDQpNRVRIT0Q6UkVRVUVTVA0KUFJPRElEOk1pY3Jvc29mdCBFeGNoYW5n
+ZSBTZXJ2ZXIgMjAxMA0KVkVSU0lPTjoyLjANCkJFR0lOOlZUSU1FWk9ORQ0KVFpJRDpLb3JlYSBT
+dGFuZGFyZCBUaW1lDQpCRUdJTjpTVEFOREFSRA0KRFRTVEFSVDoxNjAxMDEwMVQwMDAwMDANClRa
+T0ZGU0VURlJPTTorMDkwMA0KVFpPRkZTRVRUTzorMDkwMA0KRU5EOlNUQU5EQVJEDQpCRUdJTjpE
+QVlMSUdIVA0KRFRTVEFSVDoxNjAxMDEwMVQwMDAwMDANClRaT0ZGU0VURlJPTTorMDkwMA0KVFpP
+RkZTRVRUTzorMDkwMA0KRU5EOkRBWUxJR0hUDQpFTkQ6VlRJTUVaT05FDQpCRUdJTjpWRVZFTlQN
+Ck9SR0FOSVpFUjtDTj3si6zsmrDshqE7U0VOVC1CWT0iTUFJTFRPOjg5MjEyNDZAaGFud2hhLmNv
+bSI6TUFJTFRPOndvb3Nvbmcuc2hpDQogbUBoYW53aGEuY29tDQpBVFRFTkRFRTtST0xFPVJFUS1Q
+QVJUSUNJUEFOVDtQQVJUU1RBVD1ORUVEUy1BQ1RJT047UlNWUD1UUlVFO0NOPeyghOycoOynhCAN
+CiDtlZztmZTsi5zsiqTthZwvSUNUOk1BSUxUTzp5b3VqaW4wNDA0QGhhbndoYS5jb20NCkRFU0NS
+SVBUSU9OO0xBTkdVQUdFPWtvLUtSOlxuXG4tLS0tLU9yaWdpbmFsIEFwcG9pbnRtZW50LS0tLS1c
+bkZyb206IOyLrOyasA0KIOyGoSA8d29vc29uZy5zaGltQGhhbndoYS5jb208bWFpbHRvOndvb3Nv
+bmcuc2hpbUBoYW53aGEuY29tPj5cblNlbnQ6IE1vbmRhDQogeVwsIEFwcmlsIDZcLCAyMDI2IDE6
+MDggUE1cblRvOiDsi6zsmrDshqFcOyDquYDqsJXtnawoS2ltIEthbmcgSGVlKVw7IOyghA0KIOyc
+oOynhFw7IOq5gOuLpO2YhChLaW0gRGFoeXVuKVxuU3ViamVjdDog7Iuk7Iuc6rCEIOyLnOyKpO2F
+nCBJVCDslYTtgqTthY0NCiDsspgg64W87J2YXG5XaGVuOiAyMDI264WEIDTsm5QgNuydvCDsm5Ts
+mpTsnbwg7Jik7ZuEIDM6MTAt7Jik7ZuEIDM6NDAgKFVUQw0KICswOTowMCkg7ISc7Jq4XG5XaGVy
+ZTogMTdNMVxuXG5cbg0KVUlEOjA0MDAwMDAwODIwMEUwMDA3NEM1QjcxMDFBODJFMDA4MDAwMDAw
+MDAzMEVBMjc3MUM2QzVEQzAxMDAwMDAwMDAwMDAwMDAwDQogMDEwMDAwMDAwNUNFNUYxMENGQzkw
+QUE0NTg4RTVFRjhCOTlCMUFENzQNClNVTU1BUlk7TEFOR1VBR0U9a28tS1I6Rlc6IOyLpOyLnOqw
+hCDsi5zsiqTthZwgSVQg7JWE7YKk7YWN7LKYIOuFvOydmA0KRFRTVEFSVDtUWklEPUtvcmVhIFN0
+YW5kYXJkIFRpbWU6MjAyNjA0MDZUMTUxMDAwDQpEVEVORDtUWklEPUtvcmVhIFN0YW5kYXJkIFRp
+bWU6MjAyNjA0MDZUMTU0MDAwDQpDTEFTUzpQVUJMSUMNClBSSU9SSVRZOjUNCkRUU1RBTVA6MjAy
+NjA0MDZUMDQwODIwWg0KVFJBTlNQOk9QQVFVRQ0KU1RBVFVTOkNPTkZJUk1FRA0KU0VRVUVOQ0U6
+MA0KTE9DQVRJT047TEFOR1VBR0U9a28tS1I6MTdNMQ0KWC1NSUNST1NPRlQtQ0RPLUFQUFQtU0VR
+VUVOQ0U6MA0KWC1NSUNST1NPRlQtQ0RPLU9XTkVSQVBQVElEOi01NjE2MjUxMTANClgtTUlDUk9T
+T0ZULUNETy1CVVNZU1RBVFVTOlRFTlRBVElWRQ0KWC1NSUNST1NPRlQtQ0RPLUlOVEVOREVEU1RB
+VFVTOkJVU1kNClgtTUlDUk9TT0ZULUNETy1BTExEQVlFVkVOVDpGQUxTRQ0KWC1NSUNST1NPRlQt
+Q0RPLUlNUE9SVEFOQ0U6MQ0KWC1NSUNST1NPRlQtQ0RPLUlOU1RUWVBFOjANClgtTUlDUk9TT0ZU
+LURPTk9URk9SV0FSRE1FRVRJTkc6RkFMU0UNClgtTUlDUk9TT0ZULURJU0FMTE9XLUNPVU5URVI6
+RkFMU0UNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==
+
+--_000_9d8436ed2b2846e9bb95dc4cca9dc227hanwhacom_--

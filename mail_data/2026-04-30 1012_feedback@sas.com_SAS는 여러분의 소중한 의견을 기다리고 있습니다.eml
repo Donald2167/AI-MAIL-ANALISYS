@@ -1,0 +1,214 @@
+Received: from HSNC-EX01P.hsnc.hanwha.com (172.20.150.41) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17 via Mailbox Transport; Thu, 30 Apr 2026 10:12:32 +0900
+Received: from HSNC-EX03P.hsnc.hanwha.com (172.20.150.43) by
+ HSNC-EX01P.hsnc.hanwha.com (172.20.150.41) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17; Thu, 30 Apr 2026 10:12:31 +0900
+Received: from spam1.hanwha.com (121.168.9.111) by HSNC-EX03P.hsnc.hanwha.com
+ (172.20.150.43) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.2562.17 via Frontend
+ Transport; Thu, 30 Apr 2026 10:12:31 +0900
+X-Original-SPF: pass (121.168.9.111: SPF record at _spf.sas.com designates 98.97.251.61 as permitted sender)
+Authentication-Results: spam.hanwha.com;
+	dkim=pass (2048-bit key) header.d=yul1.xm-feedback.com header.i=@yul1.xm-feedback.com header.b=axyx6sWw;
+	spf=pass (121.168.9.111: SPF record at _spf.sas.com designates 98.97.251.61 as permitted sender) smtp.mailfrom=feedback@sas.com
+Received: from unknown (HELO smtp61.yul1.qemailserver.com) (98.97.251.61)
+	by 121.168.9.111 with ESMTP; 30 Apr 2026 10:12:01 +0900
+X-Original-SENDERIP: 98.97.251.61
+X-Original-SENDERCOUNTRY: US, United States
+X-Original-MAILFROM: feedback@sas.com
+X-Original-RCPTTO: youjin0404@hanwha.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=simple/relaxed; t=1777511517;
+	s=qualtrics2k1; d=yul1.xm-feedback.com;
+	h=List-ID:List-Unsubscribe-Post:List-Unsubscribe:Content-Type:MIME-Version:Subject:Message-ID:To:Reply-To:Sender:From:Date;
+	bh=4Vf2FBzQT+Zr9CDkqPcMLRE8bB576TWh+ETrrPSWut4=;
+	b=axyx6sWwqPT6Pc9MIptljTlhWh6KTiu+vtQsPrQSQThDJnfrv/KoVQ13vJBQg3qa
+	MbeIXuDFpx256fdDhVgM7mP+LNDgu0KpQF72/knCnDIrHehfQzESEYEaDbVyYb+1REE
+	ULR/UymB9iLlai5XY7ps0X++LvL4VaEmvJ1IAME5qKpB4TCbXHeoqlUQW8vdLHqBxu1
+	AQOxJfpEBCXWjGW3L7O0uqGRVmnBcLSYzZJxd9JmaJqePtBkrmYG/CXZEaeLEGMDlVp
+	+LFY6Q3qAcbZJ1+iViSI3Y3jqXO234hVU6KuXPHqiFMmoRfUwJYoXcp2lqDQDRq11Sz
+	+aETPMenkg==
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=simple/relaxed; t=1777511517;
+	s=qualtrics_05a99b; d=sas.com;
+	h=List-ID:List-Unsubscribe-Post:List-Unsubscribe:Content-Type:MIME-Version:Subject:Message-ID:To:Reply-To:Sender:From:Date;
+	bh=4Vf2FBzQT+Zr9CDkqPcMLRE8bB576TWh+ETrrPSWut4=;
+	b=fIWig6fJ4seqhrrYOX/CyWhtNM0bAFcpMrajQfpCj5vxRMtgP5CcVxXgzD58b9tO
+	o/Rb3gem6yC9CaQLv+zFQVdxQMIwFakUcdBQaxvthMqReov1dldsWGLu3GyTTzBQhbJ
+	Z4MldnBiYOSt206qW4wBVYhhi3+4/TneaPk1QLZA=
+Date: Wed, 29 Apr 2026 19:11:57 -0600 (MDT)
+From: So-Yeon Kim <feedback@sas.com>
+Sender: So-Yeon Kim <feedback@sas.com>
+Reply-To: So-Yeon Kim <feedback@sas.com>
+To: =?UTF-8?B?7Jyg7KeEIOyghA==?= <youjin0404@hanwha.com>
+Message-ID: <461344429.3789779.1777511517044@jwm-689c898968-kqj89>
+Subject: =?UTF-8?B?U0FT64qUIOyXrOufrOu2hOydmCDshozspJHtlZwg?=
+ =?UTF-8?B?7J2Y6rKs7J2EIOq4sOuLpOumrOqzoCDsnojsirXri4jri6Qh?=
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_3789770_1048701596.1777511517042"
+X-QUMID: UR_2r9lJfG2Y9KFba6-EMD_HADr1oUvWV0xSUt-CGC_JAfjLgO6c0sGzRd-SV_400DsxHqDo0wQ4e
+List-Unsubscribe: <https://yul1.qualtrics.com/subscription/manage/unsubscribe?recipientId=CGC_JAfjLgO6c0sGzRd&libraryId=GR_1NYFDAmOYJVJvBr&distributionId=EMD_HADr1oUvWV0xSUt&BT=c2Fz>,<mailto:BD.JJAWM2SMM5HTMYZQONDXUUTE.GJZDS3CKMZDTEWJZJNDGEYJW@unsubscribe.qemailserver.com?subject=qunsub_CGC_JAfjLgO6c0sGzRd.UR_2r9lJfG2Y9KFba6.sas.EMD_HADr1oUvWV0xSUt.SV_400DsxHqDo0wQ4e.UR_2r9lJfG2Y9KFba6.CG_XZghXyl8CBQbjah.https%3A%2F%2Fsas.qualtrics.com%2FCP%2FRegister.php>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-ID: <b6f073abe155da7075e96b02ae50a17b31fb874c.sas.com>
+Return-Path: feedback@sas.com
+X-MS-Exchange-Organization-Network-Message-Id: 3fe81b85-f92a-4887-443c-08dea6558e1b
+X-MS-Exchange-Organization-AuthSource: HSNC-EX03P.hsnc.hanwha.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2894898
+X-MS-Exchange-Processed-By-BccFoldering: 15.02.2562.016
+MIME-Version: 1.0
+
+------=_Part_3789770_1048701596.1777511517042
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3789773_1691497881.1777511517042"
+
+------=_Part_3789773_1691497881.1777511517042
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+U0FT64qUIOyXrOufrOu2hOydmCDshozspJHtlZwg7J2Y6rKs7J2EIOq4sOuLpOumrOqzoCDsnojs
+irXri4jri6QhCuyghCDsnKDsp4Qg64uY6ruYIOyngOuCnCA1MOuFhCDrj5nslYggU0FT64qUIOqz
+oOqwnSDsl6zrn6zrtoTqs7wg7ZWo6ruYIOuNsOydtO2EsOulvCDsnbjsgqzsnbTtirjroZwsIOq3
+uOumrOqzoCDqt7gg7J247IKs7J207Yq466W8IO2ZleyLoCDsnojripQg6rKw7KCV7Jy866GcIOuw
+lOq+uOyWtCDsmZTsirXri4jri6QuCuynhOygle2VnCDtjIztirjrhIjsi63snYAg6rOg6rCd7J2Y
+IOuqqeyGjOumrOulvCDqsr3ssq3tlZjripQg6rKD7JeQ7ISc67aA7YSwIOyLnOyekeuQqeuLiOuL
+pC4KCuyXrOufrOu2hOydmCDshozspJHtlZwg7J2Y6rKs7J2AIOyggO2drOydmCDrgpjslYTqsIgg
+67Cp7Zal7J2EIOqysOygle2VmOuKlCDrjbAg7YGwIOuPhOybgOydtCDrkKnri4jri6QuIOyeoOyL
+nOunjCDsi5zqsITsnYQg64K07Ja0IOynp+ydgCDshKTrrLjsl5Ag7LC47Jes7ZW0IOyjvOyLnOup
+tCDsoJXrp5AK6rCQ7IKs7ZWY6rKg7Iq164uI64ukLgoK7JWE656YIOunge2BrOulvCDtgbTrpq3t
+lZjsl6wg7ISk66y47JeQIOywuOyXrO2VtCDso7zshLjsmpQuCuyXrOq4sOulvCDtgbTrpq3tlbTs
+hJwg7ISk66y47JeQIOydke2VtOyjvOyEuOyalAo8aHR0cHM6Ly9zYXMucXVhbHRyaWNzLmNvbS9q
+ZmUvZm9ybS9TVl80MDBEc3hIcURvMHdRNGU/UV9ETD1VTmpORXNkaFpvNHFuZXBfNDAwRHN4SHFE
+bzB3UTRlX0NHQ19KQWZqTGdPNmMwc0d6UmQmUV9SRD1FTURfSEFEcjFvVXZXVjB4U1V0JlFfQ0hM
+PWVtYWlsPgoK67OA7ZWo7JeG64qUIO2MjO2KuOuEiOyLreyXkCDqsJDsgqzrk5zrpr3ri4jri6Qu
+IOqzoOqwnSDsl6zrn6zrtoTsnZgg7J2Y6rKs7J2AIFNBU+qwgCDrp57snbTtlaAg64uk7J2MIOyL
+nOuMgOulvCDsl6zripQg7IaM7KSR7ZWcIOuwkeqxsOumhOydtCDrkKnri4jri6QuCgrqsJDsgqzt
+lanri4jri6QuClNvLVllb24gS2ltCkN1c3RvbWVyIFN1Y2Nlc3MgTWFuYWdlcgoKX19fX19fX19f
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCgpTQVMgfCAxMDAgU0FT
+IENhbXB1cyBEcml2ZSB8IENhcnksIE5DIDI3NTEzCkNsaWNrIGhlcmUKPGh0dHBzOi8vc2FzLnF1
+YWx0cmljcy5jb20vc3Vic2NyaXB0aW9uL21hbmFnZS9jb25maXJtYXRpb24/cmVjaXBpZW50SWQ9
+Q0dDX0pBZmpMZ082YzBzR3pSZCZsaWJyYXJ5SWQ9R1JfMU5ZRkRBbU9ZSlZKdkJyJmRpc3RyaWJ1
+dGlvbklkPUVNRF9IQURyMW9VdldWMHhTVXQmQlQ9YzJGej4KdG8gdW5zdWJzY3JpYmUgZnJvbSBm
+dXR1cmUgU0FTIHN1cnZleXMg67O4IOyEpOusuOydgCDsmbjrtoAg7ISk66y4IO2UjOueq+2PvOyd
+uCBRdWFsdHJpY3MKPGh0dHA6Ly93d3cucXVhbHRyaWNzLmNvbS8+66W8IO2Gte2VtCDqtIDrpqwg
+67CPIOyatOyYgeuQqeuLiOuLpC4g7ISk66y4IOq0gOugqCDrrLjsnZgg7IKs7ZWt7J2064KYIOq4
+sOyIoOyggSDrrLjsoJzqsIAg67Cc7IOd7ZWgIOqyveyasCDslrjsoJzrk6Dsp4Ag7J20CuuplOyd
+vOyXkCDtmozsi6DtlbQg7KO87IS47JqULg==
+------=_Part_3789773_1691497881.1777511517042
+Content-Type: multipart/related; 
+	boundary="----=_Part_3789775_1810905983.1777511517042"
+
+------=_Part_3789775_1810905983.1777511517042
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"></=
+head><body><div style=3D"text-align: left;">
+<div style=3D"text-align: center;">&nbsp;&nbsp;<span style=3D"font-size:19p=
+x;"><strong><span style=3D"line-height:107%"><span style=3D"background:whit=
+e">SAS=EB=8A=94 =EC=97=AC=EB=9F=AC=EB=B6=84=EC=9D=98 =EC=86=8C=EC=A4=91=ED=
+=95=9C =EC=9D=98=EA=B2=AC=EC=9D=84 =EA=B8=B0=EB=8B=A4=EB=A6=AC=EA=B3=A0 =EC=
+=9E=88=EC=8A=B5=EB=8B=88=EB=8B=A4!</span></span></strong></span><br>
+&nbsp;</div>
+
+<table align=3D"center" border=3D"0" cellpadding=3D"1" cellspacing=3D"1" st=
+yle=3D"width:700px;">
+	<tbody>
+		<tr>
+			<td><span style=3D"font-size:16px;"><span style=3D"font-family:Arial,Hel=
+vetica,sans-serif;"><span style=3D"line-height:107%"><span style=3D"backgro=
+und:white">=EC=A0=84 =EC=9C=A0=EC=A7=84 =EB=8B=98=EA=BB=98</span></span></s=
+pan></span>
+
+			<p paraeid=3D"{f32b7db5-5311-4353-aac9-e42fcdb8c6a4}{196}" paraid=3D"152=
+7422267"><span style=3D"font-size:16px;"><span style=3D"font-family:Arial,H=
+elvetica,sans-serif;">=EC=A7=80=EB=82=9C 50=EB=85=84 =EB=8F=99=EC=95=88 SAS=
+=EB=8A=94 =EA=B3=A0=EA=B0=9D =EC=97=AC=EB=9F=AC=EB=B6=84=EA=B3=BC =ED=95=A8=
+=EA=BB=98 =EB=8D=B0=EC=9D=B4=ED=84=B0=EB=A5=BC =EC=9D=B8=EC=82=AC=EC=9D=B4=
+=ED=8A=B8=EB=A1=9C, =EA=B7=B8=EB=A6=AC=EA=B3=A0 =EA=B7=B8 =EC=9D=B8=EC=82=
+=AC=EC=9D=B4=ED=8A=B8=EB=A5=BC =ED=99=95=EC=8B=A0 =EC=9E=88=EB=8A=94 =EA=B2=
+=B0=EC=A0=95=EC=9C=BC=EB=A1=9C =EB=B0=94=EA=BE=B8=EC=96=B4 =EC=99=94=EC=8A=
+=B5=EB=8B=88=EB=8B=A4.&nbsp;=EC=A7=84=EC=A0=95=ED=95=9C =ED=8C=8C=ED=8A=B8=
+=EB=84=88=EC=8B=AD=EC=9D=80 =EA=B3=A0=EA=B0=9D=EC=9D=98 =EB=AA=A9=EC=86=8C=
+=EB=A6=AC=EB=A5=BC =EA=B2=BD=EC=B2=AD=ED=95=98=EB=8A=94 =EA=B2=83=EC=97=90=
+=EC=84=9C=EB=B6=80=ED=84=B0 =EC=8B=9C=EC=9E=91=EB=90=A9=EB=8B=88=EB=8B=A4.<=
+br>
+			<br>
+			=EC=97=AC=EB=9F=AC=EB=B6=84=EC=9D=98 =EC=86=8C=EC=A4=91=ED=95=9C =EC=9D=
+=98=EA=B2=AC=EC=9D=80 =EC=A0=80=ED=9D=AC=EC=9D=98 =EB=82=98=EC=95=84=EA=B0=
+=88 =EB=B0=A9=ED=96=A5=EC=9D=84 =EA=B2=B0=EC=A0=95=ED=95=98=EB=8A=94 =EB=8D=
+=B0 =ED=81=B0 =EB=8F=84=EC=9B=80=EC=9D=B4 =EB=90=A9=EB=8B=88=EB=8B=A4. =EC=
+=9E=A0=EC=8B=9C=EB=A7=8C =EC=8B=9C=EA=B0=84=EC=9D=84 =EB=82=B4=EC=96=B4 =EC=
+=A7=A7=EC=9D=80 =EC=84=A4=EB=AC=B8=EC=97=90 =EC=B0=B8=EC=97=AC=ED=95=B4 =EC=
+=A3=BC=EC=8B=9C=EB=A9=B4 =EC=A0=95=EB=A7=90 =EA=B0=90=EC=82=AC=ED=95=98=EA=
+=B2=A0=EC=8A=B5=EB=8B=88=EB=8B=A4.<br>
+			<br>
+			<strong><b><span style=3D"line-height:107%"><b>=EC=95=84=EB=9E=98 =EB=A7=
+=81=ED=81=AC=EB=A5=BC =ED=81=B4=EB=A6=AD=ED=95=98=EC=97=AC =EC=84=A4=EB=AC=
+=B8=EC=97=90 =EC=B0=B8=EC=97=AC=ED=95=B4 =EC=A3=BC=EC=84=B8=EC=9A=94.</b></=
+span></b></strong><br>
+			<a href=3D"https://sas.qualtrics.com/jfe/form/SV_400DsxHqDo0wQ4e?Q_DL=3D=
+UNjNEsdhZo4qnep_400DsxHqDo0wQ4e_CGC_JAfjLgO6c0sGzRd&amp;Q_RD=3DEMD_HADr1oUv=
+WV0xSUt&amp;Q_CHL=3Demail">=EC=97=AC=EA=B8=B0=EB=A5=BC =ED=81=B4=EB=A6=AD=
+=ED=95=B4=EC=84=9C =EC=84=A4=EB=AC=B8=EC=97=90 =EC=9D=91=ED=95=B4=EC=A3=BC=
+=EC=84=B8=EC=9A=94</a><br>
+			<br>
+			<span style=3D"line-height:107%">=EB=B3=80=ED=95=A8=EC=97=86=EB=8A=94 =
+=ED=8C=8C=ED=8A=B8=EB=84=88=EC=8B=AD=EC=97=90 =EA=B0=90=EC=82=AC=EB=93=9C=
+=EB=A6=BD=EB=8B=88=EB=8B=A4. =EA=B3=A0=EA=B0=9D =EC=97=AC=EB=9F=AC=EB=B6=84=
+=EC=9D=98 =EC=9D=98=EA=B2=AC=EC=9D=80 SAS=EA=B0=80 =EB=A7=9E=EC=9D=B4=ED=95=
+=A0 =EB=8B=A4=EC=9D=8C =EC=8B=9C=EB=8C=80=EB=A5=BC =EC=97=AC=EB=8A=94 =EC=
+=86=8C=EC=A4=91=ED=95=9C =EB=B0=91=EA=B1=B0=EB=A6=84=EC=9D=B4 =EB=90=A9=EB=
+=8B=88=EB=8B=A4.<br>
+			<br>
+			=EA=B0=90=EC=82=AC=ED=95=A9=EB=8B=88=EB=8B=A4.<br>
+			So-Yeon Kim<br>
+			Customer Success Manager</span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style=3D"text-align: center;">
+<div style=3D"text-align: center;"><strong>________________________________=
+___________________</strong><br>
+<br>
+<span style=3D"font-family:arial,helvetica,sans-serif;"><span style=3D"font=
+-size:13px;">SAS | 100 SAS Campus Drive | Cary, NC 27513</span></span><br>
+<a href=3D"https://sas.qualtrics.com/subscription/manage/confirmation?recip=
+ientId=3DCGC_JAfjLgO6c0sGzRd&amp;libraryId=3DGR_1NYFDAmOYJVJvBr&amp;distrib=
+utionId=3DEMD_HADr1oUvWV0xSUt&amp;BT=3Dc2Fz">Click here</a> to unsubscribe =
+from future SAS surveys
+<table align=3D"center" border=3D"0" cellpadding=3D"1" cellspacing=3D"1" st=
+yle=3D"width:400px;">
+	<tbody>
+		<tr>
+			<td><strong><span style=3D"font-size:11px;"><span style=3D"font-family:A=
+rial,Helvetica,sans-serif;"><em><span style=3D"color:#999999;">=EB=B3=B8 =
+=EC=84=A4=EB=AC=B8=EC=9D=80 =EC=99=B8=EB=B6=80 =EC=84=A4=EB=AC=B8 =ED=94=8C=
+=EB=9E=AB=ED=8F=BC=EC=9D=B8 <a href=3D"http://www.qualtrics.com/" target=3D=
+"_blank">Qualtrics</a>=EB=A5=BC =ED=86=B5=ED=95=B4 =EA=B4=80=EB=A6=AC =EB=
+=B0=8F =EC=9A=B4=EC=98=81=EB=90=A9=EB=8B=88=EB=8B=A4.&nbsp;=EC=84=A4=EB=AC=
+=B8 =EA=B4=80=EB=A0=A8 =EB=AC=B8=EC=9D=98 =EC=82=AC=ED=95=AD=EC=9D=B4=EB=82=
+=98 =EA=B8=B0=EC=88=A0=EC=A0=81 =EB=AC=B8=EC=A0=9C=EA=B0=80 =EB=B0=9C=EC=83=
+=9D=ED=95=A0 =EA=B2=BD=EC=9A=B0 =EC=96=B8=EC=A0=9C=EB=93=A0=EC=A7=80 =EC=9D=
+=B4 =EB=A9=94=EC=9D=BC=EC=97=90 =ED=9A=8C=EC=8B=A0=ED=95=B4 =EC=A3=BC=EC=84=
+=B8=EC=9A=94.</span></em></span></span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<strong> </strong></div>
+</div>
+</div>
+<img width=3D"1" height=3D"1" alt=3D"" src=3D"https://sas.qualtrics.com/sub=
+scription/watermark.gif?UID=3DUR_2r9lJfG2Y9KFba6&amp;EMD=3DEMD_HADr1oUvWV0x=
+SUt&amp;CGC=3DCGC_JAfjLgO6c0sGzRd&amp;SV=3DSV_400DsxHqDo0wQ4e"></body></htm=
+l>=
+
+------=_Part_3789775_1810905983.1777511517042--
+
+------=_Part_3789773_1691497881.1777511517042--
+
+------=_Part_3789770_1048701596.1777511517042--

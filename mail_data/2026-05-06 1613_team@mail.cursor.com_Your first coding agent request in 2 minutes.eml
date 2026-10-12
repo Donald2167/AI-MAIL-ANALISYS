@@ -1,0 +1,474 @@
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17 via Mailbox Transport; Wed, 6 May 2026 16:13:07 +0900
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17; Wed, 6 May 2026 16:13:07 +0900
+Received: from spam.hanwha.com (121.168.9.110) by HSNC-EX02P.hsnc.hanwha.com
+ (172.20.150.42) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.2562.17 via Frontend
+ Transport; Wed, 6 May 2026 16:13:07 +0900
+X-Original-SPF: pass (121.168.9.110: SPF record at spf.mtasv.net designates 50.31.205.16 as permitted sender)
+Authentication-Results: spam.hanwha.com;
+	dkim=pass (2048-bit key) header.d=ab.mtasv.net header.i=@ab.mtasv.net header.b=WleMStX5;
+	spf=pass (121.168.9.110: SPF record at spf.mtasv.net designates 50.31.205.16 as permitted sender) smtp.mailfrom=pm_bounces@pm-bounces.mail.cursor.com
+Received: from unknown (HELO mta16-ab1.mtasv.net) (50.31.205.16)
+	by 121.168.9.110 with ESMTP; 6 May 2026 16:12:40 +0900
+X-Original-SENDERIP: 50.31.205.16
+X-Original-SENDERCOUNTRY: US, United States
+X-Original-MAILFROM: pm_bounces@pm-bounces.mail.cursor.com
+X-Original-RCPTTO: youjin0404@hanwha.com
+X-KumoRef: eyJfQF8iOiJcXF8vIiwicmVjaXBpZW50IjoieW91amluMDQwNEBoYW53aGEuY29tIn0=
+DKIM-Signature: v=1; a=rsa-sha256; d=ab.mtasv.net; s=ab20250806; c=relaxed/relaxed;
+	bh=xfewxsSFdG564SJDoqqZTW08W4zPLVQ4wRmmRiXuk9U=;
+	h=from:to:subject:date:mime-version:content-type:sender:cc:date:message-id;
+	t=1778051558; x=1778656358;
+	b=WleMStX501TILZAqTwjzyJlBUOJ994CL/V3k5ACuBwAMbFPNVLtBjIE1pP2JGlqg/IQXUu0uu
+	mC6OKkuwcZmpER6EjRSG++/EU81tlpRUAqxQy0jtcglk+D1rWoJ5qkh1gfrpK+VFZlPFXw2gipa
+	UJtNyi7ijwS2m7E1smr/Bv7rqQ4HMXfY2YS3yn3htSRAJ5zNFDyUTF6cmCeyS9mkFEcc1y1mJc6
+	Jb/M1qKlJ4psHtgDdAOgDnDJg736/KUALkfGYRpaqI5OIklkb6eTXGsmsimUSGVsOkYntlLfbHi
+	J7cgixXL5fM14eB5vvIzIgTRTqMEBQ9bOTGlGxoxcYrw==;
+Received: from ip-172-26-31-74.us-east-2.compute.internal (172.26.31.74)
+  by production-pmta-useast2.internal.postmarkapp.com (KumoMTA 10.97.240.74) 
+  with ESMTP id f71aca63491a11f1bdd302ce02fe1415 for <youjin0404@hanwha.com>;
+  Wed, 6 May 2026 07:12:38 +0000
+DKIM-Signature: v=1; a=rsa-sha256; d=mail.cursor.com; s=20250422003026pm;
+	c=relaxed/relaxed; i=team@mail.cursor.com; t=1778051558; x=1778224358;
+	h=date:date:from:from:message-id:reply-to:reply-to:sender:subject:subject:to:
+	to:cc:list-unsubscribe:list-unsubscribe-post:feedback-id:mime-version:
+	content-type;
+	bh=xfewxsSFdG564SJDoqqZTW08W4zPLVQ4wRmmRiXuk9U=;
+	b=FchS4DuBsbmi97ZoDEFq+/cFHfJajbi9kRnzagCYy7RfgIA+V6eI6z6ztEKMAxegX4hm4su21tu
+	GGLn9fhbz8GLrC6jfmiNBgUnYMaYruRr1jRul9H9iM9mWmQYt+MG1XpVPzx3I2ecTJdbAYjQ8DjT3
+	3j3S8HTREh4975Plif8=
+From: Cursor Team <team@mail.cursor.com>
+Date: Wed, 06 May 2026 07:12:38 +0000
+Subject: Your first coding agent request in 2 minutes
+Message-Id: <2b13ffb7-6419-445c-8779-daf512198af6@mtasv.net>
+Reply-To: Cursor <no-reply@mail.cursor.com>
+To: youjin0404@hanwha.com
+List-Unsubscribe: <mailto:32.MRTVIX3QO5ZUEQKQJRGXQ6KYPB5E2Y3MIFNDGOCJMFVW2VSCGZEFEULJMVWVS3THOF3T2PI=@unsubscribe2.customer.io>, <https://e.customeriomail.com/unsubscribe/dgT_pwsBAPLMxyXxzMclAZ38IakmVB6HRQiemYngqw==>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-Mailer: Customer.io (dgT_pwsBAPLMxyXxzMclAZ38IakmVB6HRQiemYngqw==; +https://whatis.customeriomail.com)
+X-Report-Abuse-To: badactor@customer.io
+Feedback-ID: s15677160-_:s15677160:a209573:postmark
+X-Complaints-To: abuse@postmarkapp.com
+X-Job: 209573_15677160
+X-PM-Message-Id: 2b13ffb7-6419-445c-8779-daf512198af6
+X-PM-RCPT: |bTB8MjA5NTczfDE1Njc3MTYwfHlvdWppbjA0MDRAaGFud2hhLmNvbQ==|
+X-PM-Message-Options: v1;1.KPNZIEWenqTrhOG96XLJYQ.rcF1Xhb5dSQIoMaDO0vv0uoY6OgiJRaK0K66DD-TaEQx0Pg1RbkFTTxIm3YVFgOHGdGD1rfrVm8igVe-IhrkIEqw5uaKuC5UUpZRWGpUx1XqqrIqtYHT2sipJAoipv1GIgXnum4epwsy825IKs_NRmXGg6K99pxU4HZw_9LdyTmUO7NaG1HoB0r1g1sn2hJQ
+X-PM-Message-Details: v1;1.GP_Z_SlhX8-X0hR4d3TotQ.Wmu_fFDQJgjZ1jSPsNJjyZT2RqyOP1HvUz5xJLgYE97NkBXUc9ASTSx-wBr_mPgxb5hA_RuORwfsL0xJfPv3g2ltCMxJVL621T1UKnSJtjw
+X-virtual-MTA: mta16-ab1
+X-PM-MTA-Pool: application-bulk-1
+Content-Type: multipart/alternative;
+	boundary=mk3-40f34bd345ed4407abb8fa3b4062e9d4; charset=UTF-8
+Return-Path: pm_bounces@pm-bounces.mail.cursor.com
+X-MS-Exchange-Organization-Network-Message-Id: a5d61656-4e74-480e-12e7-08deab3eec69
+X-MS-Exchange-Organization-AuthSource: HSNC-EX02P.hsnc.hanwha.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3534920
+X-MS-Exchange-Processed-By-BccFoldering: 15.02.2562.016
+MIME-Version: 1.0
+
+--mk3-40f34bd345ed4407abb8fa3b4062e9d4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Try this quick experiment to see what Cursor can do =C2=A0
+
+Hi there,
+
+Thanks for using Cursor! You can work with coding agents to ship your next =
+feature.
+
+Download the desktop app ( https://cursor.com/download ) and try this 2-min=
+ute experiment:
+
+*
+Hit Ctrl/Cmd+I to begin an agent conversation.
+* Ask it to =E2=80=9CVisualize this codebase in a diagram.=E2=80=9D ( https=
+://cursor.com/link/prompt?text=3Dvisualize%20this%20codebase%20in%20a%20dia=
+gram )
+
+Visualize this codebase in a diagram
+
+Now that you've confirmed Cursor understands your codebase, you can switch =
+to Plan Mode with Shift+Tab and describe your next feature.
+
+Try agents in Cursor ( https://cursor.com/link/prompt?text=3Dvisualize%20th=
+is%20codebase%20in%20a%20diagram )
+Check out our quickstart guide ( https://cursor.com/docs/get-started/quicks=
+tart ) and Learn course ( https://cursor.com/learn ) for tips on how to pla=
+n effectively, manage context, and iterate on code with AI.
+
+Best,
+Cursor Team
+
+The best way to code with AI.
+
+To opt out of future emails, click unsubscribe ( https://track.customer.io/=
+unsubscribe/dgT_pwsBAPLMxyXxzMclAZ38IakmVB6HRQiemYngqw=3D=3D ).
+
+Download Cursor ( https://cursor.com/download ) =C2=A0 =C2=A0Use Cursor in =
+browser ( https://cursor.com/agents ) =C2=A0 =C2=A0Read the docs ( https://=
+cursor.com/docs ) =C2=A0 =C2=A0Join a workshop ( https://cursor.com/worksho=
+ps )
+
+--mk3-40f34bd345ed4407abb8fa3b4062e9d4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"u=
+rn:schemas-microsoft-com:office:office" lang=3D"en"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><t=
+itle></title><meta name=3D"viewport" content=3D"width=3Ddevice-width,initia=
+l-scale=3D1"><!--[if mso]>
+<xml><w:WordDocument xmlns:w=3D"urn:schemas-microsoft-com:office:word"><w:D=
+ontUseAdvancedTypographyReadingMail/></w:WordDocument>
+<o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/=
+></o:OfficeDocumentSettings></xml>
+<![endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.im=
+age_block img+div{display:none}sub,sup{font-size:75%;line-height:0}#convert=
+ed-body .list_block ol,#converted-body .list_block ul,.body [class~=3Dx_lis=
+t_block] ol,.body [class~=3Dx_list_block] ul,u+.body .list_block ol,u+.body=
+ .list_block ul{padding-left:20px} @media (max-width:520px){.row-content{wi=
+dth:100%!important}.stack .column{width:100%;display:block}.mobile_hide{min=
+-height:0;max-height:0;max-width:0;display:none;overflow:hidden;font-size:0=
+}.desktop_hide,.desktop_hide table{display:table!important;max-height:none!=
+important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup {=
+ mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></hea=
+d><body class=3D"body" style=3D"margin:0;padding:0;-webkit-text-size-adjust=
+:none;text-size-adjust:none;background-color:#fff"><div style=3D"display: n=
+one">Try this quick experiment to see what Cursor can do =E2=80=87=CD=8F =
+=E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=
+=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=
+=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=
+=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=
+=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =
+=E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=
+=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=
+=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=
+=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=
+=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =
+=E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=
+=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=
+=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=
+=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=
+=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =
+=E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=
+=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=
+=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=
+=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=
+=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =
+=E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=
+=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=
+=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=
+=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=
+=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =
+=E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=
+=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=
+=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=
+=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=
+=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =
+=E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=
+=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=80=87=CD=8F =E2=
+=80=87=CD=8F =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD=
+ =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=
+=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =
+=C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=
+=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =
+=C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=
+=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =
+=C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=
+=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =
+=C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=
+=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =
+=C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=
+=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =
+=C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=AD =C2=
+=AD =C2=AD =C2=AD =C2=AD&nbsp;</div><table class=3D"nl-container" width=3D"=
+100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation=
+" style=3D"mso-table-lspace:0;mso-table-rspace:0;background-color:#fff"><tb=
+ody><tr><td><table class=3D"row row-1" align=3D"center" width=3D"100%" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D=
+"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-=
+content stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+;border-radius:0;color:#000;width:500px;margin:0 auto" width=3D"500"><tbody=
+><tr><td class=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace=
+:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top"><=
+table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=
+=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><t=
+r><td class=3D"col-pad" style=3D"padding-bottom:15px;padding-left:20px;padd=
+ing-right:20px;padding-top:15px"><table class=3D"image_block block-1" width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presenta=
+tion" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td class=
+=3D"pad" style=3D"width:100%" align=3D"left"><div style=3D"max-width:23px">=
+<img src=3D"https://userimg-assets.customeriomail.com/images/client-env-185=
+343/1769820726337_CUBE_25D_01KG8RJ94XRVJ8PRDN1GKVTZXD.png" style=3D"display=
+:block;height:auto;border:0;width:100%" width=3D"23" alt=3D"" title=3D"" he=
+ight=3D"auto"></div></td></tr></tbody></table></td></tr></tbody></table></t=
+d></tr></tbody></table></td></tr></tbody></table><table class=3D"row row-2"=
+ align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+"><tbody><tr><td><table class=3D"row-content stack" align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"m=
+so-table-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;width:500px=
+;margin:0 auto" width=3D"500"><tbody><tr><td class=3D"column column-1" widt=
+h=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;t=
+ext-align:left;vertical-align:top"><table width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0"><tbody><tr><td class=3D"col-pad" style=3D"padding=
+-left:20px;padding-right:20px"><table class=3D"paragraph_block block-1" wid=
+th=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presen=
+tation" style=3D"mso-table-lspace:0;mso-table-rspace:0;word-break:break-wor=
+d"><tbody><tr><td class=3D"pad" style=3D"padding-top:10px;padding-bottom:10=
+px"><div style=3D"color:#000;direction:ltr;font-family:Arial,'Helvetica Neu=
+e',Helvetica,sans-serif;font-size:14px;font-weight:400;letter-spacing:0;lin=
+e-height:1.5;text-align:left;mso-line-height-alt:21px"><p style=3D"margin:0=
+">Hi there,</p></div></td></tr></tbody></table></td></tr></tbody></table></=
+td></tr></tbody></table></td></tr></tbody></table><table class=3D"row row-3=
+" align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:=
+0">
+<tbody><tr><td><table class=3D"row-content stack" align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"m=
+so-table-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;width:500px=
+;margin:0 auto" width=3D"500"><tbody><tr><td class=3D"column column-1" widt=
+h=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;t=
+ext-align:left;vertical-align:top"><table width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0"><tbody><tr><td class=3D"col-pad" style=3D"padding=
+-left:20px;padding-right:20px"><table class=3D"paragraph_block block-1" wid=
+th=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presen=
+tation" style=3D"mso-table-lspace:0;mso-table-rspace:0;word-break:break-wor=
+d"><tbody><tr><td class=3D"pad" style=3D"padding-top:10px;padding-bottom:10=
+px"><div style=3D"color:#000;direction:ltr;font-family:Arial,'Helvetica Neu=
+e',Helvetica,sans-serif;font-size:14px;font-weight:400;letter-spacing:0;lin=
+e-height:1.2;text-align:left;mso-line-height-alt:17px"><p style=3D"margin:0=
+;margin-bottom:16px">Thanks for using Cursor! You can work with coding agen=
+ts to ship your next feature.</p><p style=3D"margin:0">
+<a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVF9wd3NCQVB=
+MTXh5WHh6TWNsQVozOElha21WQjZIUlFpZW1Zbmdxdz09IiwiaHJlZiI6Imh0dHBzOi8vY3Vyc2=
+9yLmNvbS9kb3dubG9hZCIsImludGVybmFsIjoiZmZhNzBiYzExNGMxOGEwMWYyY2NjNzI1Iiwib=
+Glua19pZCI6MjUzMX0/462ac243b325fd36f2a0f7a58dbd121fd82f9762a3d36bffb63cb5e7=
+0b140031" style=3D"text-decoration: underline; color: #ff6600;">Download th=
+e desktop app</a><a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZC=
+I6ImRnVF9wd3NCQVBMTXh5WHh6TWNsQVozOElha21WQjZIUlFpZW1Zbmdxdz09IiwiaHJlZiI6I=
+mh0dHBzOi8vY3Vyc29yLmNvbS9kb3dubG9hZCIsImludGVybmFsIjoiZmZhNzBiYzExNGMxOGEw=
+MWYyY2NjNzI1IiwibGlua19pZCI6MjUzMX0/462ac243b325fd36f2a0f7a58dbd121fd82f976=
+2a3d36bffb63cb5e70b140031" style=3D"text-decoration: underline; color: #ff6=
+600;"></a> and try this 2-minute experiment:</p></div></td></tr></tbody></t=
+able><table class=3D"list_block block-2" width=3D"100%" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspa=
+ce:0;mso-table-rspace:0;word-break:break-word;color:#000;direction:ltr;font=
+-family:Arial,'Helvetica Neue',Helvetica,sans-serif;font-size:14px;font-wei=
+ght:400;letter-spacing:0;line-height:1.5;text-align:left;mso-line-height-al=
+t:21px"><tbody><tr><td class=3D"pad" style=3D"padding-bottom:10px;padding-l=
+eft:10px;padding-right:10px"><div style=3D"margin-left:-20px"><ol start=3D"=
+1" style=3D"margin-top:0;margin-bottom:0;list-style-type:decimal"><li style=
+=3D"Margin:0 0 6px 0">
+Hit <strong>Ctrl/Cmd&#43;I</strong> to begin an agent conversation.</li><li=
+ style=3D"Margin:0 0 6px 0">Ask it to <a href=3D"https://e.customeriomail.c=
+om/e/c/eyJlbWFpbF9pZCI6ImRnVF9wd3NCQVBMTXh5WHh6TWNsQVozOElha21WQjZIUlFpZW1Z=
+bmdxdz09IiwiaHJlZiI6Imh0dHBzOi8vY3Vyc29yLmNvbS9saW5rL3Byb21wdD90ZXh0PXZpc3V=
+hbGl6ZSUyMHRoaXMlMjBjb2RlYmFzZSUyMGluJTIwYSUyMGRpYWdyYW0iLCJpbnRlcm5hbCI6Im=
+ZmYTcwYmMxMTRjMThhMDFmMmNjYzcyNSIsImxpbmtfaWQiOjI1MzJ9/664f9214252be4dde701=
+0c8ec8c26ee6835d5cdedf4bd4f8aaabeea094936db7" target=3D"_blank" style=3D"te=
+xt-decoration: underline; color: #ff6600;" rel=3D"noopener">=E2=80=9CVisual=
+ize this codebase in a diagram.=E2=80=9D</a></li></ol></div></td></tr></tbo=
+dy></table><table class=3D"image_block block-3" width=3D"100%" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tab=
+le-lspace:0;mso-table-rspace:0"><tbody><tr><td class=3D"pad" style=3D"width=
+:100%;padding-top:10px;padding-bottom:10px" align=3D"center"><div style=3D"=
+max-width:460px"><img src=3D"https://userimg-assets.customeriomail.com/imag=
+es/client-env-185343/1771535988713_mermaid_01KHVWBY6A8KGB65FF30MZMHS6.gif" =
+style=3D"display:block;height:auto;border:0;width:100%" width=3D"460" alt=
+=3D"Visualize this codebase in a diagram" title=3D"Visualize this codebase =
+in a diagram" height=3D"auto"></div></td></tr></tbody></table><table class=
+=3D"paragraph_block block-4" width=3D"100%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-tab=
+le-rspace:0;word-break:break-word"><tbody><tr><td class=3D"pad" style=3D"pa=
+dding-top:10px;padding-bottom:10px"><div style=3D"color:#000;direction:ltr;=
+font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;font-size:14px;font=
+-weight:400;letter-spacing:0;line-height:1.5;text-align:left;mso-line-heigh=
+t-alt:21px"><p style=3D"margin:0">
+Now that you've confirmed Cursor understands your codebase, you can switch =
+to Plan Mode with <strong>Shift&#43;Tab</strong> and describe your next fea=
+ture.</p></div></td></tr></tbody></table></td></tr></tbody></table></td></t=
+r></tbody></table></td></tr></tbody></table><table class=3D"row row-4" alig=
+n=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tb=
+ody><tr><td><table class=3D"row-content stack" align=3D"center" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-ta=
+ble-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;width:500px;marg=
+in:0 auto" width=3D"500"><tbody><tr><td class=3D"column column-1" width=3D"=
+100%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-a=
+lign:left;vertical-align:top"><table width=3D"100%" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0=
+;mso-table-rspace:0"><tbody><tr><td class=3D"col-pad" style=3D"padding-left=
+:20px;padding-right:20px"><table class=3D"button_block block-1" width=3D"10=
+0%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" =
+style=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td class=3D"pad=
+" style=3D"padding-top:10px;padding-bottom:10px;padding-right:10px" align=
+=3D"left"><a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnV=
+F9wd3NCQVBMTXh5WHh6TWNsQVozOElha21WQjZIUlFpZW1Zbmdxdz09IiwiaHJlZiI6Imh0dHBz=
+Oi8vY3Vyc29yLmNvbS9saW5rL3Byb21wdD90ZXh0PXZpc3VhbGl6ZSUyMHRoaXMlMjBjb2RlYmF=
+zZSUyMGluJTIwYSUyMGRpYWdyYW0iLCJpbnRlcm5hbCI6ImZmYTcwYmMxMTRjMThhMDFmMmNjYz=
+cyNSIsImxpbmtfaWQiOjI1MzJ9/664f9214252be4dde7010c8ec8c26ee6835d5cdedf4bd4f8=
+aaabeea094936db7" target=3D"_blank" style=3D"color:#ffffff;text-decoration:=
+none;"><!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"https://e.customeriomail.com/e/c/eyJl=
+bWFpbF9pZCI6ImRnVF9wd3NCQVBMTXh5WHh6TWNsQVozOElha21WQjZIUlFpZW1Zbmdxdz09Iiw=
+iaHJlZiI6Imh0dHBzOi8vY3Vyc29yLmNvbS9saW5rL3Byb21wdD90ZXh0PXZpc3VhbGl6ZSUyMH=
+RoaXMlMjBjb2RlYmFzZSUyMGluJTIwYSUyMGRpYWdyYW0iLCJpbnRlcm5hbCI6ImZmYTcwYmMxM=
+TRjMThhMDFmMmNjYzcyNSIsImxpbmtfaWQiOjI1MzJ9/664f9214252be4dde7010c8ec8c26ee=
+6835d5cdedf4bd4f8aaabeea094936db7" style=3D"height:38px;width:166px;v-text-=
+anchor:middle;" arcsize=3D"53%" fillcolor=3D"#26251e">
+<v:stroke dashstyle=3D"Solid" weight=3D"0px" color=3D"#26251e"/>
+<w:anchorlock/>
+<v:textbox inset=3D"0px,0px,0px,0px">
+<center dir=3D"false" style=3D"color:#ffffff;font-family:sans-serif;font-si=
+ze:14px">
+<![endif]-->
+<span class=3D"button" style=3D"background-color: #26251e; border-bottom: 0=
+px solid transparent; border-left: 0px solid transparent; border-radius: 20=
+px; border-right: 0px solid transparent; border-top: 0px solid transparent;=
+ color: #ffffff; display: inline-block; font-family: Arial, 'Helvetica Neue=
+', Helvetica, sans-serif; font-size: 14px; font-weight: 400; mso-border-alt=
+: none; text-align: center; width: auto; word-break: keep-all; letter-spaci=
+ng: normal;"><span class=3D"btn-pad" style=3D"word-break: break-word; paddi=
+ng-left: 20px; padding-right: 20px; padding-top: 5px; padding-bottom: 5px; =
+display: block;"><span style=3D"word-break: break-word; line-height: 28px;"=
+>Try agents in Cursor</span></span></span>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]--></a></td></tr><=
+/tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></t=
+r></tbody></table><table class=3D"row row-5" align=3D"center" width=3D"100%=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" st=
+yle=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=
+=3D"row-content stack" align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-r=
+space:0;border-radius:0;color:#000;width:500px;margin:0 auto" width=3D"500"=
+><tbody><tr><td class=3D"column column-1" width=3D"100%" style=3D"mso-table=
+-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align=
+:top"><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tb=
+ody><tr><td class=3D"col-pad" style=3D"padding-left:20px;padding-right:20px=
+"><table class=3D"paragraph_block block-1" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0;word-break:break-word"><tbody><tr><td class=3D"pa=
+d" style=3D"padding-top:10px;padding-bottom:10px"><div style=3D"color:#000;=
+direction:ltr;font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;font-=
+size:14px;font-weight:400;letter-spacing:0;line-height:1.5;text-align:left;=
+mso-line-height-alt:21px"><p style=3D"margin:0">
+Check out our <a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6I=
+mRnVF9wd3NCQVBMTXh5WHh6TWNsQVozOElha21WQjZIUlFpZW1Zbmdxdz09IiwiaHJlZiI6Imh0=
+dHBzOi8vY3Vyc29yLmNvbS9kb2NzL2dldC1zdGFydGVkL3F1aWNrc3RhcnQiLCJpbnRlcm5hbCI=
+6ImZmYTcwYmMxMTRjMThhMDFmMmNjYzcyNSIsImxpbmtfaWQiOjY4NX0/b409de0baed3b45993=
+f3dbd4189bfa4015ba23471f3c23c19d75f5bdb6214819" rel=3D"noopener noreferrer"=
+ style=3D"text-decoration: underline; color: #ff6600;" tabindex=3D"0">quick=
+start guide</a> and <a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9=
+pZCI6ImRnVF9wd3NCQVBMTXh5WHh6TWNsQVozOElha21WQjZIUlFpZW1Zbmdxdz09IiwiaHJlZi=
+I6Imh0dHBzOi8vY3Vyc29yLmNvbS9sZWFybiIsImludGVybmFsIjoiZmZhNzBiYzExNGMxOGEwM=
+WYyY2NjNzI1IiwibGlua19pZCI6MjUzM30/49e10efd4f1988d152a4995471a204d746ca3527=
+6d586fca8302d29611df1f5e" target=3D"_blank" class=3D"" style=3D"text-decora=
+tion: underline; color: #ff6600;" rel=3D"noopener">Learn course</a> for tip=
+s on how to plan effectively, manage context, and iterate on code with AI.<=
+/p></div></td></tr></tbody></table></td></tr></tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table><table class=3D"row row-6" align=
+=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tbo=
+dy><tr><td><table class=3D"row-content stack" align=3D"center" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tab=
+le-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;width:500px;margi=
+n:0 auto" width=3D"500"><tbody><tr><td class=3D"column column-1" width=3D"1=
+00%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-al=
+ign:left;vertical-align:top"><table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;=
+mso-table-rspace:0"><tbody><tr><td class=3D"col-pad" style=3D"padding-left:=
+20px;padding-right:20px"><table class=3D"paragraph_block block-1" width=3D"=
+100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation=
+" style=3D"mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tb=
+ody><tr><td class=3D"pad" style=3D"padding-top:10px;padding-bottom:10px"><d=
+iv style=3D"color:#000;direction:ltr;font-family:Arial,'Helvetica Neue',Hel=
+vetica,sans-serif;font-size:14px;font-weight:400;letter-spacing:0;line-heig=
+ht:1.5;text-align:left;mso-line-height-alt:21px"><p style=3D"margin:0">Best=
+,<br>Cursor Team</p></div></td></tr></tbody></table></td></tr></tbody></tab=
+le></td></tr></tbody></table></td></tr></tbody></table><table class=3D"row =
+row-7" align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rs=
+pace:0"><tbody><tr><td><table class=3D"row-content stack" align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" styl=
+e=3D"mso-table-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;width=
+:500px;margin:0 auto" width=3D"500"><tbody><tr><td class=3D"column column-1=
+" width=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight=
+:400;text-align:left;vertical-align:top"><table width=3D"100%" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tab=
+le-lspace:0;mso-table-rspace:0"><tbody><tr><td class=3D"col-pad" style=3D"p=
+adding-bottom:5px;padding-left:20px;padding-right:20px;padding-top:20px"><t=
+able class=3D"image_block block-1" width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;=
+mso-table-rspace:0"><tbody><tr><td class=3D"pad" style=3D"width:100%" align=
+=3D"left"><div style=3D"max-width:69px"><img src=3D"https://userimg-assets.=
+customeriomail.com/images/client-env-185343/1771477084201_LOCKUP_HORIZONTAL=
+_25D_LIGHT_01KHT46A22QQ9GTWTYY1F580B9.png" style=3D"display:block;height:au=
+to;border:0;width:100%" width=3D"69" alt=3D"" title=3D"" height=3D"auto"></=
+div></td></tr></tbody></table><table class=3D"text_block block-2" width=3D"=
+100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation=
+" style=3D"mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tb=
+ody><tr><td class=3D"pad" style=3D"padding-top:10px"><div style=3D"font-fam=
+ily:sans-serif"><div class=3D"" style=3D"font-size:12px;font-family:Arial,'=
+Helvetica Neue',Helvetica,sans-serif;mso-line-height-alt:18px;color:#666;li=
+ne-height:1.5"><p style=3D"margin:0;font-size:12px;mso-line-height-alt:18px=
+">The best way to code with AI.</p></div></div></td></tr></tbody></table><t=
+able class=3D"text_block block-3" width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;=
+mso-table-rspace:0;word-break:break-word"><tbody><tr><td class=3D"pad" styl=
+e=3D"padding-top:10px"><div style=3D"font-family:sans-serif"><div class=3D"=
+" style=3D"font-size:12px;font-family:Arial,'Helvetica Neue',Helvetica,sans=
+-serif;mso-line-height-alt:21.6px;color:#666;line-height:1.8"><p style=3D"m=
+argin:0;font-size:12px;mso-line-height-alt:21.6px">To opt out of future ema=
+ils, click <a href=3D"https://e.customeriomail.com/unsubscribe/dgT_pwsBAPLM=
+xyXxzMclAZ38IakmVB6HRQiemYngqw=3D=3D" target=3D"_blank" style=3D"text-decor=
+ation: underline; color: #666;" rel=3D"noopener">unsubscribe</a>.</p><p sty=
+le=3D"margin:0;font-size:12px;mso-line-height-alt:21.6px"><a href=3D"https:=
+//e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVF9wd3NCQVBMTXh5WHh6TWNsQVoz=
+OElha21WQjZIUlFpZW1Zbmdxdz09IiwiaHJlZiI6Imh0dHBzOi8vY3Vyc29yLmNvbS9kb3dubG9=
+hZCIsImludGVybmFsIjoiZmZhNzBiYzExNGMxOGEwMWYyY2NjNzI1IiwibGlua19pZCI6MjUzMX=
+0/462ac243b325fd36f2a0f7a58dbd121fd82f9762a3d36bffb63cb5e70b140031" target=
+=3D"_blank" class=3D"" style=3D"text-decoration: underline; color: #666;" r=
+el=3D"noopener">Download Cursor</a> &nbsp; &nbsp;<a href=3D"https://e.custo=
+meriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVF9wd3NCQVBMTXh5WHh6TWNsQVozOElha21WQ=
+jZIUlFpZW1Zbmdxdz09IiwiaHJlZiI6Imh0dHBzOi8vY3Vyc29yLmNvbS9hZ2VudHMiLCJpbnRl=
+cm5hbCI6ImZmYTcwYmMxMTRjMThhMDFmMmNjYzcyNSIsImxpbmtfaWQiOjEzOH0/46173e999c7=
+c67bd628b1fadd4142d5b441ec651c2037cc27065d143dc562eb8" target=3D"_blank" cl=
+ass=3D"" style=3D"text-decoration: underline; color: #666;" rel=3D"noopener=
+">Use Cursor in browser</a> &nbsp; &nbsp;<a href=3D"https://e.customeriomai=
+l.com/e/c/eyJlbWFpbF9pZCI6ImRnVF9wd3NCQVBMTXh5WHh6TWNsQVozOElha21WQjZIUlFpZ=
+W1Zbmdxdz09IiwiaHJlZiI6Imh0dHBzOi8vY3Vyc29yLmNvbS9kb2NzIiwiaW50ZXJuYWwiOiJm=
+ZmE3MGJjMTE0YzE4YTAxZjJjY2M3MjUiLCJsaW5rX2lkIjo2ODl9/92f9aa6dccd5bb7496ee1d=
+a2c88de8fa61ac9977d9b8dd81966b93740b7d2ed9" target=3D"_blank" class=3D"" st=
+yle=3D"text-decoration: underline; color: #666;" rel=3D"noopener">Read the =
+docs</a> &nbsp; &nbsp;<a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpb=
+F9pZCI6ImRnVF9wd3NCQVBMTXh5WHh6TWNsQVozOElha21WQjZIUlFpZW1Zbmdxdz09IiwiaHJl=
+ZiI6Imh0dHBzOi8vY3Vyc29yLmNvbS93b3Jrc2hvcHMiLCJpbnRlcm5hbCI6ImZmYTcwYmMxMTR=
+jMThhMDFmMmNjYzcyNSIsImxpbmtfaWQiOjI1MzR9/b4f8b013114aefe6738d6b88c1d4f28ca=
+c23083329f5bb899cdf59754b8eb817" target=3D"_blank" class=3D"" style=3D"text=
+-decoration: underline; color: #666;" rel=3D"noopener">Join a workshop</a><=
+/p></div></div></td></tr></tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></=
+tr></tbody></table><!-- End --><img src=3D"https://e.customeriomail.com/e/o=
+/eyJlbWFpbF9pZCI6ImRnVF9wd3NCQVBMTXh5WHh6TWNsQVozOElha21WQjZIUlFpZW1Zbmdxdz=
+09In0=3D" style=3D"height: 1px !important; max-height: 1px !important; max-=
+width: 1px !important; width: 1px !important; display: none !important;" al=
+t=3D""></body></html>
+
+--mk3-40f34bd345ed4407abb8fa3b4062e9d4--

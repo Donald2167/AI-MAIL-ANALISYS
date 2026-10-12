@@ -1,0 +1,106 @@
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17 via Mailbox Transport; Tue, 19 May 2026 11:03:46 +0900
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17; Tue, 19 May 2026 11:03:46 +0900
+Received: from spam.hanwha.com (121.168.9.110) by HSNC-EX02P.hsnc.hanwha.com
+ (172.20.150.42) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.2562.17 via Frontend
+ Transport; Tue, 19 May 2026 11:03:46 +0900
+X-Original-SPF: pass (121.168.9.110: SPF record at _spf.google.com designates 209.85.210.182 as permitted sender)
+Authentication-Results: spam.hanwha.com;
+	dkim=pass (2048-bit key) header.d=gmail.com header.i=@gmail.com header.b=KMZIDZlZ;
+	spf=pass (121.168.9.110: SPF record at _spf.google.com designates 209.85.210.182 as permitted sender) smtp.mailfrom=jyj94444@gmail.com
+Received: from unknown (HELO mail-pf1-f182.google.com) (209.85.210.182)
+	by 121.168.9.110 with ESMTP; 19 May 2026 11:03:26 +0900
+X-Original-SENDERIP: 209.85.210.182
+X-Original-SENDERCOUNTRY: US, United States
+X-Original-MAILFROM: jyj94444@gmail.com
+X-Original-RCPTTO: youjin0404@hanwha.com
+Received: by mail-pf1-f182.google.com with SMTP id d2e1a72fcca58-83537a80ab6so2021642b3a.1
+        for <youjin0404@hanwha.com>; Mon, 18 May 2026 19:03:26 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20251104; t=1779156204; x=1779761004; darn=hanwha.com;
+        h=to:from:subject:mime-version:date:message-id:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=OWm248j9BNN+0d1PWkQ9l+2b7Uk7Sq+G8C/EYbaKe0E=;
+        b=KMZIDZlZTlLQYx7ps6oPp7i6fJONYgk/B2ND9jI5xwtGCab3ERD4gh3MezOkv2GTu9
+         6LxF2PN60edH1QVOmS23p8Nh+f3V0zr2Wlj99GfktORBHitcPqv3hJ2bO4EZnFaHwmCu
+         rKDcvZoBY86PsK+5q6HOmKHXNRy+qBF0/WO7/Q9gAYxmZHpd9QOI1z1hM2G97jjko+8T
+         mE40qTXmJYwYFGoKvVkSmuMIyG/SXutFZeMI8W0eXAehcSfsGOwuulu20c22mUz+5ZD9
+         sckeAMSTNn4/TFMmweEyUnHnHhbOIrcAu6Dr3ezm7S1Tmq2yGBZ6IDArRT8HftPJYpmt
+         qI5g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20251104; t=1779156204; x=1779761004;
+        h=to:from:subject:mime-version:date:message-id:x-gm-gg
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=OWm248j9BNN+0d1PWkQ9l+2b7Uk7Sq+G8C/EYbaKe0E=;
+        b=oQAVreDGxoTcjsqUOoP58J5qB/K+1Eqq9lCNmrdux2LYsXdavaOCo0b0vLkxkQdPZD
+         BORFUkaqLnpftpwT7J4tBXOogi1mFcW4BqTXpx1ZuwDhBEU4Uk4IbYmChWSs3aJXBPpO
+         LCnyJpmnMPteZhtYOVF7rMWvO6lbFIhIBpXcfrBVkT0mwqZBouDJQ6dJrLth33Ak0Qpy
+         DYrxL7gMedPuW3XwZVO7uzmKeQHkTYW7Y60SAGlg7kitZ5wN4SXh131BH7P62h3brDcV
+         63dtar2aLu3g47spbIzPbC97dNNefdsCKwHpNLvb6uXA7y2PoENsq3i8fNGMidgIYaUB
+         Kjvw==
+X-Gm-Message-State: AOJu0YzUKAw6YgwT2D1klNx9WRyE1uVkal2jV+PH/y2SOIU9EEx2BrVp
+	DzyEhRdkTJY2nmNClWmkgtQsKnkkXb6NRgJ6nbvLuzbs8Hw7AAUq3A3ttnW/Pg==
+X-Gm-Gg: Acq92OFFfYiACVkjQyUYVbr4yzNeimougNxjqHAX5Dh+z08CmDxcQ+i37QLVmCkQ+Qq
+	1/SYpQ3TYrMI3q9OFkqVd5s/g6oHhRfRoZUqcUl5pa0FE33Y7bhZ31vGT/to6RPmtFF7f0tbb1r
+	EXd1Mr3EBS0gdMEZ4QRLWKd7kS1vpzRvji74M0Ba3pAZwOoTBJH7pBzikNPa0nMEpk/Zdq86wLh
+	4xwvsp0oDwN5Pavy+/TB3GX7hel14DvTAVTQTf4N22as/y/IGCusLlqNnvJcHjuRUX2GqzoeKI7
+	f8qwG+ZU8JKmeIcJPV84A5KRSmZ4qy+mqN7Nm4TDLtHr+8nUeGAMRlJWNAI34t2DOhUWqYjf5PD
+	vw2rdef2HYZET4kAISgZfDMWes9fbtuitilQDvbZuaa+hqjKLS8NpZ/xYHE9cQbFQKgwP8pslyL
+	z7IM+6Y864kzjThNvOTMqBjOc=
+X-Received: by 2002:a05:6a00:a904:b0:83d:a434:f099 with SMTP id d2e1a72fcca58-83f33c34aaamr18391521b3a.5.1779156204585;
+        Mon, 18 May 2026 19:03:24 -0700 (PDT)
+Return-Path: jyj94444@gmail.com
+Received: from [10.110.190.32] ([115.89.205.197])
+        by smtp.gmail.com with ESMTPSA id d2e1a72fcca58-83f1977b779sm16140353b3a.23.2026.05.18.19.03.23
+        for <youjin0404@hanwha.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Mon, 18 May 2026 19:03:23 -0700 (PDT)
+Message-ID: <6a0bc4eb.86bccb3e.2b8090.012d@mx.google.com>
+Date: Mon, 18 May 2026 19:03:23 -0700 (PDT)
+Content-Type: multipart/alternative;
+	boundary="===============4592070216649810703=="
+Subject: =?utf-8?b?W0lUU00g7IOd7IKw7ISxIOumrO2PrO2KuF0g7JuU67OEIOyDneyCsOyEsSDrr7jstqnsobEg7ZiE7ZmpIO2FjOyKpO2KuA==?=
+From: jyj94444@gmail.com
+To: youjin0404@hanwha.com
+X-MS-Exchange-Organization-Network-Message-Id: 2e90df4a-9db9-4768-b214-08deb54adc91
+X-MS-Exchange-Organization-AuthSource: HSNC-EX02P.hsnc.hanwha.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2728471
+X-MS-Exchange-Processed-By-BccFoldering: 15.02.2562.016
+MIME-Version: 1.0
+
+--===============4592070216649810703==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij48L2hlYWQ+DQo8Ym9keSBzdHlsZT0iZm9udC1mYW1p
+bHk6ICdNYWxndW4gR290aGljJywgQXJpYWwsIHNhbnMtc2VyaWY7IHBhZGRpbmc6MjBweDsiPgo8
+aDEgc3R5bGU9ImNvbG9yOiMyYzNlNTA7Ij7wn5OKIElUU00g7JuU67OEIOyDneyCsOyEsSDrr7js
+tqnsobEg7ZiE7ZmpIOumrO2PrO2KuDwvaDE+CjxwPuydtOuplOydvCDrsJzshqEg7YWM7Iqk7Yq4
+7J6F64uI64ukLjwvcD4KPGgzPvCfk4UgMjAyNi0wNDwvaDM+CjxwPuuvuOy2qeyhsSDsnbjsm5A6
+IDxzdHJvbmc+MeuqhTwvc3Ryb25nPiB8IOy0nSDrtoDsobHsg53sgrDshLE6IDxzdHJvbmcgc3R5
+bGU9ImNvbG9yOiNmZjZiNmI7Ij41LjVoPC9zdHJvbmc+PC9wPgo8dWw+PGxpPuuwleuMgOybkDog
+66qp7ZGcIDQwaCwg7Iuk7KCcIDM0LjVoLCDrtoDsobEgNS41aCAoODYuMiUpPC9saT48L3VsPgo8
+aDM+8J+ThSAyMDI2LTA1PC9oMz4KPHA+66+47Lap7KGxIOyduOybkDogPHN0cm9uZz4366qFPC9z
+dHJvbmc+IHwg7LSdIOu2gOyhseyDneyCsOyEsTogPHN0cm9uZyBzdHlsZT0iY29sb3I6I2ZmNmI2
+YjsiPjE4MS4waDwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+67CV7KeE66+4OiDrqqntkZwgNzJoLCDs
+i6TsoJwgMzUuNWgsIOu2gOyhsSAzNi41aCAoNDkuMyUpPC9saT4KPGxpPuydtO2YhOyekDog66qp
+7ZGcIDQwaCwg7Iuk7KCcIDEyLjVoLCDrtoDsobEgMjcuNWggKDMxLjIlKTwvbGk+CjxsaT7rsLDq
+uIjruZs6IOuqqe2RnCA0MGgsIOyLpOygnCAxMy4waCwg67aA7KGxIDI3LjBoICgzMi41JSk8L2xp
+Pgo8bGk+7KCE7Jyg7KeEOiDrqqntkZwgNDBoLCDsi6TsoJwgMTMuNWgsIOu2gOyhsSAyNi41aCAo
+MzMuOCUpPC9saT4KPGxpPu2VnOyngO2YnDog66qp7ZGcIDQwaCwg7Iuk7KCcIDE2LjBoLCDrtoDs
+obEgMjQuMGggKDQwLjAlKTwvbGk+CjxsaT7snbTsiJjsnYA6IOuqqe2RnCA0MGgsIOyLpOygnCAx
+Ni41aCwg67aA7KGxIDIzLjVoICg0MS4yJSk8L2xpPgo8bGk+67CV64yA7JuQOiDrqqntkZwgMzJo
+LCDsi6TsoJwgMTYuMGgsIOu2gOyhsSAxNi4waCAoNTAuMCUpPC9saT4KPC91bD4KPGhyPgo8cCBz
+dHlsZT0iY29sb3I6Z3JheTsgZm9udC1zaXplOjEycHg7Ij4qIOydtCDrqZTsnbzsnYAgSVRTTSDs
+l4XrrLTqs7XsiJgg67aE7ISdIOyLnOyKpO2FnOyXkOyEnCDsnpDrj5kg67Cc7Iah65CY7JeI7Iq1
+64uI64ukLjwvcD4KPC9ib2R5Pgo8L2h0bWw+Cg==
+
+--===============4592070216649810703==--

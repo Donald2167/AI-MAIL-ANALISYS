@@ -1,0 +1,242 @@
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17 via Mailbox Transport; Mon, 11 May 2026 17:08:26 +0900
+Received: from HGI-EX01P.HGI.hanwha.com (172.28.11.41) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.2.2562.17; Mon, 11 May 2026 17:08:26 +0900
+Received: from HGI-EX03P.HGI.hanwha.com (172.28.11.43) by
+ HGI-EX01P.HGI.hanwha.com (172.28.11.41) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.1.2507.55; Mon, 11 May 2026 17:08:25 +0900
+Received: from HGI-EX03P.HGI.hanwha.com ([::1]) by HGI-EX03P.HGI.hanwha.com
+ ([fe80::50f:b25c:9887:d8a9%26]) with Microsoft SMTP Server id 15.01.2507.055;
+ Mon, 11 May 2026 17:08:25 +0900
+From: =?ks_c_5601-1987?B?wPzAr8H4?= <8921246@hanwha.com>
+To: =?ks_c_5601-1987?B?wPzAr8H4IMfRyK29w726xdsvSUNU?= <youjin0404@hanwha.com>
+Subject:
+	=?ks_c_5601-1987?B?wPy03jogW0FYXSBBWCCw+sGmIMH4x+AgvcMgwdbAx7vnx9cgudcg?=
+ =?ks_c_5601-1987?B?vsizu7vnx9c=?=
+Thread-Topic:
+	=?ks_c_5601-1987?B?W0FYXSBBWCCw+sGmIMH4x+AgvcMgwdbAx7vnx9cgudcgvsizu7vn?=
+ =?ks_c_5601-1987?B?x9c=?=
+Thread-Index: AdzhHMbigRZsivU4Sfyh5U35MIEBdQAAJDWh
+Date: Mon, 11 May 2026 17:08:25 +0900
+Message-ID: <2bee94c5883742e089132092abc500be@HGI-EX03P.HGI.hanwha.com>
+References: <4c637d28e39d4fb5996c8207efb561e1@hanwha.com>
+In-Reply-To: <4c637d28e39d4fb5996c8207efb561e1@hanwha.com>
+Content-Language: ko-KR
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-MS-Exchange-Organization-AuthSource: HGI-EX03P.HGI.hanwha.com
+X-MS-Exchange-Organization-ComplianceLabelId:
+	269edd4b-6f1a-456c-b817-d9d46ad5b050
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-AutoForwarded: true
+X-MS-Exchange-Organization-Network-Message-Id:
+	82c5e4bf-e87b-471b-5cbf-08deaf347a33
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Inbox-Rules-Loop: 8921246@hanwha.com
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+Content-Type: multipart/alternative;
+	boundary="_000_2bee94c5883742e089132092abc500beHGIEX03PHGIhanwhacom_"
+MIME-Version: 1.0
+
+--_000_2bee94c5883742e089132092abc500beHGIEX03PHGIhanwhacom_
+Content-Type: text/plain; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: base64
+
+DQpfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXw0KurizvSC757b3OiDAzMH4v+wNCrq4
+s70gs6/CpTogMjAyNrPiIDW/+SAxMcDPIL/5v+TAzyC/wMjEIDU6MDg6MjQgKFVUQyswOTowMCkg
+vK2/7w0Kud60wiC757b3OiCx6LzSv/g7ILzbuc6x1ChTb25nIE1pbiBLeXUpOyDFwrW/wM8oVEFF
+IERPTkcgSUwpOyDAzMf2wNooTGVlIEh5dW5qYSk7IMDMu/PH+ShMRUUgU0FORyBIWVVQKTsgudrB
+2Lz4KHBhcmsganVuIHN1bik7IMDMvPbAujsgsbnAscijKEtvb2sgWW9vbiBIbyk7IMDTw6S/rChs
+aW1jaGFleWV1bik7IMDTvNa5zDsgwMzBpMjGKExlZSBKdW5nIEhvb24pOyCx6LnOvLooTWluU2Vv
+bmcgS2ltKTsgwK/A58O2OyDA/MCvwfg7IMDlwK/AujsgwMzH2L/4KExlZSBIYWUgV29uKTsgsei+
+1r+1OyDIssf9uLI7IMDTurSxuTsgsO3Hz7b3OyDIsry6v6w7ILPryPG29zsgwMy89r+5OyDAzMGk
+uc47IMDMsKHAujsgw9bB38jxOyDAzMH4v+w7ILD7vLrAujsgudq067/4OyC828f9sOYNCsGmuPE6
+IFtBWF0gQVggsPrBpiDB+MfgIL3DIMHWwMe758fXILnXIL7Is7u758fXDQoNCr7Is+fHz7y8v+Qu
+IEFYIMDMwfi/7CDHwbfOwNS0z7TZLg0KDQq47iCwocH2IL7Is7sgu+fH18DMIMDWvu4guN7AzyC1
+5biztM+02S4NCg0KDQogIDEuICBBWCDB37CjxvKwobChIDa/+SDB37z4wusgwfjH4CC1ySC/ucGk
+wNS0z7TZLiAow9/IxCDAz8GkILD4wfYgv7nBpCkNCrTKvu61tSA2v/kgw8ogse7B9rTCIEFYILD6
+waa/oSC068fRIL/2xanHw7fOv+wsIL7GxbDF2MOzILG4vLq1tSC76sPiubDAuyDB2Lrxx9jB1r3D
+uOkgsKi757XluK6w2r3AtM+02S4NCiogxay3obn2vbogPiDH+b73uri15SA+IElUT7vnvve6ziCx
+3cC2tOO05yA+IDAyIEFYIFNRVUFEID4gMDQgvNW6uElUTzLGwCA+ILCiILD6waa/oSC+97fOteUN
+Cg0KDQogIDEuICC+37CjIMH4x+DH37T4IEFJIMDawLIgxNq1+SC48MDTwLogvsa3oSC9w7CjwLi3
+ziC9usT1teUgurAgwNrAsiC48MDTIMH4x+DHz7jpILXHsNq9wLTPtNkuDQq4xcDPIL/AyMQgMTI6
+MzB+MTM6MzAgLCAxNzowMH4xODowMC4gKDIgVGltZSkNCiogvve5q7+hIMH2wOXAzCC++LTCILyx
+v6G8rSC9usT1teUgurC3ziDB+Mfgx9jB1r3DuOkgsKi757XluK6w2r3AtM+02S4NCg0KDQogIDEu
+ICC6uL7Iv6EgsKK6sMj3IL3FsOYgveEgwda9w7HiuKYgus7FubXluLO0z7TZLg0KQUkgVG9vbChD
+dXJzb3IsIENvcGlsb3Qgte4pwLsgx/bA5yC/3LrOuMG/obytILvnv+sgwd/AziC4uMWtILDtsLS7
+58DHIMGkurgsILWlwMzFzSwgx8G3zrHXt6UgvNK9uiC17iC6uL7IwMy9tLChILXJILjwtecgus66
+0L+hILTrx9i8rbTCDQrHysj3IL3FsObAuyC+sr3Dvu4gv9y6zsCvw+LAzCC+yLXHtbW3zyDB1sDH
+ISC2xyDB1sDHISC6zsW5teW4s7TPtNkuDQqx5LChuc6wocfRILWlwMzFzbbzuOkgwMzB+L/sIMfB
+t84gtse0wiDGxMauuK609bTUILbHtMIgxsDA5bTUsrIgx8rI9yDIrsDOx8+9w77uILD6waa4piDB
++Mfgx9jB1ry8v+QuDQoqILq4vsggwMy9tCC537v9IL3DLCDB773DIMbAwOW01LKyILq4sO0gudm2
+9y4NCg0KsKi758fVtM+02S4NCg0KwMzB+L/sILXluLIuDQo=
+
+--_000_2bee94c5883742e089132092abc500beHGIEX03PHGIhanwhacom_
+Content-Type: text/html; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dks_c_5601=
+-1987">
+<meta content=3D"text/html; charset=3Dks_c_5601-1987">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style>
+<!--
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1"}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-autospace:none;
+	word-break:break-hangul;
+	font-size:10.0pt;
+	font-family:"=B8=BC=C0=BA =B0=ED=B5=F1"}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:40.0pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-autospace:none;
+	word-break:break-hangul;
+	font-size:10.0pt;
+	font-family:"=B8=BC=C0=BA =B0=ED=B5=F1"}
+span.EmailStyle17
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:windowtext}
+.MsoChpDefault
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1"}
+@page WordSection1
+	{margin:3.0cm 72.0pt 72.0pt 72.0pt}
+div.WordSection1
+	{}
+ol
+	{margin-bottom:0cm}
+ul
+	{margin-bottom:0cm}
+-->
+</style>
+</head>
+<body lang=3D"KO" link=3D"#0563C1" vlink=3D"#954F72" style=3D"word-wrap:bre=
+ak-word">
+<strong>
+<div><font face=3D"Tahoma" color=3D"#000000" size=3D"2">&nbsp;</font></div>
+</strong>
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<font face=3D"Tahoma" size=3D"2"><b>=BA=B8=B3=BD =BB=E7=B6=F7:</b> =C0=CC=
+=C1=F8=BF=EC<br>
+<b>=BA=B8=B3=BD =B3=AF=C2=A5:</b> 2026=B3=E2 5=BF=F9 11=C0=CF =BF=F9=BF=E4=
+=C0=CF =BF=C0=C8=C4 5:08:24 (UTC&#43;09:00) =BC=AD=BF=EF<br>
+<b>=B9=DE=B4=C2 =BB=E7=B6=F7:</b> =B1=E8=BC=D2=BF=F8; =BC=DB=B9=CE=B1=D4(So=
+ng Min Kyu); =C5=C2=B5=BF=C0=CF(TAE DONG IL); =C0=CC=C7=F6=C0=DA(Lee Hyunja=
+); =C0=CC=BB=F3=C7=F9(LEE SANG HYUP); =B9=DA=C1=D8=BC=F8(park jun sun); =C0=
+=CC=BC=F6=C0=BA; =B1=B9=C0=B1=C8=A3(Kook Yoon Ho); =C0=D3=C3=A4=BF=AC(limch=
+aeyeun); =C0=D3=BC=D6=B9=CC; =C0=CC=C1=A4=C8=C6(Lee Jung Hoon); =B1=E8=B9=
+=CE=BC=BA(MinSeong Kim); =C0=AF=C0=E7=C3=B6; =C0=FC=C0=AF=C1=F8; =C0=E5=C0=
+=AF=C0=BA; =C0=CC=C7=D8=BF=F8(Lee Hae Won); =B1=E8=BE=D6=BF=B5; =C8=B2=C7=
+=FD=B8=B2; =C0=D3=BA=B4=B1=B9; =B0=ED=C7=CF=B6=F7; =C8=B2=BC=BA=BF=AC; =B3=
+=EB=C8=F1=B6=F7;
+ =C0=CC=BC=F6=BF=B9; =C0=CC=C1=A4=B9=CE; =C0=CC=B0=A1=C0=BA; =C3=D6=C1=DF=
+=C8=F1; =C0=CC=C1=F8=BF=EC; =B0=FB=BC=BA=C0=BA; =B9=DA=B4=EB=BF=F8; =BC=DB=
+=C7=FD=B0=E6<br>
+<b>=C1=A6=B8=F1:</b> [AX] AX =B0=FA=C1=A6 =C1=F8=C7=E0 =BD=C3 =C1=D6=C0=C7=
+=BB=E7=C7=D7 =B9=D7 =BE=C8=B3=BB=BB=E7=C7=D7<br>
+</font><br>
+<div></div>
+<div>
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">=BE=C8=B3=E7=C7=CF=BC=BC=BF=E4<span lang=3D"EN-US">.=
+ AX </span>=C0=CC=C1=F8=BF=EC =C7=C1=B7=CE=C0=D4=B4=CF=B4=D9<span lang=3D"E=
+N-US">.</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<p class=3D"MsoNormal">=B8=EE =B0=A1=C1=F6 =BE=C8=B3=BB =BB=E7=C7=D7=C0=CC =
+=C0=D6=BE=EE =B8=DE=C0=CF =B5=E5=B8=B3=B4=CF=B4=D9<span lang=3D"EN-US">.</s=
+pan></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<ol start=3D"1" type=3D"1" style=3D"margin-top:0cm">
+<li class=3D"MsoListParagraph" style=3D"margin-left:3.25pt"><b><span lang=
+=3D"EN-US">AX </span>
+=C1=DF=B0=A3=C6=F2=B0=A1=B0=A1 <span lang=3D"EN-US">6</span>=BF=F9 =C1=DF=
+=BC=F8=C2=EB =C1=F8=C7=E0 =B5=C9 =BF=B9=C1=A4=C0=D4=B4=CF=B4=D9<span lang=
+=3D"EN-US">. (</span>=C3=DF=C8=C4 =C0=CF=C1=A4 =B0=F8=C1=F6 =BF=B9=C1=A4<sp=
+an lang=3D"EN-US">)</span></b><span lang=3D"EN-US"><br>
+</span>=B4=CA=BE=EE=B5=B5 <span lang=3D"EN-US">6</span>=BF=F9 =C3=CA =B1=EE=
+=C1=F6=B4=C2 <span lang=3D"EN-US">AX </span>=B0=FA=C1=A6=BF=A1 =B4=EB=C7=D1
+<b><span style=3D"color:red">=BF=F6=C5=A9=C7=C3=B7=CE=BF=EC<span lang=3D"EN=
+-US">,</span></span><span lang=3D"EN-US">
+</span><span style=3D"color:red">=BE=C6=C5=B0=C5=D8=C3=B3 =B1=B8=BC=BA=B5=
+=B5</span></b> =BB=EA=C3=E2=B9=B0=C0=BB =C1=D8=BA=F1=C7=D8=C1=D6=BD=C3=B8=
+=E9 =B0=A8=BB=E7=B5=E5=B8=AE=B0=DA=BD=C0=B4=CF=B4=D9<span lang=3D"EN-US">.<=
+br>
+* </span>=C5=AC=B7=A1=B9=F6=BD=BA <span lang=3D"EN-US">&gt; </span>=C7=F9=
+=BE=F7=BA=B8=B5=E5 <span lang=3D"EN-US">&gt; ITO</span>=BB=E7=BE=F7=BA=CE =
+=B1=DD=C0=B6=B4=E3=B4=E7
+<span lang=3D"EN-US">&gt; 02 AX SQUAD &gt; 04 </span>=BC=D5=BA=B8<span lang=
+=3D"EN-US">ITO2</span>=C6=C0 <span lang=3D"EN-US">
+&gt; </span>=B0=A2 =B0=FA=C1=A6=BF=A1 =BE=F7=B7=CE=B5=E5<span lang=3D"EN-US=
+"></span></li></ol>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<ol start=3D"2" type=3D"1" style=3D"margin-top:0cm">
+<li class=3D"MsoListParagraph" style=3D"margin-left:3.25pt"><b>=BE=DF=B0=A3=
+ =C1=F8=C7=E0=C7=DF=B4=F8 <span lang=3D"EN-US">
+AI </span>=C0=DA=C0=B2 =C4=DA=B5=F9 =B8=F0=C0=D3=C0=BA =BE=C6=B7=A1 =BD=C3=
+=B0=A3=C0=B8=B7=CE =BD=BA=C4=F5=B5=E5 =BA=B0 =C0=DA=C0=B2 =B8=F0=C0=D3 =C1=
+=F8=C7=E0=C7=CF=B8=E9 =B5=C7=B0=DA=BD=C0=B4=CF=B4=D9<span lang=3D"EN-US">.<=
+br>
+</span><i><span style=3D"color:#4472C4">=B8=C5=C0=CF =BF=C0=C8=C4 <span lan=
+g=3D"EN-US">12:30~13:30 , 17:00~18:00. (2 Time)</span></span></i></b><i><sp=
+an lang=3D"EN-US" style=3D"color:#4472C4"><br>
+</span></i><span lang=3D"EN-US">* </span>=BE=F7=B9=AB=BF=A1 =C1=F6=C0=E5=C0=
+=CC =BE=F8=B4=C2 =BC=B1=BF=A1=BC=AD =BD=BA=C4=F5=B5=E5 =BA=B0=B7=CE =C1=F8=
+=C7=E0=C7=D8=C1=D6=BD=C3=B8=E9 =B0=A8=BB=E7=B5=E5=B8=AE=B0=DA=BD=C0=B4=CF=
+=B4=D9<span lang=3D"EN-US">.</span></li></ol>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<ol start=3D"3" type=3D"1" style=3D"margin-top:0cm">
+<li class=3D"MsoListParagraph" style=3D"margin-left:3.25pt"><b><span style=
+=3D"color:red">=BA=B8=BE=C8=BF=A1 =B0=A2=BA=B0=C8=F7 =BD=C5=B0=E6
+</span></b>=BD=E1 =C1=D6=BD=C3=B1=E2=B8=A6 =BA=CE=C5=B9=B5=E5=B8=B3=B4=CF=
+=B4=D9<span lang=3D"EN-US">.<br>
+AI Tool(Cursor, Copilot </span>=B5=EE<span lang=3D"EN-US">)</span>=C0=BB =
+=C7=F6=C0=E7 =BF=DC=BA=CE=B8=C1=BF=A1=BC=AD =BB=E7=BF=EB =C1=DF=C0=CE =B8=
+=B8=C5=AD <b>
+<span style=3D"color:red">=B0=ED=B0=B4=BB=E7=C0=C7 =C1=A4=BA=B8<span lang=
+=3D"EN-US">, </span>=B5=A5=C0=CC=C5=CD<span lang=3D"EN-US">,
+</span>=C7=C1=B7=CE=B1=D7=B7=A5 =BC=D2=BD=BA =B5=EE =BA=B8=BE=C8=C0=CC=BD=
+=B4</span></b>=B0=A1 =B5=C9 =B8=F0=B5=E7 =BA=CE=BA=D0=BF=A1 =B4=EB=C7=D8=BC=
+=AD=B4=C2<span lang=3D"EN-US"><br>
+</span>=C7=CA=C8=F7 =BD=C5=B0=E6=C0=BB =BE=B2=BD=C3=BE=EE =BF=DC=BA=CE=C0=
+=AF=C3=E2=C0=CC =BE=C8=B5=C7=B5=B5=B7=CF =C1=D6=C0=C7<span lang=3D"EN-US">!=
+ </span>=B6=C7 =C1=D6=C0=C7<span lang=3D"EN-US">!
+</span>=BA=CE=C5=B9=B5=E5=B8=B3=B4=CF=B4=D9<span lang=3D"EN-US">.<br>
+</span>=B1=E4=B0=A1=B9=CE=B0=A1=C7=D1 =B5=A5=C0=CC=C5=CD=B6=F3=B8=E9 =C0=CC=
+=C1=F8=BF=EC =C7=C1=B7=CE =B6=C7=B4=C2 =C6=C4=C6=AE=B8=AE=B4=F5=B4=D4 =B6=
+=C7=B4=C2 =C6=C0=C0=E5=B4=D4=B2=B2 =C7=CA=C8=F7 =C8=AE=C0=CE=C7=CF=BD=C3=BE=
+=EE =B0=FA=C1=A6=B8=A6 =C1=F8=C7=E0=C7=D8=C1=D6=BC=BC=BF=E4<span lang=3D"EN=
+-US">.<br>
+<b><span style=3D"color:red">* </span></b></span><b><span style=3D"color:re=
+d">=BA=B8=BE=C8 =C0=CC=BD=B4 =B9=DF=BB=FD =BD=C3<span lang=3D"EN-US">,
+</span>=C1=EF=BD=C3 =C6=C0=C0=E5=B4=D4=B2=B2 =BA=B8=B0=ED =B9=D9=B6=F7<span=
+ lang=3D"EN-US">.</span></span></b><span lang=3D"EN-US"></span></li></ol>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<p class=3D"MsoNormal">=B0=A8=BB=E7=C7=D5=B4=CF=B4=D9<span lang=3D"EN-US">.=
+</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<p class=3D"MsoNormal">=C0=CC=C1=F8=BF=EC =B5=E5=B8=B2<span lang=3D"EN-US">=
+.</span></p>
+</div>
+</div>
+</body>
+</html>
+
+--_000_2bee94c5883742e089132092abc500beHGIEX03PHGIhanwhacom_--

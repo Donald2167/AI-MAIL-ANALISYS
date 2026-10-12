@@ -1,0 +1,3560 @@
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17 via Mailbox Transport; Thu, 30 Apr 2026 14:06:01 +0900
+Received: from HGI-EX01P.HGI.hanwha.com (172.28.11.41) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.2.2562.17; Thu, 30 Apr 2026 14:06:01 +0900
+Received: from HGI-EX03P.HGI.hanwha.com (172.28.11.43) by
+ HGI-EX01P.HGI.hanwha.com (172.28.11.41) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.1.2507.55; Thu, 30 Apr 2026 14:06:01 +0900
+Received: from HGI-EX03P.HGI.hanwha.com ([fe80::50f:b25c:9887:d8a9]) by
+ HGI-EX03P.HGI.hanwha.com ([fe80::50f:b25c:9887:d8a9%26]) with mapi id
+ 15.01.2507.055; Thu, 30 Apr 2026 14:06:01 +0900
+From: =?ks_c_5601-1987?B?wPzAr8H4?= <8921246@hanwha.com>
+To: =?ks_c_5601-1987?B?wPzAr8H4IMfRyK29w726xdsvSUNU?= <youjin0404@hanwha.com>
+Subject: =?ks_c_5601-1987?B?wNq/rL7uIMH6wMc=?=
+Thread-Topic: =?ks_c_5601-1987?B?wNq/rL7uIMH6wMc=?=
+Thread-Index: AdzYXwHZFSggXixCT1KCCUK83Ek5cA==
+Date: Thu, 30 Apr 2026 14:06:00 +0900
+Message-ID: <35f2eb645d934e0d8057c2f3a7de3f05@hanwha.com>
+Accept-Language: ko-KR, en-US
+Content-Language: ko-KR
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: HGI-EX03P.HGI.hanwha.com
+X-MS-Exchange-Organization-ComplianceLabelId:
+	269edd4b-6f1a-456c-b817-d9d46ad5b050
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	d9cff4f1-11ea-466b-9bb8-08dea6762c28
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+Content-Type: multipart/alternative;
+	boundary="_000_35f2eb645d934e0d8057c2f3a7de3f05hanwhacom_"
+MIME-Version: 1.0
+
+--_000_35f2eb645d934e0d8057c2f3a7de3f05hanwhacom_
+Content-Type: text/plain; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: base64
+
+LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKioqKioqKioqKioqDQoNCiAgIDEpIMPrsd7A2rChICJLRULHz7OqwLrH4CIsIijB1inH
+z7OqwLrH4CLAxyAyMDI1s+K1tb+hIMfYvuAsILi4seK1yCDA5bHiurjH6CDH2MH2sOi+4LiuvbrG
+rrimIMPfw+LH2MHgDQoNCiAgIDIpIMPfw+LH17jxwLogwfWxx7n4yKMsILDovuC788XCuq+w5sDP
+wNosILDovuDAz8DaLCC788ewxNq15Swgw9bBvrOzwNTIuML3LCDDysi4v7W89rq4x+i34Swgwfax
+3rTru/O5+MijLCDIr7Hesd2+18C7IMPfw+LH2MHgDQoNCiAgIDMpIMGkt8Sx4sHYwLogsOi+4Lvz
+xcLAz8DaIL/AuKfC97z4wLi3ziDH2MHgDQoNCioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqLw0KDQpTRUxFQ1Qg
+LyorIFVTRV9IQVNIKEExIEIxIEMxIEQxKSBQQVJBTExFTCg4KQ0KDQogICAgICAgICAgICBQUV9E
+SVNUUklCVVRFKEExIEhBU0ggSEFTSCkgUFFfRElTVFJJQlVURShCMSBIQVNIIEhBU0gpIFBRX0RJ
+U1RSSUJVVEUoQzEgSEFTSCBIQVNIKSBQUV9ESVNUUklCVVRFKEQxIEhBU0ggSEFTSCkNCg0KICAg
+ICAgICAqLw0KDQogICAgICAgQTEuUExZTk8gICAgICAgICAgICAgICAgICBBUyBQTFlOTyAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qIMH1sce5+MijICovDQoNCiAgICAg
+ICxBMS5DUl9TVEFEVCAgICAgICAgICAgICAgIEFTIENSX1NUQURUICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgLyogsOi+4LvzxcLAz8DaICovDQoNCiAgICAgICxDMS5DTlJEVCAg
+ICAgICAgICAgICAgICAgIEFTIENOUkRUICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgLyogsOi+4MDPwNogKi8NCg0KICAgICAgLEMxLkdEQ0QgICAgICAgICAgICAgICAgICAg
+QVMgR0RDRCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiC788ewxNq1
+5SAqLw0KDQogICAgICAsQzEuRk5MX1BZTV9TRVEgICAgICAgICAgICBBUyBGTkxfUFlNX1NFUSAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qIMPWwb6zs8DUyLjC9yAqLw0KDQogICAg
+ICAsQzEuRlNUSV9SUF9QUk0gICAgICAgICAgICBBUyBGU1RJX1JQX1BSTSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIC8qIMPKyLi/tbz2urjH6LfhICovDQoNCiAgICAgICxEMS5QWV9C
+Sk5PICAgICAgICAgICAgICAgIEFTIFBZX0JKTk8gICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgLyogwfax3rTru/O5+MijICovDQoNCiAgICAgICxEMS5SVEFNVCAgICAgICAgICAg
+ICAgICAgIEFTIFJUQU1UICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLyog
+yK+x3rHdvtcgKi8NCg0KRlJPTSAgIElOU19DUl9TVF9DUlIgIEExICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiqw6L7gu/PFwsDMt8IqKi8N
+Cg0KSU5ORVIgIEpPSU4NCg0KICAgICAgIElOU19DUl9ESF9TVEZfQ1JSICBCMSAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiqw6L7gw+ux3sH3v/jA
+zLfCKiovDQoNCk9OICAgICBCMS5QTFlOTyAgICAgICAgICAgICAgICA9IEExLlBMWU5PICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLyogwfWxx7n4yKMgKi8NCg0KQU5EICAg
+IEIxLkRIX1NURl9UUENEICAgICAgICAgID0gJzAyJyAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAvKiDD67Hewfe/+MCvx/zE2rXlICA9IDAyLsPrsd7B97/4ICovDQoN
+CkFORCAgICBCMS5ORFNfQVBfTkRfRFRITVMgICAgID4gIEExLkNSX1NUQURUICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgLyoguei8rb3CwM7BvrfhwM+9wyA+ICCw6L7gu/PFwsDP
+wNogKi8NCg0KQU5EICAgIEIxLk5EU19BUF9TVFJfRFRITVMgICAgPD0gQTEuQ1JfU1RBRFQgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiC56LytvcLAzr3DwNvAz73DIDw9ILDo
+vuC788XCwM/A2iAqLw0KDQpBTkQgICAgQjEuUFJTX0RIX1NURl9ZTiAgICAgICAgPSAnMScgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qILTrx6XD67Hewfe/+L+p
+us4gID0gWSAqLw0KDQpJTk5FUiAgSk9JTg0KDQogICAgICAgSU5TX0lOU19DUiAgQzEgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qKrq4
+x+iw6L7gKiovDQoNCk9OICAgICBDMS5QTFlOTyAgICAgICAgICAgICAgICA9IEExLlBMWU5PICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLyogwfWxx7n4yKMgKi8NCg0KQU5E
+ICAgIEMxLklLRF9HUlBDRCAgICAgICAgICAgID0gJ0xBJyAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAvKiC6uMG+sbrE2rXlIDogwOWx4rq4x+ggKi8NCg0KQU5EICAg
+IEMxLk5EU19BUF9ORF9EVEhNUyAgICAgID0gJzk5OTkxMjMxJyAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAvKiC56Lytwb634cDPvcMgKi8NCg0KQU5EICAgIEMxLlZBTERfTkRT
+X1lOICAgICAgICAgID0gJzEnICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAvKiDAr8i/uei8rb+pus4gPSBZICovDQoNCklOTkVSICBKT0lODQoNCiAgICAgICBJTlNf
+V0hQWV9CSiAgRDEgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgLyoqwabB9rHetOu78yoqLw0KDQpPTiAgICAgRDEuUExZTk8gICAgICAgICAg
+ICAgICAgPSBBMS5QTFlOTyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8q
+IMH1sce5+MijICovDQoNCldIRVJFICAxID0gMQ0KDQpBTkQgICAgQTEuTkRTX0FQX05EX0RUSE1T
+ICA9ICc5OTk5MTIzMScgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8q
+ILnovK3BvrfhwM+9wyAqLw0KDQpBTkQgICAgQTEuQ1JfU1RDRCAgICAgICAgICBJTiAoJzA4Jywg
+JzEyJykgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qILDovuC788XCxNq1
+5SA9IDA4LsfYvuAsIDEyLri4seIgKi8NCg0KQU5EICAgIEExLkNSX1NUQURUICAgICAgICAgQkVU
+V0VFTiAnMjAyNTEyMDEnIEFORCAnMjAyNTEyMzEnICAgICAgICAgICAgICAgICAgICAvKiCw6L7g
+u/PFwsDPwNogKi8NCg0KQU5EICAgIEExLlZBTERfTkRTX1lOICAgICAgPSAnMScgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiDAr8i/uei8rb+pus4gPSBZ
+ICovDQoNCkFORCAgICBCMS5ESF9TVEZOTyAgICAgICAgICAgIElOICgnMzA4MDY2OCcsICczMDgw
+NjkwJywgJzMyNTM4NzUnKSAgICAgICAgICAgICAgLyogw+ux3sH3v/i5+MijIDogS0VCx8+zqsC6
+x+AsICjB1inHz7OqwLrH4CAqLw0KDQpPUkRFUiAgQlkgQTEuQ1JfU1RBRFQNCg0KOw0KDQovKioq
+KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKioqKioqKioNCg0KICAgMSkgMjAyNjAzv/kgw+ux3sOzseKw/MDMICLA5bHiwfe/tTG8
+vsXNIsDMsO0gsOaw+r/5vPawoSAxM7Czv/nAzMfPwM4gwOWx4rq4x+ggwK/B9rDovuDAuyDD38Pi
+x9jB4A0KDQogICAyKSDD38Pix9e48cC6ILHiwdiz4r/5LCDD67Hew7Ox4rD8xNq15Swgw+ux3sOz
+seKw/LjtLCDD67HexsCx4rD8xNq15Swgw+ux3sbAseKw/LjtLCC48MH9wfe/+Ln4yKMsILjwwf3B
+97/4uO0NCg0KICAgICAgICAgICAgICAgICzD67Hewfe/+Ln4yKMsIMPrsd7B97/4uO0sIMH1sce5
++MijLCCw6L7gu/PFwsTateUsILDovuC788XCuO0sILDmsPq/+bz2LCC788ewxNq15Swgu/PHsLjt
+DQoNCiAgICAgICAgICAgICAgICAsurjH6MG+uPHE2rXlLCC788ewvNK60Lf5uO0sILDovuDA2rjt
+LCC48MH9v/mzs8ivu+q6uMfot+EsIMCvwfa/+bOzyK+76rq4x+i34bimIMPfw+LH2MHgDQoNCioq
+KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKioqKioqKioqLw0KDQpTRUxFQ1QgQTIuU1RfWVlNTSAgICAgICAgICAgICAgICAgICAg
+ICAgIEFTIFNUX1lZTU0gICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qILHiwdiz4r/5ICov
+DQoNCiAgICAgICxBMi5ESFRSQl9PUkdDRCAgICAgICAgICAgICAgICAgICAgQVMgREhUUkJfT1JH
+Q0QgICAgICAgICAgICAgICAgICAgICAgICAgLyogw+ux3sOzwfbBocTateUgKi8NCg0KICAgICAg
+LEIyLkJaUF9PUkdOTSAgICAgICAgICAgICAgICAgICAgICBBUyBESF9CWlBfT1JHTk0gICAgICAg
+ICAgICAgICAgICAgICAgICAvKiDD67Hew7PB9sGhuO0gKi8NCg0KICAgICAgLEEyLkRIX1RNX09S
+R0NEICAgICAgICAgICAgICAgICAgICBBUyBESF9UTV9PUkdDRCAgICAgICAgICAgICAgICAgICAg
+ICAgICAvKiDD67HexsDE2rXlICovDQoNCiAgICAgICxCMi5UTU5NICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgQVMgREhfVE1OTSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLyogw+ux3sbA
+uO0gKi8NCg0KICAgICAgLEEyLkNFX1NURk5PICAgICAgICAgICAgICAgICAgICAgICBBUyBDRV9T
+VEZOTyAgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiC48MH9wfe/+Ln4yKMgKi8NCg0KICAg
+ICAgLEMyLk5NICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBDRV9TVEZOTSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAvKiC48MH9wfe/+LjtICovDQoNCiAgICAgICxBMi5ESF9TVEZO
+TyAgICAgICAgICAgICAgICAgICAgICAgQVMgREhfU1RGTk8gICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgLyogw+ux3sH3v/i5+MijICovDQoNCiAgICAgICxCMi5TVEZOTSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgQVMgREhfU1RGTk0gICAgICAgICAgICAgICAgICAgICAgICAgICAgLyogw+ux
+3sH3v/i47SAqLw0KDQogICAgICAsQTIuUExZTk8gICAgICAgICAgICAgICAgICAgICAgICAgIEFT
+IFBMWU5PICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qIMH1sce5+MijICovDQoNCiAg
+ICAgICxBMi5DUl9TVENEICAgICAgICAgICAgICAgICAgICAgICAgQVMgQ1JfU1RDRCAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgLyogsOi+4LvzxcLE2rXlICovDQoNCiAgICAgICxGMi5EVENO
+TSAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgQ1JfU1ROTSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgLyogsOi+4LvzxcK47SAqLw0KDQogICAgICAsQTIuUk5EX01DICAgICAgICAgICAg
+ICAgICAgICAgICAgIEFTIFJORF9NQyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qILDm
+sPq/+bz2ICovDQoNCiAgICAgICxBMi5HRENEICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMg
+R0RDRCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLyogu/PHsMTateUgKi8NCg0KICAg
+ICAgLEQyLkdETk0gICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBHRE5NICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAvKiC788ewuO0gKi8NCg0KICAgICAgLEEyLklOU19JTUNEICAg
+ICAgICAgICAgICAgICAgICAgICBBUyBJTlNfSU1DRCAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAvKiC6uMfowb648cTateUgKi8NCg0KICAgICAgLEUyLkdEX1NNQ05NICAgICAgICAgICAgICAg
+ICAgICAgICBBUyBHRF9TTUNOTSAgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiC788ewvNK6
+0Lf5uO0gKi8NCg0KICAgICAgLEEyLkNSVF9OTSAgICAgICAgICAgICAgICAgICAgICAgICBBUyBD
+UlRfTk0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiCw6L7gwNq8urjtICovDQoNCiAg
+ICAgICxBMi5DRV9NUFlfQ1ZQUk0gICAgICAgICAgICAgICAgICAgQVMgQ0VfTVBZX0NWUFJNICAg
+ICAgICAgICAgICAgICAgICAgICAgLyoguPDB/b/5s7PIr7vqurjH6LfhICovDQoNCiAgICAgICxB
+Mi5NTl9NUFlfQ1ZQUk0gICAgICAgICAgICAgICAgICAgQVMgTU5fTVBZX0NWUFJNICAgICAgICAg
+ICAgICAgICAgICAgICAgLyogwK/B9r/5s7PIr7vqurjH6LfhICovDQoNCg0KRlJPTSAgKFNFTEVD
+VCAvKisgVVNFX0hBU0goQTEgQjEpIFBBUkFMTEVMKDgpDQoNCiAgICAgICAgICAgICAgICAgIFBR
+X0RJU1RSSUJVVEUoQTEgSEFTSCBIQVNIKSBQUV9ESVNUUklCVVRFKEIxIEhBU0ggSEFTSCkNCg0K
+ICAgICAgICAgICAgICAqLw0KDQogICAgICAgICAgICAgIEExLlNUX1lZTU0gICAgICAgICAgICAg
+ICAgIEFTIFNUX1lZTU0gICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qILHiwdiz4r/5ICov
+DQoNCiAgICAgICAgICAgICAsQTEuREhUUkJfT1JHQ0QgICAgICAgICAgICAgQVMgREhUUkJfT1JH
+Q0QgICAgICAgICAgICAgICAgICAgICAgICAgLyogw+ux3sOzseKw/MTateUgKi8NCg0KICAgICAg
+ICAgICAgICxBMS5ESF9UTV9PUkdDRCAgICAgICAgICAgICBBUyBESF9UTV9PUkdDRCAgICAgICAg
+ICAgICAgICAgICAgICAgICAvKiDD67HexsCx4rD8xNq15SAqLw0KDQogICAgICAgICAgICAgLEEx
+LkNFX1NURk5PICAgICAgICAgICAgICAgIEFTIENFX1NURk5PICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIC8qILjwwf3B97/4ufjIoyAqLw0KDQogICAgICAgICAgICAgLEExLkRIX1NURk5PICAg
+ICAgICAgICAgICAgIEFTIERIX1NURk5PICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qIMPr
+sd7B97/4ufjIoyAqLw0KDQogICAgICAgICAgICAgLEExLlBMWU5PICAgICAgICAgICAgICAgICAg
+IEFTIFBMWU5PICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qIMH1sce5+MijICovDQoN
+CiAgICAgICAgICAgICAsQTEuUk5EX01DICAgICAgICAgICAgICAgICAgQVMgUk5EX01DICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgLyogsOaw+r/5vPYgKi8NCg0KICAgICAgICAgICAgICxB
+MS5HRENEICAgICAgICAgICAgICAgICAgICBBUyBHRENEICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAvKiC788ewxNq15SAqLw0KDQogICAgICAgICAgICAgLEExLklOU19JTUNEICAgICAg
+ICAgICAgICAgIEFTIElOU19JTUNEICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qILq4x+jB
+vrjxxNq15SAqLw0KDQogICAgICAgICAgICAgLEExLkNSVF9OTSAgICAgICAgICAgICAgICAgIEFT
+IENSVF9OTSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qILDovuDA2ry6uO0gKi8NCg0K
+ICAgICAgICAgICAgICxBMS5DRV9NUFlfQ1ZQUk0gICAgICAgICAgICBBUyBDRV9NUFlfQ1ZQUk0g
+ICAgICAgICAgICAgICAgICAgICAgICAvKiC48MH9v/mzs8ivu+q6uMfot+EgKi8NCg0KICAgICAg
+ICAgICAgICxBMS5NTl9NUFlfQ1ZQUk0gICAgICAgICAgICBBUyBNTl9NUFlfQ1ZQUk0gICAgICAg
+ICAgICAgICAgICAgICAgICAvKiDAr8H2v/mzs8ivu+q6uMfot+EgKi8NCg0KICAgICAgICAgICAg
+ICxBMS5DUl9TVENEICAgICAgICAgICAgICAgICBBUyBDUl9TVENEICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAvKiCw6L7gu/PFwsTateUgKi8NCg0KICAgICAgIEZST00gICBNX1NBTV9MVFJN
+X01OX0NSX0NSU1QgIEExICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAv
+KirA5bHiwK/B9rDovuDH9siyKiovDQoNCiAgICAgICBJTk5FUiAgSk9JTg0KDQogICAgICAgICAg
+ICAgIElOU19JTlNfQ1IgICAgICAgICAgICAgQjEgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIC8qKrq4x+iw6L7gKiovDQoNCiAgICAgICBPTiAgICAgQjEuUExZTk8gICAg
+ICAgICAgICAgICAgPSBBMS5QTFlOTyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLyog
+wfWxx7n4yKMgKi8NCg0KICAgICAgIEFORCAgICBCMS5ORFNfQVBfTkRfRFRITVMgICAgID4gIEZf
+TEFTVF9EQVkoQTEuU1RfWVlNTSkgKyAwLjk5OTk5ICAgICAgICAvKiC56LytvcLAzsG+t+HAz73D
+ID4gILi2sKiz4r/5ICovDQoNCiAgICAgICBBTkQgICAgQjEuTkRTX0FQX1NUUl9EVEhNUyAgICA8
+PSBGX0xBU1RfREFZKEExLlNUX1lZTU0pICsgMC45OTk5OSAgICAgICAgLyoguei8rb3CwM69w8Db
+wM+9wyA8PSC4trCos+K/+SAqLw0KDQogICAgICAgQU5EICAgIEIxLlZBTERfTkRTX1lOICAgICAg
+ICAgID0gJzEnICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qIMCvyL+56Lyt
+v6m6ziA9IFkgKi8NCg0KICAgICAgIEFORCAgICBCMS5JS0RfR1JQQ0QgICAgICAgICAgICA9ICdM
+QScgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiC6uMG+sbrE2rXlID0gTEEu
+wOWx4rq4x+ggKi8NCg0KICAgICAgIFdIRVJFICAxID0gMQ0KDQogICAgICAgQU5EICAgIEExLlNU
+X1lZTU0gICAgICAgICAgID0gJzIwMjYwMycgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIC8qILHiwdiz4r/5ICovDQoNCiAgICAgICBBTkQgICAgQTEuREhUUkJfT1JHQ0QgICAgICAg
+PSAnMTMwMDI4NicgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLyogw+ux3sOzseKw
+/MTateUgPSAxMzAwMjg2LsDlseLB97+1Mby+xc0gKi8NCg0KICAgICAgIEFORCAgICBBMS5STkRf
+TUMgICAgICAgICAgIDw9IDEzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAvKiCw5rD6sLO/+bz2ICovDQoNCiAgICAgICApICBBMg0KDQpMRUZUICAgT1VURVIgSk9JTg0K
+DQogICAgICAgTV9TQU1fU1RGX1NSVFJfT1JHTiAgICAgICBCMiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIC8qKsH3v/ix4rG4wbbB9yoqLw0KDQpPTiAgICAgQjIu
+U1RGTk8gICAgICA9IEEyLkRIX1NURk5PICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIC8qIMPrsd7B97/4ufjIoyAqLw0KDQpBTkQgICAgQjIuU1RfWVlNTSAgICA9
+ICcyMDI2MDMnICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IC8qILHiwdiz4r/5ICovDQoNCkxFRlQgICBPVVRFUiBKT0lODQoNCiAgICAgICBTQU1fU1RGICAg
+ICAgICAgICAgICAgICAgIEMyICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgLyoqwfe/+CoqLw0KDQpPTiAgICAgQzIuU1RGTk8gICAgICA9IEEyLkNFX1NURk5PICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qILjwwf3B97/4
+ufjIoyAqLw0KDQpMRUZUICAgT1VURVIgSk9JTg0KDQogICAgICAgTV9DT0RfR0RDRCAgICAgICAg
+ICAgICAgICBEMiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8q
+Krvzx7DE2rXlKiovDQoNCk9OICAgICBEMi5HRENEICAgICAgID0gQTIuR0RDRCAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLyogu/PHsMTateUgKi8NCg0K
+TEVGVCAgIE9VVEVSIEpPSU4NCg0KICAgICAgIE1fQ09EX0JaVVNfSU5TX0lUTV9DU0ZDRCAgRTIg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvKiq/tb73v+u6uMfo
+wb648brQt/kqLw0KDQpPTiAgICAgRTIuSU5TX0lNQ0QgICA9IEEyLklOU19JTUNEDQoNCkxFRlQg
+ICBPVVRFUiBKT0lODQoNCiAgICAgICBDUl9TVENEICAgICAgICAgICAgICAgICAgIEYyICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLyoqsOi+4LvzxcLE2rXlKiov
+DQoNCk9OICAgICBGMi5DUl9TVENEICAgID0gQTIuQ1JfU1RDRCAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgLyogsOi+4LvzxcLE2rXlICovDQoNCjsNCg0KDQoN
+Cg0KDQoNCg0KDQoNCg0KDQoNCg0K
+
+--_000_35f2eb645d934e0d8057c2f3a7de3f05hanwhacom_
+Content-Type: text/html; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schema=
+s.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html=
+40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dks_c_5601=
+-1987">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:=B1=BC=B8=B2;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+@font-face
+	{font-family:"\@=B8=BC=C0=BA =B0=ED=B5=F1";}
+@font-face
+	{font-family:=B1=BC=B8=B2=C3=BC;
+	panose-1:2 11 6 9 0 1 1 1 1 1;}
+@font-face
+	{font-family:"\@=B1=BC=B8=B2=C3=BC";}
+@font-face
+	{font-family:"\@=B1=BC=B8=B2";
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-autospace:none;
+	word-break:break-hangul;
+	font-size:10.0pt;
+	font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+/* Page Definitions */
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:3.0cm 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"KO" link=3D"#0563C1" vlink=3D"#954F72" style=3D"word-wrap:bre=
+ak-word">
+<div class=3D"WordSection1">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"936" style=3D"width:702.0pt;border-collapse:collapse">
+<tbody>
+<tr style=3D"height:12.0pt">
+<td width=3D"936" nowrap=3D"" colspan=3D"13" valign=3D"bottom" style=3D"wid=
+th:702.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">/=
+***************************************************************************=
+********************************************************<o:p></o:p></span><=
+/p>
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"816" nowrap=3D"" colspan=3D"11" valign=3D"bottom" style=3D"wid=
+th:612.1pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp; 1) </span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:b=
+lack">=C3=EB=B1=DE=C0=DA=B0=A1<span lang=3D"EN-US"> &quot;KEB</span>=C7=CF=
+=B3=AA=C0=BA=C7=E0<span lang=3D"EN-US">&quot;,&quot;(</span>=C1=D6<span lan=
+g=3D"EN-US">)</span>=C7=CF=B3=AA=C0=BA=C7=E0<span lang=3D"EN-US">&quot;</sp=
+an>=C0=C7<span lang=3D"EN-US">
+ 2025</span>=B3=E2=B5=B5=BF=A1 =C7=D8=BE=E0<span lang=3D"EN-US">, </span>=
+=B8=B8=B1=E2=B5=C8 =C0=E5=B1=E2=BA=B8=C7=E8 =C7=D8=C1=F6=B0=E8=BE=E0=B8=AE=
+=BD=BA=C6=AE=B8=A6 =C3=DF=C3=E2=C7=D8=C1=E0<span lang=3D"EN-US"><o:p></o:p>=
+</span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"936" nowrap=3D"" colspan=3D"13" valign=3D"bottom" style=3D"wid=
+th:702.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp; 2) </span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:b=
+lack">=C3=DF=C3=E2=C7=D7=B8=F1=C0=BA =C1=F5=B1=C7=B9=F8=C8=A3<span lang=3D"=
+EN-US">,
+</span>=B0=E8=BE=E0=BB=F3=C5=C2=BA=AF=B0=E6=C0=CF=C0=DA<span lang=3D"EN-US"=
+>, </span>=B0=E8=BE=E0=C0=CF=C0=DA<span lang=3D"EN-US">, </span>=BB=F3=C7=
+=B0=C4=DA=B5=E5<span lang=3D"EN-US">,
+</span>=C3=D6=C1=BE=B3=B3=C0=D4=C8=B8=C2=F7<span lang=3D"EN-US">, </span>=
+=C3=CA=C8=B8=BF=B5=BC=F6=BA=B8=C7=E8=B7=E1<span lang=3D"EN-US">, </span>=C1=
+=F6=B1=DE=B4=EB=BB=F3=B9=F8=C8=A3<span lang=3D"EN-US">,
+</span>=C8=AF=B1=DE=B1=DD=BE=D7=C0=BB =C3=DF=C3=E2=C7=D8=C1=E0<span lang=3D=
+"EN-US"><o:p></o:p></span></span></p>
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"457" nowrap=3D"" colspan=3D"5" valign=3D"bottom" style=3D"widt=
+h:342.4pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp; 3) </span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:b=
+lack">=C1=A4=B7=C4=B1=E2=C1=D8=C0=BA =B0=E8=BE=E0=BB=F3=C5=C2=C0=CF=C0=DA =
+=BF=C0=B8=A7=C2=F7=BC=F8=C0=B8=B7=CE =C7=D8=C1=E0<span lang=3D"EN-US"><o:p>=
+</o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"936" nowrap=3D"" colspan=3D"13" valign=3D"bottom" style=3D"wid=
+th:702.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">*=
+***************************************************************************=
+*******************************************************/<o:p></o:p></span><=
+/p>
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"457" nowrap=3D"" colspan=3D"5" valign=3D"bottom" style=3D"widt=
+h:342.4pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">S=
+ELECT /*&#43; USE_HASH(A1 B1 C1 D1) PARALLEL(8)<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"936" nowrap=3D"" colspan=3D"13" valign=3D"bottom" style=3D"wid=
+th:702.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PQ_DISTRI=
+BUTE(A1 HASH HASH) PQ_DISTRIBUTE(B1 HASH HASH) PQ_DISTRIBUTE(C1 HASH HASH) =
+PQ_DISTRIBUTE(D1 HASH HASH)<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"277" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:207.45pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; */<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A1.PLYNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS =
+PLYNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C1=F5=B1=
+=C7=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp; &nbsp;&nbsp;&nbsp;&nbsp;,A1.CR_STADT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS CR_STADT&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E8=BE=
+=E0=BB=F3=C5=C2=C0=CF=C0=DA<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,C1.CNRDT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS CNRDT=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E8=BE=
+=E0=C0=CF=C0=DA<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,C1.GDCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS =
+GDCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;/*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=BB=F3=C7=
+=B0=C4=DA=B5=E5<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,C1.FNL_PYM_SEQ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS FNL_PYM_SEQ&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=D6=C1=
+=BE=B3=B3=C0=D4=C8=B8=C2=F7<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,C1.FSTI_RP_PRM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS FSTI_RP_PRM&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=CA=C8=
+=B8=BF=B5=BC=F6=BA=B8=C7=E8=B7=E1<span lang=3D"EN-US"> */<o:p></o:p></span>=
+</span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,D1.PY_BJNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS PY_BJNO&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C1=F6=B1=
+=DE=B4=EB=BB=F3=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,D1.RTAMT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS RTAMT=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C8=AF=B1=
+=DE=B1=DD=BE=D7<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">F=
+ROM&nbsp;&nbsp; INS_CR_ST_CRR&nbsp; A1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /**</s=
+pan><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E8=BE=E0=
+=BB=F3=C5=C2=C0=CC=B7=C2<span lang=3D"EN-US">**/<o:p></o:p></span></span></=
+p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"277" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:207.45pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">I=
+NNER&nbsp; JOIN<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INS_CR_DH_STF_CRR&nbsp; B1&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /**</s=
+pan><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E8=BE=E0=
+=C3=EB=B1=DE=C1=F7=BF=F8=C0=CC=B7=C2<span lang=3D"EN-US">**/<o:p></o:p></sp=
+an></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">O=
+N&nbsp;&nbsp;&nbsp;&nbsp; B1.PLYNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=3D A1.PLYNO&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C1=F5=B1=
+=C7=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"876" nowrap=3D"" colspan=3D"12" valign=3D"bottom" style=3D"wid=
+th:657.05pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">A=
+ND&nbsp;&nbsp;&nbsp; B1.DH_STF_TPCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; =3D '02'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=EB=B1=
+=DE=C1=F7=BF=F8=C0=AF=C7=FC=C4=DA=B5=E5<span lang=3D"EN-US">&nbsp; =3D 02.<=
+/span>=C3=EB=B1=DE=C1=F7=BF=F8<span lang=3D"EN-US"> */<o:p></o:p></span></s=
+pan></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"876" nowrap=3D"" colspan=3D"12" valign=3D"bottom" style=3D"wid=
+th:657.05pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">A=
+ND&nbsp;&nbsp;&nbsp; B1.NDS_AP_ND_DTHMS&nbsp;&nbsp;&nbsp;&nbsp; &gt;&nbsp; =
+A1.CR_STADT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B9=E8=BC=
+=AD=BD=C2=C0=CE=C1=BE=B7=E1=C0=CF=BD=C3<span lang=3D"EN-US"> &gt;&nbsp; </s=
+pan>
+=B0=E8=BE=E0=BB=F3=C5=C2=C0=CF=C0=DA<span lang=3D"EN-US"> */<o:p></o:p></sp=
+an></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"876" nowrap=3D"" colspan=3D"12" valign=3D"bottom" style=3D"wid=
+th:657.05pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">A=
+ND&nbsp;&nbsp;&nbsp; B1.NDS_AP_STR_DTHMS&nbsp;&nbsp;&nbsp; &lt;=3D A1.CR_ST=
+ADT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B9=E8=BC=
+=AD=BD=C2=C0=CE=BD=C3=C0=DB=C0=CF=BD=C3<span lang=3D"EN-US"> &lt;=3D </span=
+>
+=B0=E8=BE=E0=BB=F3=C5=C2=C0=CF=C0=DA<span lang=3D"EN-US"> */<o:p></o:p></sp=
+an></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"816" nowrap=3D"" colspan=3D"11" valign=3D"bottom" style=3D"wid=
+th:612.1pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">A=
+ND&nbsp;&nbsp;&nbsp; B1.PRS_DH_STF_YN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp; =3D '1'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B4=EB=C7=
+=A5=C3=EB=B1=DE=C1=F7=BF=F8=BF=A9=BA=CE<span lang=3D"EN-US">&nbsp; =3D Y */=
+<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"277" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:207.45pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">I=
+NNER&nbsp; JOIN<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INS_INS_CR&nbsp; C1&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; /**</span><span style=3D"font-family:=B1=BC=B8=
+=B2=C3=BC;color:black">=BA=B8=C7=E8=B0=E8=BE=E0<span lang=3D"EN-US">**/<o:p=
+></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">O=
+N&nbsp;&nbsp;&nbsp;&nbsp; C1.PLYNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D A1.PLYNO&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C1=F5=B1=
+=C7=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"816" nowrap=3D"" colspan=3D"11" valign=3D"bottom" style=3D"wid=
+th:612.1pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">A=
+ND&nbsp;&nbsp;&nbsp; C1.IKD_GRPCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; =3D 'LA'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=BA=B8=C1=
+=BE=B1=BA=C4=DA=B5=E5<span lang=3D"EN-US"> : </span>
+=C0=E5=B1=E2=BA=B8=C7=E8<span lang=3D"EN-US"> */<o:p></o:p></span></span></=
+p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">A=
+ND&nbsp;&nbsp;&nbsp; C1.NDS_AP_ND_DTHMS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D '=
+99991231'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+ /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B9=E8=BC=
+=AD=C1=BE=B7=E1=C0=CF=BD=C3<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">A=
+ND&nbsp;&nbsp;&nbsp; C1.VALD_NDS_YN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; =3D '1'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C0=AF=C8=
+=BF=B9=E8=BC=AD=BF=A9=BA=CE<span lang=3D"EN-US"> =3D Y */<o:p></o:p></span>=
+</span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"277" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:207.45pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">I=
+NNER&nbsp; JOIN<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INS_WHPY_BJ&nbsp; D1&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp; /**</span><span style=3D"font-family:=B1=BC=B8=B2=
+=C3=BC;color:black">=C1=A6=C1=F6=B1=DE=B4=EB=BB=F3<span lang=3D"EN-US">**/<=
+o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">O=
+N&nbsp;&nbsp;&nbsp;&nbsp; D1.PLYNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=3D A1.PLYNO&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C1=F5=B1=
+=C7=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"277" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:207.45pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">W=
+HERE&nbsp; 1 =3D 1<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">A=
+ND&nbsp;&nbsp;&nbsp; A1.NDS_AP_ND_DTHMS&nbsp; =3D '99991231'&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+ /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B9=E8=BC=
+=AD=C1=BE=B7=E1=C0=CF=BD=C3<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"876" nowrap=3D"" colspan=3D"12" valign=3D"bottom" style=3D"wid=
+th:657.05pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">A=
+ND&nbsp;&nbsp;&nbsp; A1.CR_STCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp; IN ('08', '12')&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E8=BE=
+=E0=BB=F3=C5=C2=C4=DA=B5=E5<span lang=3D"EN-US"> =3D 08.</span>=C7=D8=BE=E0=
+<span lang=3D"EN-US">, 12.</span>=B8=B8=B1=E2<span lang=3D"EN-US"> */<o:p><=
+/o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"756" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:567.15pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">A=
+ND&nbsp;&nbsp;&nbsp; A1.CR_STADT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp; BETWEEN '20251201' AND '20251231'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E8=BE=
+=E0=BB=F3=C5=C2=C0=CF=C0=DA<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"816" nowrap=3D"" colspan=3D"11" valign=3D"bottom" style=3D"wid=
+th:612.1pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">A=
+ND&nbsp;&nbsp;&nbsp; A1.VALD_NDS_YN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D '1'&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C0=AF=C8=
+=BF=B9=E8=BC=AD=BF=A9=BA=CE<span lang=3D"EN-US"> =3D Y */&nbsp;
+<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"936" nowrap=3D"" colspan=3D"13" valign=3D"bottom" style=3D"wid=
+th:702.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">A=
+ND&nbsp;&nbsp;&nbsp; B1.DH_STFNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp; IN ('3080668', '3080690', '3253875')&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=EB=B1=
+=DE=C1=F7=BF=F8=B9=F8=C8=A3<span lang=3D"EN-US"> : KEB</span>=C7=CF=B3=AA=
+=C0=BA=C7=E0<span lang=3D"EN-US">, (</span>=C1=D6<span lang=3D"EN-US">)</sp=
+an>=C7=CF=B3=AA=C0=BA=C7=E0<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"337" nowrap=3D"" colspan=3D"3" valign=3D"bottom" style=3D"widt=
+h:252.45pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">O=
+RDER&nbsp; BY A1.CR_STADT<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"217" nowrap=3D"" valign=3D"bottom" style=3D"width:162.45pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">;=
+<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"217" nowrap=3D"" valign=3D"bottom" style=3D"width:162.45pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"882" style=3D"width:661.5pt;border-collapse:collapse">
+<tbody>
+<tr style=3D"height:12.0pt">
+<td width=3D"882" nowrap=3D"" colspan=3D"12" valign=3D"bottom" style=3D"wid=
+th:661.5pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">/=
+***************************************************************************=
+********************************************************<o:p></o:p></span><=
+/p>
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp; 1) 202603</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;c=
+olor:black">=BF=F9 =C3=EB=B1=DE=C3=B3=B1=E2=B0=FC=C0=CC<span lang=3D"EN-US"=
+> &quot;</span>=C0=E5=B1=E2=C1=F7=BF=B5<span lang=3D"EN-US">1</span>=BC=BE=
+=C5=CD<span lang=3D"EN-US">&quot;</span>=C0=CC=B0=ED =B0=E6=B0=FA=BF=F9=BC=
+=F6=B0=A1<span lang=3D"EN-US"> 13</span>=B0=B3=BF=F9=C0=CC=C7=CF=C0=CE =C0=
+=E5=B1=E2=BA=B8=C7=E8
+ =C0=AF=C1=F6=B0=E8=BE=E0=C0=BB =C3=DF=C3=E2=C7=D8=C1=E0<span lang=3D"EN-US=
+"><o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"822" nowrap=3D"" colspan=3D"11" valign=3D"bottom" style=3D"wid=
+th:616.25pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp; 2) </span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:b=
+lack">=C3=DF=C3=E2=C7=D7=B8=F1=C0=BA =B1=E2=C1=D8=B3=E2=BF=F9<span lang=3D"=
+EN-US">,
+</span>=C3=EB=B1=DE=C3=B3=B1=E2=B0=FC=C4=DA=B5=E5<span lang=3D"EN-US">, </s=
+pan>=C3=EB=B1=DE=C3=B3=B1=E2=B0=FC=B8=ED<span lang=3D"EN-US">, </span>=C3=
+=EB=B1=DE=C6=C0=B1=E2=B0=FC=C4=DA=B5=E5<span lang=3D"EN-US">,
+</span>=C3=EB=B1=DE=C6=C0=B1=E2=B0=FC=B8=ED<span lang=3D"EN-US">, </span>=
+=B8=F0=C1=FD=C1=F7=BF=F8=B9=F8=C8=A3<span lang=3D"EN-US">, </span>=B8=F0=C1=
+=FD=C1=F7=BF=F8=B8=ED<span lang=3D"EN-US"><o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"822" nowrap=3D"" colspan=3D"11" valign=3D"bottom" style=3D"wid=
+th:616.25pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; ,</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:=
+black">=C3=EB=B1=DE=C1=F7=BF=F8=B9=F8=C8=A3<span lang=3D"EN-US">,
+</span>=C3=EB=B1=DE=C1=F7=BF=F8=B8=ED<span lang=3D"EN-US">, </span>=C1=F5=
+=B1=C7=B9=F8=C8=A3<span lang=3D"EN-US">, </span>=B0=E8=BE=E0=BB=F3=C5=C2=C4=
+=DA=B5=E5<span lang=3D"EN-US">,
+</span>=B0=E8=BE=E0=BB=F3=C5=C2=B8=ED<span lang=3D"EN-US">, </span>=B0=E6=
+=B0=FA=BF=F9=BC=F6<span lang=3D"EN-US">, </span>=BB=F3=C7=B0=C4=DA=B5=E5<sp=
+an lang=3D"EN-US">,
+</span>=BB=F3=C7=B0=B8=ED<span lang=3D"EN-US"><o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"822" nowrap=3D"" colspan=3D"11" valign=3D"bottom" style=3D"wid=
+th:616.25pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; ,</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:=
+black">=BA=B8=C7=E8=C1=BE=B8=F1=C4=DA=B5=E5<span lang=3D"EN-US">,
+</span>=BB=F3=C7=B0=BC=D2=BA=D0=B7=F9=B8=ED<span lang=3D"EN-US">, </span>=
+=B0=E8=BE=E0=C0=DA=B8=ED<span lang=3D"EN-US">, </span>=B8=F0=C1=FD=BF=F9=B3=
+=B3=C8=AF=BB=EA=BA=B8=C7=E8=B7=E1<span lang=3D"EN-US">,
+</span>=C0=AF=C1=F6=BF=F9=B3=B3=C8=AF=BB=EA=BA=B8=C7=E8=B7=E1=B8=A6 =C3=DF=
+=C3=E2=C7=D8=C1=E0<span lang=3D"EN-US"><o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"882" nowrap=3D"" colspan=3D"12" valign=3D"bottom" style=3D"wid=
+th:661.5pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">*=
+***************************************************************************=
+*******************************************************/<o:p></o:p></span><=
+/p>
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">S=
+ELECT A2.ST_YYMM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp; AS ST_YYMM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B1=E2=C1=
+=D8=B3=E2=BF=F9<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A2.DHTRB_ORGCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp; AS DHTRB_ORGCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=EB=B1=
+=DE=C3=B3=C1=F6=C1=A1=C4=DA=B5=E5<span lang=3D"EN-US"> */<o:p></o:p></span>=
+</span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,B2.BZP_ORGNM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp; AS DH_BZP_ORGNM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=EB=B1=
+=DE=C3=B3=C1=F6=C1=A1=B8=ED<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A2.DH_TM_ORGCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp; AS DH_TM_ORGCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=EB=B1=
+=DE=C6=C0=C4=DA=B5=E5<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,B2.TMNM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS DH_TMNM&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /=
+*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=EB=B1=
+=DE=C6=C0=B8=ED<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A2.CE_STFNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; AS CE_STFNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B8=F0=C1=
+=FD=C1=F7=BF=F8=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,C2.NM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS CE_STFNM&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B8=F0=C1=
+=FD=C1=F7=BF=F8=B8=ED<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A2.DH_STFNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; AS DH_STFNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=EB=B1=
+=DE=C1=F7=BF=F8=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,B2.STFNM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS DH_STFNM&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=EB=B1=
+=DE=C1=F7=BF=F8=B8=ED<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A2.PLYNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS PLYNO&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C1=F5=B1=
+=C7=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A2.CR_STCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS CR_STCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E8=BE=
+=E0=BB=F3=C5=C2=C4=DA=B5=E5<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,F2.DTCNM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS CR_STNM&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E8=BE=
+=E0=BB=F3=C5=C2=B8=ED<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A2.RND_MC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS RND_MC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E6=B0=
+=FA=BF=F9=BC=F6<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A2.GDCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS GDCD&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=BB=F3=C7=
+=B0=C4=DA=B5=E5<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,D2.GDNM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS GDNM&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=BB=F3=C7=
+=B0=B8=ED<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A2.INS_IMCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; AS INS_IMCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=BA=B8=C7=
+=E8=C1=BE=B8=F1=C4=DA=B5=E5<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,E2.GD_SMCNM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; AS GD_SMCNM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=BB=F3=C7=
+=B0=BC=D2=BA=D0=B7=F9=B8=ED<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A2.CRT_NM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS CRT_NM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E8=BE=
+=E0=C0=DA=BC=BA=B8=ED<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"822" nowrap=3D"" colspan=3D"11" valign=3D"bottom" style=3D"wid=
+th:616.25pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A2.CE_MPY_CVPRM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp; AS CE_MPY_CVPRM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B8=F0=C1=
+=FD=BF=F9=B3=B3=C8=AF=BB=EA=BA=B8=C7=E8=B7=E1<span lang=3D"EN-US"> */<o:p><=
+/o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"822" nowrap=3D"" colspan=3D"11" valign=3D"bottom" style=3D"wid=
+th:616.25pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A2.MN_MPY_CVPRM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp; AS MN_MPY_CVPRM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C0=AF=C1=
+=F6=BF=F9=B3=B3=C8=AF=BB=EA=BA=B8=C7=E8=B7=E1<span lang=3D"EN-US"> */<o:p><=
+/o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"218" nowrap=3D"" valign=3D"bottom" style=3D"width:163.55pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"460" nowrap=3D"" colspan=3D"5" valign=3D"bottom" style=3D"widt=
+h:344.75pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">F=
+ROM&nbsp; (SELECT /*&#43; USE_HASH(A1 B1) PARALLEL(8)<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"641" nowrap=3D"" colspan=3D"8" valign=3D"bottom" style=3D"widt=
+h:480.5pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp; PQ_DISTRIBUTE(A1 HASH HASH) PQ_DISTRIBUTE(B1 HAS=
+H HASH)<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"278" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:208.85pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p; */<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p; A1.ST_YYMM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS ST_YYMM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B1=E2=C1=
+=D8=B3=E2=BF=F9<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A1=
+.DHTRB_ORGCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp; AS DHTRB_ORGCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=EB=B1=
+=DE=C3=B3=B1=E2=B0=FC=C4=DA=B5=E5<span lang=3D"EN-US"> */<o:p></o:p></span>=
+</span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A1=
+.DH_TM_ORGCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp; AS DH_TM_ORGCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=EB=B1=
+=DE=C6=C0=B1=E2=B0=FC=C4=DA=B5=E5<span lang=3D"EN-US"> */<o:p></o:p></span>=
+</span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A1=
+.CE_STFNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; AS CE_STFNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B8=F0=C1=
+=FD=C1=F7=BF=F8=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A1=
+.DH_STFNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; AS DH_STFNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=EB=B1=
+=DE=C1=F7=BF=F8=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A1=
+.PLYNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS PLYNO&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C1=F5=B1=
+=C7=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A1=
+.RND_MC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS RND_MC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E6=B0=
+=FA=BF=F9=BC=F6<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A1=
+.GDCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS GDCD&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;/*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=BB=F3=C7=
+=B0=C4=DA=B5=E5<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A1=
+.INS_IMCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; AS INS_IMCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=BA=B8=C7=
+=E8=C1=BE=B8=F1=C4=DA=B5=E5<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A1=
+.CRT_NM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS CRT_NM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E8=BE=
+=E0=C0=DA=BC=BA=B8=ED<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"822" nowrap=3D"" colspan=3D"11" valign=3D"bottom" style=3D"wid=
+th:616.25pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,A1=
+.CE_MPY_CVPRM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp; AS CE_MPY_CVPRM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B8=F0=C1=
+=FD=BF=F9=B3=B3=C8=AF=BB=EA=BA=B8=C7=E8=B7=E1<span lang=3D"EN-US"> */<o:p><=
+/o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"822" nowrap=3D"" colspan=3D"11" valign=3D"bottom" style=3D"wid=
+th:616.25pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A1=
+.MN_MPY_CVPRM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp; AS MN_MPY_CVPRM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C0=AF=C1=
+=F6=BF=F9=B3=B3=C8=AF=BB=EA=BA=B8=C7=E8=B7=E1<span lang=3D"EN-US"> */<o:p><=
+/o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,A1=
+.CR_STCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AS CR_STCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E8=BE=
+=E0=BB=F3=C5=C2=C4=DA=B5=E5<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FROM&nbsp;&nbsp; M_SAM_LTRM_MN_CR_CRST&=
+nbsp; A1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp; /**</span><span style=3D"font-family:=B1=BC=B8=B2=
+=C3=BC;color:black">=C0=E5=B1=E2=C0=AF=C1=F6=B0=E8=BE=E0=C7=F6=C8=B2<span l=
+ang=3D"EN-US">**/<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"278" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:208.85pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INNER&nbsp; JOIN<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p; INS_INS_CR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp; B1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/**</span><span style=3D"font-family:=B1=BC=B8=
+=B2=C3=BC;color:black">=BA=B8=C7=E8=B0=E8=BE=E0<span lang=3D"EN-US">**/<o:p=
+></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ON&nbsp;&nbsp;&nbsp;&nbsp; B1.PLYNO&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; =3D A1.PLYNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C1=F5=B1=
+=C7=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"882" nowrap=3D"" colspan=3D"12" valign=3D"bottom" style=3D"wid=
+th:661.5pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND&nbsp;&nbsp;&nbsp; B1.NDS_AP_ND_DTHM=
+S&nbsp;&nbsp;&nbsp;&nbsp; &gt;&nbsp; F_LAST_DAY(A1.ST_YYMM) &#43; 0.99999&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B9=E8=BC=
+=AD=BD=C2=C0=CE=C1=BE=B7=E1=C0=CF=BD=C3<span lang=3D"EN-US"> &gt;&nbsp; </s=
+pan>
+=B8=B6=B0=A8=B3=E2=BF=F9<span lang=3D"EN-US"> */<o:p></o:p></span></span></=
+p>
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"882" nowrap=3D"" colspan=3D"12" valign=3D"bottom" style=3D"wid=
+th:661.5pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND&nbsp;&nbsp;&nbsp; B1.NDS_AP_STR_DTH=
+MS&nbsp;&nbsp;&nbsp; &lt;=3D F_LAST_DAY(A1.ST_YYMM) &#43; 0.99999&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B9=E8=BC=
+=AD=BD=C2=C0=CE=BD=C3=C0=DB=C0=CF=BD=C3<span lang=3D"EN-US"> &lt;=3D </span=
+>
+=B8=B6=B0=A8=B3=E2=BF=F9<span lang=3D"EN-US"> */<o:p></o:p></span></span></=
+p>
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND&nbsp;&nbsp;&nbsp; B1.VALD_NDS_YN&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D '1'&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C0=AF=C8=
+=BF=B9=E8=BC=AD=BF=A9=BA=CE<span lang=3D"EN-US"> =3D Y */<o:p></o:p></span>=
+</span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"822" nowrap=3D"" colspan=3D"11" valign=3D"bottom" style=3D"wid=
+th:616.25pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND&nbsp;&nbsp;&nbsp; B1.IKD_GRPCD&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D 'LA'&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=BA=B8=C1=
+=BE=B1=BA=C4=DA=B5=E5<span lang=3D"EN-US"> =3D LA.</span>=C0=E5=B1=E2=BA=B8=
+=C7=E8<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"278" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:208.85pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE&nbsp; 1 =3D 1<o:p></o:p></span></=
+p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND&nbsp;&nbsp;&nbsp; A1.ST_YYMM&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D '202603'&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B1=E2=C1=
+=D8=B3=E2=BF=F9<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"882" nowrap=3D"" colspan=3D"12" valign=3D"bottom" style=3D"wid=
+th:661.5pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND&nbsp;&nbsp;&nbsp; A1.DHTRB_ORGCD&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D '1300286'&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=EB=B1=
+=DE=C3=B3=B1=E2=B0=FC=C4=DA=B5=E5<span lang=3D"EN-US"> =3D 1300286.</span>=
+=C0=E5=B1=E2=C1=F7=BF=B5<span lang=3D"EN-US">1</span>=BC=BE=C5=CD<span lang=
+=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND&nbsp;&nbsp;&nbsp; A1.RND_MC&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;=3D 13&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E6=B0=
+=FA=B0=B3=BF=F9=BC=F6<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"278" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:208.85pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )&nbsp; A2<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"278" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:208.85pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">L=
+EFT&nbsp;&nbsp; OUTER JOIN<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M_SAM_STF_SRTR_ORGN&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; B2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /**</span><span =
+style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C1=F7=BF=F8=B1=E2=B1=
+=B8=C1=B6=C1=F7<span lang=3D"EN-US">**/<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">O=
+N&nbsp;&nbsp;&nbsp;&nbsp; B2.STFNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D A2.DH_=
+STFNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=C3=EB=B1=
+=DE=C1=F7=BF=F8=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">A=
+ND&nbsp;&nbsp;&nbsp; B2.ST_YYMM&nbsp;&nbsp;&nbsp; =3D '202603'&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B1=E2=C1=
+=D8=B3=E2=BF=F9<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"278" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:208.85pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">L=
+EFT&nbsp;&nbsp; OUTER JOIN<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"701" nowrap=3D"" colspan=3D"9" valign=3D"bottom" style=3D"widt=
+h:525.75pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SAM_STF&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+; C2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /**</span><span style=3D"font-f=
+amily:=B1=BC=B8=B2=C3=BC;color:black">=C1=F7=BF=F8<span lang=3D"EN-US">**/
+<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">O=
+N&nbsp;&nbsp;&nbsp;&nbsp; C2.STFNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D A2.CE_=
+STFNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B8=F0=C1=
+=FD=C1=F7=BF=F8=B9=F8=C8=A3<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"278" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:208.85pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">L=
+EFT&nbsp;&nbsp; OUTER JOIN<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M_COD_GDCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D2&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; /**</span><span style=3D"font-family:=B1=BC=B8=
+=B2=C3=BC;color:black">=BB=F3=C7=B0=C4=DA=B5=E5<span lang=3D"EN-US">**/
+<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">O=
+N&nbsp;&nbsp;&nbsp;&nbsp; D2.GDCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D A=
+2.GDCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+ /*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=BB=F3=C7=
+=B0=C4=DA=B5=E5<span lang=3D"EN-US"> */<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"278" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:208.85pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">L=
+EFT&nbsp;&nbsp; OUTER JOIN<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"822" nowrap=3D"" colspan=3D"11" valign=3D"bottom" style=3D"wid=
+th:616.25pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M_COD_BZUS_INS_ITM_CSFCD&nbsp; E2&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /**</span><span style=3D"font-family:=B1=
+=BC=B8=B2=C3=BC;color:black">=BF=B5=BE=F7=BF=EB=BA=B8=C7=E8=C1=BE=B8=F1=BA=
+=D0=B7=F9<span lang=3D"EN-US">*/<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"399" nowrap=3D"" colspan=3D"4" valign=3D"bottom" style=3D"widt=
+h:299.45pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">O=
+N&nbsp;&nbsp;&nbsp;&nbsp; E2.INS_IMCD&nbsp;&nbsp; =3D A2.INS_IMCD<o:p></o:p=
+></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"278" nowrap=3D"" colspan=3D"2" valign=3D"bottom" style=3D"widt=
+h:208.85pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">L=
+EFT&nbsp;&nbsp; OUTER JOIN<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CR_STCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+; F2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /**</span><span style=3D"font-f=
+amily:=B1=BC=B8=B2=C3=BC;color:black">=B0=E8=BE=E0=BB=F3=C5=C2=C4=DA=B5=E5<=
+span lang=3D"EN-US">**/
+<o:p></o:p></span></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"761" nowrap=3D"" colspan=3D"10" valign=3D"bottom" style=3D"wid=
+th:571.0pt;padding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">O=
+N&nbsp;&nbsp;&nbsp;&nbsp; F2.CR_STCD&nbsp;&nbsp;&nbsp; =3D A2.CR_STCD&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/*
+</span><span style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">=B0=E8=BE=
+=E0=BB=F3=C5=C2=C4=DA=B5=E5<span lang=3D"EN-US"> */<o:p></o:p></span></span=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"218" nowrap=3D"" valign=3D"bottom" style=3D"width:163.55pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left;text-autospa=
+ce:ideograph-numeric ideograph-other;word-break:keep-all">
+<span lang=3D"EN-US" style=3D"font-family:=B1=BC=B8=B2=C3=BC;color:black">;=
+<o:p></o:p></span></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"218" nowrap=3D"" valign=3D"bottom" style=3D"width:163.55pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"218" nowrap=3D"" valign=3D"bottom" style=3D"width:163.55pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"218" nowrap=3D"" valign=3D"bottom" style=3D"width:163.55pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"218" nowrap=3D"" valign=3D"bottom" style=3D"width:163.55pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.3pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.25pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"217" nowrap=3D"" valign=3D"bottom" style=3D"width:162.45pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"217" nowrap=3D"" valign=3D"bottom" style=3D"width:162.45pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"217" nowrap=3D"" valign=3D"bottom" style=3D"width:162.45pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"217" nowrap=3D"" valign=3D"bottom" style=3D"width:162.45pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"217" nowrap=3D"" valign=3D"bottom" style=3D"width:162.45pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+<tr style=3D"height:12.0pt">
+<td width=3D"217" nowrap=3D"" valign=3D"bottom" style=3D"width:162.45pt;pad=
+ding:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;paddin=
+g:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.95pt;paddi=
+ng:0cm 4.95pt 0cm 4.95pt;height:12.0pt">
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span lang=3D"EN-US"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_35f2eb645d934e0d8057c2f3a7de3f05hanwhacom_--

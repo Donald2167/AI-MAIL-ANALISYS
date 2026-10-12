@@ -1,0 +1,720 @@
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17 via Mailbox Transport; Thu, 14 May 2026 19:33:00 +0900
+Received: from HGI-EX03P.HGI.hanwha.com (172.28.11.43) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.2.2562.17; Thu, 14 May 2026 19:33:00 +0900
+Received: from HGI-EX03P.HGI.hanwha.com (172.28.11.43) by
+ HGI-EX03P.HGI.hanwha.com (172.28.11.43) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.1.2507.55; Thu, 14 May 2026 19:32:59 +0900
+Received: from HGI-EX03P.HGI.hanwha.com ([::1]) by HGI-EX03P.HGI.hanwha.com
+ ([fe80::50f:b25c:9887:d8a9%26]) with Microsoft SMTP Server id 15.01.2507.055;
+ Thu, 14 May 2026 19:32:59 +0900
+From: =?ks_c_5601-1987?B?wPzAr8H4?= <8921246@hanwha.com>
+To: =?ks_c_5601-1987?B?wPzAr8H4IMfRyK29w726xdsvSUNU?= <youjin0404@hanwha.com>
+Subject: =?ks_c_5601-1987?B?wPy03jogW8D8tN5dIERheTIgQVAgwaS6uCDA/LTe?=
+Thread-Topic: =?ks_c_5601-1987?B?W8D8tN5dIERheTIgQVAgwaS6uCDA/LTe?=
+Thread-Index: Adzjat5Jch535iHRT2mNCsXlO2VGwwAIeOXwAAAR1Fs=
+Date: Thu, 14 May 2026 19:32:59 +0900
+Message-ID: <c7b8ccf90ac64d2285b4ce6709e47dbb@HGI-EX03P.HGI.hanwha.com>
+References:
+	<720ac904f5ec49f58c9d3071da5f2252@hanwha.com>,<b5007757b4ed4168acec8f21754b8287@hanwha.com>
+In-Reply-To: <b5007757b4ed4168acec8f21754b8287@hanwha.com>
+Content-Language: ko-KR
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-MS-Exchange-Organization-AuthSource: HGI-EX03P.HGI.hanwha.com
+X-MS-Exchange-Organization-ComplianceLabelId:
+	269edd4b-6f1a-456c-b817-d9d46ad5b050
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-AutoForwarded: true
+X-MS-Exchange-Organization-Network-Message-Id:
+	c94cf4cf-7b72-4451-3cae-08deb1a42ba7
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Inbox-Rules-Loop: 8921246@hanwha.com
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+Content-Type: multipart/mixed;
+	boundary="_004_c7b8ccf90ac64d2285b4ce6709e47dbbHGIEX03PHGIhanwhacom_"
+MIME-Version: 1.0
+
+--_004_c7b8ccf90ac64d2285b4ce6709e47dbbHGIEX03PHGIhanwhacom_
+Content-Type: multipart/alternative;
+	boundary="_000_c7b8ccf90ac64d2285b4ce6709e47dbbHGIEX03PHGIhanwhacom_"
+
+--_000_c7b8ccf90ac64d2285b4ce6709e47dbbHGIEX03PHGIhanwhacom_
+Content-Type: text/plain; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: base64
+
+DQpfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXw0KurizvSC757b3OiDA07q0sbkNCrq4
+s70gs6/CpTogMjAyNrPiIDW/+SAxNMDPILjxv+TAzyC/wMjEIDc6MzI6NTggKFVUQyswOTowMCkg
+vK2/7w0Kud60wiC757b3OiCwrb+syO8oWWVvbmhldW5nIEthbmcpOyCxx8H2v7UoS3dvbiBKaSBZ
+b3VuZyk7ILHoxcK8ujsgs6rH9sHYKEh5dW5qdW4gTmEpOyCxuLW/yPEoRG9uZ0h1aSBLb28pOyC8
+27nOwdgoU29uZyBNaW5qdW4pOyCx6LOyv/g7IMDMwfjHzyhsZWUgamluaGEpOyCx6MXCyMYoS0lN
+IFRBRSBIVU4pOyDAzMHYv+s7ILHHu/PIxjsgsO29wsf2OyDAzMjxwfY7IMiyvLrB2DsgwMzH/biy
+KEh5ZXJpbSBMZWUpOyDD1rW/v+07IMDMwfa89jsgwaTDpL+sOyCx6LW/x/Y7ILnav7XAujsgwMy8
+usH4OyCx6Lz2uvM7ILHov/jBvjsgvNvH/MH4OyDBpLnOsdU7ILHovNK/+DsgvNu5zrHUKFNvbmcg
+TWluIEt5dSk7IMXCtb/AzyhUQUUgRE9ORyBJTCk7IMDMx/bA2ihMZWUgSHl1bmphKTsgwMy788f5
+KExFRSBTQU5HIEhZVVApOyC52sHYvPgocGFyayBqdW4gc3VuKTsgwMy89sC6OyCxucCxyKMoS29v
+ayBZb29uIEhvKTsgwNPDpL+sKGxpbWNoYWV5ZXVuKTsgwNO81rnMOyDAzMGkyMYoTGVlIEp1bmcg
+SG9vbik7ILHouc68uihNaW5TZW9uZyBLaW0pOyDAr8Dnw7Y7IMD8wK/B+DsgwOXAr8C6OyDAzMfY
+v/goTGVlIEhhZSBXb24pOyCx6L7Wv7U7IMiyx/24sjsgsO3Hz7b3OyDIsry6v6w7ILPryPG29zsg
+wMy89r+5OyDAzMGkuc47IMDMsKHAujsgw9bB38jxOyDAzMH4v+w7ILD7vLrAujsgudq067/4OyC8
+28f9sOYNCsGmuPE6IFJFOiBbwPy03l0gRGF5MiBBUCDBpLq4IMD8tN4NCg0Kvsiz58fPvcq0z7Hu
+IFRNIMDTurSxuSDHwbfOwNS0z7TZLg0KDQqx4sG4xsTAz7+hIE9aILiuxvfGrr/NIL26xMnB7Lev
+sKEgwN+4+CCx4sDntce+7iDA1r7uILz2waTHz7+0vcC0z7TZLg0KRURNUyBBULW1IMPfsKHHz7+p
+IMD8tN615biusNq9wLTPtNkuDQoNCrCou+fH1bTPtNkuDQoNCkZyb206IMDTurSxuQ0KU2VudDog
+VGh1cnNkYXksIE1heSAxNCwgMjAyNiAzOjI5IFBNDQpUbzogsK2/rMjvKFllb25oZXVuZyBLYW5n
+KSA8a2FuZ3loMTFAaGFud2hhLmNvbT47ILHHwfa/tShLd29uIEppIFlvdW5nKSA8ankua3dvbkBo
+YW53aGEuY29tPjsgsejFwry6IDw4OTA4OTA1QGhhbndoYS5jb20+OyCzqsf2wdgoSHl1bmp1biBO
+YSkgPDg5MTM4MTJAaGFud2hhLmNvbT47ILG4tb/I8ShEb25nSHVpIEtvbykgPDg5MTg5OTJAaGFu
+d2hhLmNvbT47ILzbuc7B2ChTb25nIE1pbmp1bikgPHNtajUyMUBoYW53aGEuY29tPjsgseizsr/4
+IDw2MDE1NzE0QGhhbndoYS5jb20+OyDAzMH4x88obGVlIGppbmhhKSA8ODkxNDg0MEBoYW53aGEu
+Y29tPjsgsejFwsjGKEtJTSBUQUUgSFVOKSA8dGhraW00Nzc5QGhhbndoYS5jb20+OyDAzMHYv+sg
+PDg5MjI4NDNAaGFud2hhLmNvbT47ILHHu/PIxiA8NjAwNjMxMkBoYW53aGEuY29tPjsgsO29wsf2
+IDw2MDA4MzU3QGhhbndoYS5jb20+OyDAzMjxwfYgPDYwMDg5OTRAaGFud2hhLmNvbT47IMiyvLrB
+2CA8NjAwOTk2MUBoYW53aGEuY29tPjsgwMzH/biyKEh5ZXJpbSBMZWUpIDw2MDExMzMxQGhhbndo
+YS5jb20+OyDD1rW/v+0gPDYwMTE0MjdAaGFud2hhLmNvbT47IMDMwfa89iA8NjAxMjYxNkBoYW53
+aGEuY29tPjsgwaTDpL+sIDw2MDEyNjE3QGhhbndoYS5jb20+OyCx6LW/x/YgPDYwMTI2MThAaGFu
+d2hhLmNvbT47ILnav7XAuiA8NjAxMjgzM0BoYW53aGEuY29tPjsgwMy8usH4IDw2MDE1NTc4QGhh
+bndoYS5jb20+OyCx6Lz2uvMgPDYwMTY4OTBAaGFud2hhLmNvbT47ILHov/jBviA8NjAyMDQ3NkBo
+YW53aGEuY29tPjsgvNvH/MH4IDw2MDE3MjM4QGhhbndoYS5jb20+OyDBpLnOsdUgPDYwMTY1ODNA
+aGFud2hhLmNvbT47ILHovNK/+CA8NjAxOTc5NkBoYW53aGEuY29tPjsgvNu5zrHUKFNvbmcgTWlu
+IEt5dSkgPHN0b255MjAwQGhhbndoYS5jb20+OyDFwrW/wM8oVEFFIERPTkcgSUwpIDw4OTEyMjYz
+QGhhbndoYS5jb20+OyDAzMf2wNooTGVlIEh5dW5qYSkgPDgwNzAwMzRAaGFud2hhLmNvbT47IMDM
+u/PH+ShMRUUgU0FORyBIWVVQKSA8c2FuZ2h5dXAubGVlQGhhbndoYS5jb20+OyC52sHYvPgocGFy
+ayBqdW4gc3VuKSA8NjAwODg1N0BoYW53aGEuY29tPjsgwMy89sC6IDw2MDA5OTYwQGhhbndoYS5j
+b20+OyCxucCxyKMoS29vayBZb29uIEhvKSA8Ymx1ZWV5ZUBoYW53aGEuY29tPjsgwNPDpL+sKGxp
+bWNoYWV5ZXVuKSA8ODkxMjk2MUBoYW53aGEuY29tPjsgwNO81rnMIDw4OTE4MTAzQGhhbndoYS5j
+b20+OyDAzMGkyMYoTGVlIEp1bmcgSG9vbikgPDg5MTg4MDNAaGFud2hhLmNvbT47ILHouc68uihN
+aW5TZW9uZyBLaW0pIDw4OTE5MzgxQGhhbndoYS5jb20+OyDAr8Dnw7YgPDg5MjEyNDJAaGFud2hh
+LmNvbT47IMD8wK/B+CA8ODkyMTI0NkBoYW53aGEuY29tPjsgwOXAr8C6IDw4OTIxNTQ2QGhhbndo
+YS5jb20+OyDAzMfYv/goTGVlIEhhZSBXb24pIDw4OTIyODQ5QGhhbndoYS5jb20+OyCx6L7Wv7Ug
+PDYwMDMyNDVAaGFud2hhLmNvbT47IMiyx/24siA8NjAwODEyMkBoYW53aGEuY29tPjsgwNO6tLG5
+IDw2MDA4ODQ0QGhhbndoYS5jb20+OyCw7cfPtvcgPDYwMDg5MDdAaGFud2hhLmNvbT47IMiyvLq/
+rCA8NjAxMDQ3M0BoYW53aGEuY29tPjsgs+vI8bb3IDw2MDEyNTk1QGhhbndoYS5jb20+OyDAzLz2
+v7kgPDYwMTI2MTlAaGFud2hhLmNvbT47IMDMwaS5ziA8NjAxNDEyNkBoYW53aGEuY29tPjsgwMyw
+ocC6IDw2MDE0MTI3QGhhbndoYS5jb20+OyDD1sHfyPEgPDYwMTQyODFAaGFud2hhLmNvbT47IMDM
+wfi/7CA8NjAxNDU1NUBoYW53aGEuY29tPjsgsPu8usC6IDw2MDIwNDcxQGhhbndoYS5jb20+OyC5
+2rTrv/ggPDYwMTgzOTBAaGFud2hhLmNvbT47ILzbx/2w5iA8NjAxODM5MUBoYW53aGEuY29tPg0K
+U3ViamVjdDogW8D8tN5dIERheTIgQVAgwaS6uCDA/LTeDQoNCr7Is+fHz73KtM+x7iBUTSDA07q0
+sbkgx8G3zsDUtM+02S4NCkRheTIgtNzAp8XXvbrGrr/NIMXrx9XF1726xq4gwfjH4L3DIMOks86/
+obytILD4xevA+8C4t84gx8q/5MfRIEFQwaS6uCDIsry6wdjHwbfOv80gsLDAzCDBpLiux8+/tL3A
+tM+02S4NCg0KxsTAzyDIrsDOyMS/oSC55situq4gvcXDu8fPv6kgxde9usauILrOxbm15biusNq9
+wLTPtNkuDQoNCrW1uN7AziwgSVAsIFBPUlSwoSC++LTCIEFQtMIgx/bA5yBEYXkywsq/oSDBpLq4
+IL/kw7vAuyDH2LP1vsa8rSDA/LTeILnetMK067fOILTZvcMgsPjAr7XluK6w2r3AtM+02S4NCg0K
+sKi758fVtM+02S4NCg0KwNO6tLG5ILD6wOUNCrzVurhJVE8gLyBJVMOks86+97mrIDLGwCAvIFRN
+DQoNCrytv+8gv6nAx7Trt84gNTYgx9HIrbzVx9i6uMfoIMfRyK2x3cC2vL7FzSA5w/4NClRFTC4g
+MDItMzE2LTczMDQNCkhQLiAgMDEwLTU3NTItMTc3NQ0KDQo=
+
+--_000_c7b8ccf90ac64d2285b4ce6709e47dbbHGIEX03PHGIhanwhacom_
+Content-Type: text/html; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dks_c_5601=
+-1987">
+<meta content=3D"text/html; charset=3Dks_c_5601-1987">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style>
+<!--
+@font-face
+	{font-family:=B9=D9=C5=C1}
+@font-face
+	{font-family:=B1=BC=B8=B2}
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1"}
+@font-face
+	{}
+@font-face
+	{}
+@font-face
+	{font-family:"LIFEPLUS Medium"}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-autospace:none;
+	word-break:break-hangul;
+	font-size:10.0pt;
+	font-family:"=B8=BC=C0=BA =B0=ED=B5=F1"}
+span.EmailStyle19
+	{font-family:"=B8=BC=C0=BA =B0=ED=B5=F1";
+	color:windowtext}
+.MsoChpDefault
+	{}
+@page WordSection1
+	{margin:3.0cm 72.0pt 72.0pt 72.0pt}
+div.WordSection1
+	{}
+-->
+</style>
+</head>
+<body lang=3D"KO" link=3D"#0563C1" vlink=3D"#954F72" style=3D"word-wrap:bre=
+ak-word">
+<strong>
+<div><font face=3D"Tahoma" color=3D"#000000" size=3D"2">&nbsp;</font></div>
+</strong>
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<font face=3D"Tahoma" size=3D"2"><b>=BA=B8=B3=BD =BB=E7=B6=F7:</b> =C0=D3=
+=BA=B4=B1=B9<br>
+<b>=BA=B8=B3=BD =B3=AF=C2=A5:</b> 2026=B3=E2 5=BF=F9 14=C0=CF =B8=F1=BF=E4=
+=C0=CF =BF=C0=C8=C4 7:32:58 (UTC&#43;09:00) =BC=AD=BF=EF<br>
+<b>=B9=DE=B4=C2 =BB=E7=B6=F7:</b> =B0=AD=BF=AC=C8=EF(Yeonheung Kang); =B1=
+=C7=C1=F6=BF=B5(Kwon Ji Young); =B1=E8=C5=C2=BC=BA; =B3=AA=C7=F6=C1=D8(Hyun=
+jun Na); =B1=B8=B5=BF=C8=F1(DongHui Koo); =BC=DB=B9=CE=C1=D8(Song Minjun); =
+=B1=E8=B3=B2=BF=F8; =C0=CC=C1=F8=C7=CF(lee jinha); =B1=E8=C5=C2=C8=C6(KIM T=
+AE HUN); =C0=CC=C1=D8=BF=EB; =B1=C7=BB=F3=C8=C6; =B0=ED=BD=C2=C7=F6; =C0=CC=
+=C8=F1=C1=F6; =C8=B2=BC=BA=C1=D8; =C0=CC=C7=FD=B8=B2(Hyerim Lee); =C3=D6=B5=
+=BF=BF=ED; =C0=CC=C1=F6=BC=F6; =C1=A4=C3=A4=BF=AC; =B1=E8=B5=BF=C7=F6; =B9=
+=DA=BF=B5=C0=BA; =C0=CC=BC=BA=C1=F8; =B1=E8=BC=F6=BA=F3; =B1=E8=BF=F8=C1=BE=
+; =BC=DB=C7=FC=C1=F8; =C1=A4=B9=CE=B1=D5; =B1=E8=BC=D2=BF=F8; =BC=DB=B9=CE=
+=B1=D4(Song
+ Min Kyu); =C5=C2=B5=BF=C0=CF(TAE DONG IL); =C0=CC=C7=F6=C0=DA(Lee Hyunja);=
+ =C0=CC=BB=F3=C7=F9(LEE SANG HYUP); =B9=DA=C1=D8=BC=F8(park jun sun); =C0=
+=CC=BC=F6=C0=BA; =B1=B9=C0=B1=C8=A3(Kook Yoon Ho); =C0=D3=C3=A4=BF=AC(limch=
+aeyeun); =C0=D3=BC=D6=B9=CC; =C0=CC=C1=A4=C8=C6(Lee Jung Hoon); =B1=E8=B9=
+=CE=BC=BA(MinSeong Kim); =C0=AF=C0=E7=C3=B6; =C0=FC=C0=AF=C1=F8; =C0=E5=C0=
+=AF=C0=BA; =C0=CC=C7=D8=BF=F8(Lee Hae Won); =B1=E8=BE=D6=BF=B5; =C8=B2=C7=
+=FD=B8=B2; =B0=ED=C7=CF=B6=F7; =C8=B2=BC=BA=BF=AC; =B3=EB=C8=F1=B6=F7; =C0=
+=CC=BC=F6=BF=B9; =C0=CC=C1=A4=B9=CE; =C0=CC=B0=A1=C0=BA; =C3=D6=C1=DF=C8=F1=
+; =C0=CC=C1=F8=BF=EC; =B0=FB=BC=BA=C0=BA;
+ =B9=DA=B4=EB=BF=F8; =BC=DB=C7=FD=B0=E6<br>
+<b>=C1=A6=B8=F1:</b> RE: [=C0=FC=B4=DE] Day2 AP =C1=A4=BA=B8 =C0=FC=B4=DE<b=
+r>
+</font><br>
+<div></div>
+<div>
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">=BE=C8=B3=E7=C7=CF=BD=CA=B4=CF=B1=EE<span lang=3D"EN=
+-US"> TM </span>=C0=D3=BA=B4=B1=B9 =C7=C1=B7=CE=C0=D4=B4=CF=B4=D9<span lang=
+=3D"EN-US">.</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<p class=3D"MsoNormal">=B1=E2=C1=B8=C6=C4=C0=CF=BF=A1 <span lang=3D"EN-US">=
+OZ </span>=B8=AE=C6=F7=C6=AE=BF=CD =BD=BA=C4=C9=C1=EC=B7=AF=B0=A1 =C0=DF=B8=
+=F8 =B1=E2=C0=E7=B5=C7=BE=EE =C0=D6=BE=EE =BC=F6=C1=A4=C7=CF=BF=B4=BD=C0=B4=
+=CF=B4=D9<span lang=3D"EN-US">.</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">EDMS AP</span>=B5=B5 =C3=DF=B0=
+=A1=C7=CF=BF=A9 =C0=FC=B4=DE=B5=E5=B8=AE=B0=DA=BD=C0=B4=CF=B4=D9<span lang=
+=3D"EN-US">.</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<p class=3D"MsoNormal">=B0=A8=BB=E7=C7=D5=B4=CF=B4=D9<span lang=3D"EN-US">.=
+</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<div>
+<div style=3D"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0c=
+m 0cm 0cm">
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left; text-autosp=
+ace:ideograph-numeric ideograph-other; word-break:keep-all">
+<b><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot;Calibr=
+i&quot;,sans-serif">From:</span></b><span lang=3D"EN-US" style=3D"font-size=
+:11.0pt; font-family:&quot;Calibri&quot;,sans-serif">
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=D3=BA=
+=B4=B1=B9</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">
+<br>
+<b>Sent:</b> Thursday, May 14, 2026 3:29 PM<br>
+<b>To:</b> </span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2=
+">=B0=AD=BF=AC=C8=EF</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; =
+font-family:&quot;Calibri&quot;,sans-serif">(Yeonheung Kang) &lt;kangyh11@h=
+anwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B1=C7=C1=
+=F6=BF=B5</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(Kwon Ji Young) &lt;jy.kwon@hanwha.com&gt;=
+;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B1=E8=C5=
+=C2=BC=BA</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;8908905@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B3=AA=C7=
+=F6=C1=D8</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(Hyunjun Na) &lt;8913812@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B1=B8=B5=
+=BF=C8=F1</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(DongHui Koo) &lt;8918992@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=BC=DB=B9=
+=CE=C1=D8</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(Song Minjun) &lt;smj521@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B1=E8=B3=
+=B2=BF=F8</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6015714@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=C1=
+=F8=C7=CF</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(lee jinha) &lt;8914840@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B1=E8=C5=
+=C2=C8=C6</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(KIM TAE HUN) &lt;thkim4779@hanwha.com&gt;=
+;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=C1=
+=D8=BF=EB</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;8922843@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B1=C7=BB=
+=F3=C8=C6</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6006312@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B0=ED=BD=
+=C2=C7=F6</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6008357@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=C8=
+=F1=C1=F6</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6008994@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C8=B2=BC=
+=BA=C1=D8</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6009961@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=C7=
+=FD=B8=B2</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(Hyerim Lee) &lt;6011331@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C3=D6=B5=
+=BF=BF=ED</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6011427@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=C1=
+=F6=BC=F6</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6012616@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C1=A4=C3=
+=A4=BF=AC</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6012617@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B1=E8=B5=
+=BF=C7=F6</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6012618@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B9=DA=BF=
+=B5=C0=BA</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6012833@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=BC=
+=BA=C1=F8</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6015578@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B1=E8=BC=
+=F6=BA=F3</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6016890@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B1=E8=BF=
+=F8=C1=BE</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6020476@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=BC=DB=C7=
+=FC=C1=F8</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6017238@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C1=A4=B9=
+=CE=B1=D5</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6016583@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B1=E8=BC=
+=D2=BF=F8</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6019796@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=BC=DB=B9=
+=CE=B1=D4</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(Song Min Kyu) &lt;stony200@hanwha.com&gt;=
+;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C5=C2=B5=
+=BF=C0=CF</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(TAE DONG IL) &lt;8912263@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=C7=
+=F6=C0=DA</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(Lee Hyunja) &lt;8070034@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=BB=
+=F3=C7=F9</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(LEE SANG HYUP) &lt;sanghyup.lee@hanwha.co=
+m&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B9=DA=C1=
+=D8=BC=F8</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(park jun sun) &lt;6008857@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=BC=
+=F6=C0=BA</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6009960@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B1=B9=C0=
+=B1=C8=A3</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(Kook Yoon Ho) &lt;blueeye@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=D3=C3=
+=A4=BF=AC</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(limchaeyeun) &lt;8912961@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=D3=BC=
+=D6=B9=CC</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;8918103@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=C1=
+=A4=C8=C6</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(Lee Jung Hoon) &lt;8918803@hanwha.com&gt;=
+;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B1=E8=B9=
+=CE=BC=BA</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(MinSeong Kim) &lt;8919381@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=AF=C0=
+=E7=C3=B6</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;8921242@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=FC=C0=
+=AF=C1=F8</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;8921246@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=E5=C0=
+=AF=C0=BA</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;8921546@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=C7=
+=D8=BF=F8</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif">(Lee Hae Won) &lt;8922849@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B1=E8=BE=
+=D6=BF=B5</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6003245@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C8=B2=C7=
+=FD=B8=B2</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6008122@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=D3=BA=
+=B4=B1=B9</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6008844@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B0=ED=C7=
+=CF=B6=F7</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6008907@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C8=B2=BC=
+=BA=BF=AC</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6010473@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B3=EB=C8=
+=F1=B6=F7</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6012595@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=BC=
+=F6=BF=B9</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6012619@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=C1=
+=A4=B9=CE</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6014126@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=B0=
+=A1=C0=BA</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6014127@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C3=D6=C1=
+=DF=C8=F1</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6014281@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=CC=C1=
+=F8=BF=EC</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6014555@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B0=FB=BC=
+=BA=C0=BA</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6020471@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=B9=DA=B4=
+=EB=BF=F8</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6018390@hanwha.com&gt;;
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=BC=DB=C7=
+=FD=B0=E6</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family=
+:&quot;Calibri&quot;,sans-serif"> &lt;6018391@hanwha.com&gt;<br>
+<b>Subject:</b> [</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=
+=B8=B2">=C0=FC=B4=DE</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; =
+font-family:&quot;Calibri&quot;,sans-serif">] Day2 AP
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C1=A4=BA=
+=B8</span><span style=3D"font-size:11.0pt; font-family:&quot;Calibri&quot;,=
+sans-serif">
+</span><span style=3D"font-size:11.0pt; font-family:=B1=BC=B8=B2">=C0=FC=B4=
+=DE</span><span lang=3D"EN-US" style=3D"font-size:11.0pt; font-family:&quot=
+;Calibri&quot;,sans-serif"></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal" align=3D"left" style=3D"text-align:left"><span lang=
+=3D"EN-US">&nbsp;</span></p>
+<p class=3D"MsoNormal">=BE=C8=B3=E7=C7=CF=BD=CA=B4=CF=B1=EE<span lang=3D"EN=
+-US"> TM </span>=C0=D3=BA=B4=B1=B9 =C7=C1=B7=CE=C0=D4=B4=CF=B4=D9<span lang=
+=3D"EN-US">.</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">Day2 </span>=B4=DC=C0=A7=C5=D7=
+=BD=BA=C6=AE=BF=CD =C5=EB=C7=D5=C5=D7=BD=BA=C6=AE =C1=F8=C7=E0=BD=C3 =C3=A4=
+=B3=CE=BF=A1=BC=AD =B0=F8=C5=EB=C0=FB=C0=B8=B7=CE =C7=CA=BF=E4=C7=D1<span l=
+ang=3D"EN-US"> AP</span>=C1=A4=BA=B8 =C8=B2=BC=BA=C1=D8=C7=C1=B7=CE=BF=CD =
+=B0=B0=C0=CC =C1=A4=B8=AE=C7=CF=BF=B4=BD=C0=B4=CF=B4=D9<span lang=3D"EN-US"=
+>.</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<p class=3D"MsoNormal">=C6=C4=C0=CF =C8=AE=C0=CE=C8=C4=BF=A1 =B9=E6=C8=AD=
+=BA=AE =BD=C5=C3=BB=C7=CF=BF=A9 =C5=D7=BD=BA=C6=AE =BA=CE=C5=B9=B5=E5=B8=AE=
+=B0=DA=BD=C0=B4=CF=B4=D9<span lang=3D"EN-US">.</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<p class=3D"MsoNormal">=B5=B5=B8=DE=C0=CE<span lang=3D"EN-US">, IP, PORT</s=
+pan>=B0=A1 =BE=F8=B4=C2<span lang=3D"EN-US"> AP</span>=B4=C2 =C7=F6=C0=E7<s=
+pan lang=3D"EN-US"> Day2</span>=C2=CA=BF=A1 =C1=A4=BA=B8 =BF=E4=C3=BB=C0=BB=
+ =C7=D8=B3=F5=BE=C6=BC=AD =C0=FC=B4=DE =B9=DE=B4=C2=B4=EB=B7=CE =B4=D9=BD=
+=C3 =B0=F8=C0=AF=B5=E5=B8=AE=B0=DA=BD=C0=B4=CF=B4=D9<span lang=3D"EN-US">.<=
+/span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<p class=3D"MsoNormal">=B0=A8=BB=E7=C7=D5=B4=CF=B4=D9<span lang=3D"EN-US">.=
+</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;LIFEPLUS Medium&=
+quot;; color:black">=C0=D3=BA=B4=B1=B9 =B0=FA=C0=E5<span lang=3D"EN-US"></s=
+pan></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;LIFEPLUS Medium&quo=
+t;; color:black">=BC=D5=BA=B8<span lang=3D"EN-US">ITO / IT</span>=C3=A4=B3=
+=CE=BE=F7=B9=AB<span lang=3D"EN-US"> 2</span>=C6=C0<span lang=3D"EN-US"> / =
+TM</span></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;LIFE=
+PLUS Medium&quot;; color:black">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;LIFEPLUS Medium&quo=
+t;; color:black">=BC=AD=BF=EF =BF=A9=C0=C7=B4=EB=B7=CE<span lang=3D"EN-US">=
+ 56
+</span>=C7=D1=C8=AD=BC=D5=C7=D8=BA=B8=C7=E8 =C7=D1=C8=AD=B1=DD=C0=B6=BC=BE=
+=C5=CD<span lang=3D"EN-US"> 9</span>=C3=FE<span lang=3D"EN-US"></span></spa=
+n></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;LIFE=
+PLUS Medium&quot;; color:black">TEL. 02-316-7304</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;LIFE=
+PLUS Medium&quot;; color:black">HP.&nbsp; 010-5752-1775</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US">&nbsp;</span></p>
+</div>
+</div>
+</body>
+</html>
+
+--_000_c7b8ccf90ac64d2285b4ce6709e47dbbHGIEX03PHGIhanwhacom_--
+
+--_004_c7b8ccf90ac64d2285b4ce6709e47dbbHGIEX03PHGIhanwhacom_
+Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;
+	name="=?ks_c_5601-1987?B?RGF5MiBBUCDBpLq4X3ZlcjIueGxzeA==?="
+Content-Description: =?ks_c_5601-1987?B?RGF5MiBBUCDBpLq4X3ZlcjIueGxzeA==?=
+Content-Disposition: attachment;
+	filename="=?ks_c_5601-1987?B?RGF5MiBBUCDBpLq4X3ZlcjIueGxzeA==?="; size=17891;
+	creation-date="Thu, 14 May 2026 10:32:00 GMT";
+	modification-date="Thu, 14 May 2026 10:32:00 GMT"
+Content-Transfer-Encoding: base64
+
+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
+nq3EjYBpBByKIFam65rPRtGogigTPQ==
+
+--_004_c7b8ccf90ac64d2285b4ce6709e47dbbHGIEX03PHGIhanwhacom_--

@@ -1,0 +1,27 @@
+# 메일 리포터 - 필수 패키지
+
+# 웹 대시보드
+streamlit>=1.30.0
+
+# 데이터 처리
+pandas>=2.0.0
+
+# LLM API (선택)
+openai>=1.0.0
+google-generativeai>=0.7.0
+
+# HTTP 요청 (Ollama용, Graph API 호출)
+requests>=2.31.0
+
+# Microsoft 365 / 웹 아웃룩 Graph API 인증
+msal>=1.20.0
+
+# 스케줄러
+APScheduler>=3.10.0
+
+# 벡터 저장소 (프로덕션용, 선택)
+# chromadb>=0.4.0
+# sentence-transformers>=2.2.0
+
+# 개발/테스트
+pytest>=7.0.0

@@ -1,0 +1,334 @@
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17 via Mailbox Transport; Wed, 6 May 2026 15:37:52 +0900
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17; Wed, 6 May 2026 15:37:52 +0900
+Received: from spam.hanwha.com (121.168.9.110) by HSNC-EX02P.hsnc.hanwha.com
+ (172.20.150.42) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.2562.17 via Frontend
+ Transport; Wed, 6 May 2026 15:37:52 +0900
+X-Original-SPF: pass (121.168.9.110: SPF record at em175.cursor.sh designates 159.183.79.215 as permitted sender)
+Authentication-Results: spam.hanwha.com;
+	dkim=pass (2048-bit key) header.d=cursor.sh header.i=@cursor.sh header.b=goihvzu8;
+	spf=pass (121.168.9.110: SPF record at em175.cursor.sh designates 159.183.79.215 as permitted sender) smtp.mailfrom=bounces+42524694-c6e4-youjin0404=hanwha.com@em175.cursor.sh
+Received: from unknown (HELO o1.ptr7413.workos.com) (159.183.79.215)
+	by 121.168.9.110 with ESMTP; 6 May 2026 15:37:24 +0900
+X-Original-SENDERIP: 159.183.79.215
+X-Original-SENDERCOUNTRY: US, United States
+X-Original-MAILFROM: bounces+42524694-c6e4-youjin0404=hanwha.com@em175.cursor.sh
+X-Original-RCPTTO: youjin0404@hanwha.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=cursor.sh;
+	h=content-type:date:from:mime-version:subject:to:cc:content-type:date:
+	from:subject:to;
+	s=wos; t=1778049442;
+	bh=p9y+pnOf76M/UQmau0kuXbY4lTjj4tEBSpQIeot3mxA=;
+	b=goihvzu8GXkIYgD+WFrHhRM/VgsOrxmjCHczhz7lHX6NhSxEbz4jL87zRZGVXx3clcAN
+	6v494y8ilYqsFg05Iu9R23DHZtanbIWa4Zm0mW0wEiIQAchxD4UhAQqQTJPhmmLRICY4BS
+	ns1W0DfE6bjxweifuUi8oPPqednuCXgMfiTCp6bteoSqCXv1PzJlGU/0OAKEjT82hxC+VM
+	98UNPzTbsaINtjX4djF0w0ThmTtHKtqHfsQOqd8D5ZkCoOAn0cwABphmwzmw3hcUyUOnuN
+	MQ+eaaELrQcDfJzTq2IVl3W9G0h1MC1mPcBmX6QxqoiLUsg998A2HA16286zuEoA==
+Received: by recvd-6dc99dfcc-6z45h with SMTP id recvd-6dc99dfcc-6z45h-1-69FAE1A2-3A
+	2026-05-06 06:37:22.954877934 +0000 UTC m=+637549.767697337
+Received: from NDI1MjQ2OTQ (unknown)
+	by geopod-ismtpd-66 (SG) with HTTP
+	id ncry3bQsQz-n-31MVYNtmA
+	Wed, 06 May 2026 06:37:22.947 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=66481a86ab19bbdb8ae03189c11c4120dc0c09263c0bc7d41e0bb622388f
+Date: Wed, 06 May 2026 06:37:22 +0000 (UTC)
+From: Cursor <no-reply@cursor.sh>
+Message-ID: <ncry3bQsQz-n-31MVYNtmA@geopod-ismtpd-66>
+Subject: =?UTF-8?B?WW914oCZdmU=?= been invited to Cursor
+X-SG-EID: =?us-ascii?Q?u001=2ELu=2FEgerHg4vEzgZWzB8J+vEHunWF29xoDvbPt8=2F47OVJDt=2Fe1i3UjKcNG?=
+ =?us-ascii?Q?fLbDGYcNjFdHGkf9MkeaK5Vo76FnXYus5erUfKX?=
+ =?us-ascii?Q?Ek0r6DagHlaR4mDZDHF8yTrgD5gGry7XNsNOBr8?=
+ =?us-ascii?Q?w+iRNVJ0XEQO0UKPOph6VppvbzMx5dxyiJ2Q6Rk?=
+ =?us-ascii?Q?GgdWd4dOzUkTqvMv=2FBwLlUJ4BEwl0iPXncbdAMH?=
+ =?us-ascii?Q?320qMN=2F+MgygLm3uDqILvI=3D?=
+X-SG-ID: =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BmU1zpXEmQfi66KcG7fpWVqbvQnes4rQROpxC?=
+ =?us-ascii?Q?KRCY4cMx3gw1iZATFuNwNpliFtJm9eiEXpe6tyZ?=
+ =?us-ascii?Q?4MJM+aDHsYz3uTsZGJLaaroHp5eeX+kodFMbzgh?=
+ =?us-ascii?Q?psckEFDbXdCiMB9QcofQL3TGxAh45cTq6xz7BfC?=
+ =?us-ascii?Q?Gc3azwzaWrh8oEE3dJMnm=2FzpmXOlqB0rwOdnnHF?=
+ =?us-ascii?Q?YJIpdifaNwyTHAUfrXslczXnbUY99cKoeRm4X9l?=
+ =?us-ascii?Q?bWqVDE3MCn5Nxpw++RY8fovoJA=3D=3D?=
+To: youjin0404@hanwha.com
+X-Entity-ID: u001.Zx6FngFgyASsqD/KIFQw9A==
+Return-Path: bounces+42524694-c6e4-youjin0404=hanwha.com@em175.cursor.sh
+X-MS-Exchange-Organization-Network-Message-Id: e08f04a1-27d5-4504-39cf-08deab39ffa3
+X-MS-Exchange-Organization-AuthSource: HSNC-EX02P.hsnc.hanwha.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3042698
+X-MS-Exchange-Processed-By-BccFoldering: 15.02.2562.016
+MIME-Version: 1.0
+
+--66481a86ab19bbdb8ae03189c11c4120dc0c09263c0bc7d41e0bb622388f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+
+You=E2=80=99ve been invited to Cursor
+=E2=80=8A
+You=E2=80=99ve been invited to join SLEXN's Team on Cursor. Set up your acc=
+ount:
+
+Open Cursor
+<https://authenticator.cursor.sh/invite?invitation_token=3Dz8JUQ1TYQUcqKkmC=
+YI0BxUhkq>
+
+This invitation expires in 7 days.
+=E2=80=8A
+If you didn't request to join SLEXN's Team, you can safely ignore this emai=
+l.
+Someone else might have typed your email address by mistake.
+--66481a86ab19bbdb8ae03189c11c4120dc0c09263c0bc7d41e0bb622388f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+
+<!doctype html><html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:=
+schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:offi=
+ce"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><t=
+itle>You=E2=80=99ve been invited to Cursor</title><!--[if !mso]><!--><meta =
+http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge"><!--<![endif]--><meta =
+name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1"><style=
+ type=3D"text/css">#outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }</style><!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]--><!--[if lte mso 11]>
+    <style type=3D"text/css">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]--><style type=3D"text/css">@media only screen and (min-width:=
+480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }</style><style media=3D"screen and (min-width:480px)">.moz-text-html=
+ .mj-column-per-100 { width:100% !important; max-width: 100%; }</style><sty=
+le type=3D"text/css"></style><style type=3D"text/css">@media all and (max-w=
+idth: 768px) {
+        body {
+          background-color: #FFFFFF !important;
+        }
+      }
+      @media all and (max-width: 768px) {
+        .base-layout-root {
+          background-color: #FFFFFF !important;
+        }
+      }.button-gray table:hover td {
+        border: 1px solid #bbb !important;
+      }
+      .button-gray table:active td, .button-gray table:active a {
+        background-color: #f0f0f0 !important;
+      }
+      .button-accent table:hover td, .button-accent table:hover a {
+        background-color: #2e2e2e !important;
+      }
+      .button-accent table:active td, .button-accent table:active a {
+        background-color: #414141 !important;
+      }.card > table > tbody > tr > td {
+          border-radius: 12px !important;
+          padding: 36px 40px !important;
+        }
+        @media all and (max-width: 1024px) {
+          .card > table > tbody > tr > td {
+            padding: 28px 32px !important;
+          }
+        }
+        @media all and (max-width: 768px) {
+          .card > table > tbody > tr > td {
+            border-radius: 9px !important;
+            padding: 20px 24px !important;
+          }
+        }
+        @media all and (max-width: 520px) {
+          .card > table > tbody > tr > td {
+            padding: 14px 16px !important;
+          }
+        }
+
+        .card-body-with-logo-top > table > tbody > tr > td {
+          border-radius: 12px 12px 0px 0px !important;
+          padding: 32px 32px 0px !important;
+        }
+        @media all and (max-width: 1024px) {
+          .card-body-with-logo-top > table > tbody > tr > td {
+            padding: 24px 24px 0px !important;
+          }
+        }
+        @media all and (max-width: 768px) {
+          .card-body-with-logo-top > table > tbody > tr > td {
+            border-radius: 9px 9px 0px 0px !important;
+            padding: 16px 16px 0px !important;
+          }
+        }
+        @media all and (max-width: 520px) {
+          .card-body-with-logo-top > table > tbody > tr > td {
+            padding: 8px 8px 0px !important;
+          }
+        }
+
+        .card-body-with-logo-bottom > table > tbody > tr > td {
+          border-radius: 0px 0px 12px 12px !important;
+          padding-top: 0px !important;
+        }
+        @media all and (max-width: 768px) {
+          .card-body-with-logo-bottom > table > tbody > tr > td {
+            border-radius: 0px 0px 9px 9px !important;
+          }
+        }.image td {
+        width: 100% !important;
+      }.link:hover {
+        text-decoration-line: underline !important;
+        text-decoration-style: solid !important;
+      }
+      .link-accent:hover {
+        text-decoration-color: #5753c666 !important;
+      }
+      .link-accent.high-contrast {
+        text-decoration-color: #d9d9d9 !important;
+      }
+      .link-gray:hover {
+        text-decoration-color: #d9d9d9 !important;
+      }
+      .link-gray.high-contrast {
+        text-decoration-color: #cecece !important;
+      }
+      .link-green:hover {
+        text-decoration-color: #acdec8 !important;
+      }
+      .link-green.high-contrast {
+        text-decoration-color: #8bceb6 !important;
+      }
+      .link-red:hover {
+        text-decoration-color: #f8bfc8 !important;
+      }
+      .link-red.high-contrast {
+        text-decoration-color: #efacb8 !important;
+      }
+      .link-yellow:hover {
+        text-decoration-color: #f3d768 !important;
+      }
+      .link-yellow.high-contrast {
+        text-decoration-color: #e4c767 !important;
+      }</style></head><body style=3D"word-spacing:normal;background-color:#=
+FCFCFC;"><div style=3D"display:none;font-size:1px;color:#ffffff;line-height=
+:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">Set up your C=
+ursor account for SLEXN's Team. This invitation expires in 7 days. If you d=
+idn't request to join SLEXN's Team, you can safely ignore this email.</div>=
+<div class=3D"base-layout-root" style=3D"background-color:#FCFCFC;"><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"p=
+resentation" style=3D"width:100%;"><tbody><tr><td><!--[if mso | IE]><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"=
+" role=3D"presentation" style=3D"width:674px;" width=3D"674" ><tr><td style=
+=3D"line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-=
+-><div style=3D"margin:0px auto;max-width:674px;"><table align=3D"center" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=
+=3D"width:100%;"><tbody><tr><td style=3D"direction:ltr;font-size:0px;paddin=
+g:0;padding-left:16px;padding-right:16px;padding-top:32px;text-align:center=
+;"><!--[if mso | IE]><table role=3D"presentation" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0"><tr><td class=3D"card-outlook card-body-with-logo-=
+top-outlook" style=3D"vertical-align:top;width:642px;" ><![endif]--><div cl=
+ass=3D"mj-column-per-100 mj-outlook-group-fix card card-body-with-logo-top"=
+ style=3D"font-size:0px;text-align:left;direction:ltr;display:inline-block;=
+vertical-align:top;width:100%;"><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" role=3D"presentation" width=3D"100%" style=3D"border-collapse:=
+ separate;"><tbody><tr><td style=3D"background-color:#FFFFFF;border:1px sol=
+id #e0e0e0;border-bottom:none;border-radius:12px 12px 0px 0px;vertical-alig=
+n:top;padding:28px 32px 0px;"><table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" role=3D"presentation" width=3D"100%"><tbody><img alt=3D"" height=
+=3D"80" src=3D"https://og-images.workos.com/api/logo-icon?t=3DeyJhbGciOiJIU=
+zI1NiIsInR5cCI6IkpXVCJ9.eyJyYWRpdXMiOiJTbWFsbCIsImxvZ29JY29uRml0IjoiQ29udGF=
+pbiIsImxvZ29TcmMiOiJodHRwczovL3dvcmtvcy5pbWdpeC5uZXQvYXBwLWJyYW5kaW5nL2Vudm=
+lyb25tZW50XzAxR1M2VzNDOTAxTjUwSjRaR0ZCNlYxWjZDLzAxSzcwMDJSS0M5TkJNVEhFRjFTR=
+lBCQ0ZBIiwiaWF0IjoxNzc4MDQ5NDQyfQ.bKNdI3iJXT4gc6rFu12PMdSPxqmgg1ot3gSx7S4H6=
+CU" width=3D"80" style=3D"border:0;display:block;outline:none;text-decorati=
+on:none"><tr><td style=3D"font-size:0px;padding:0;word-break:break-word;"><=
+div style=3D"height:16px;line-height:16px;">=E2=80=8A</div></td></tr></tbod=
+y></table></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></tab=
+le><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr>=
+</table><![endif]--></td></tr></tbody></table><table align=3D"center" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"=
+width:100%;"><tbody><tr><td><!--[if mso | IE]><table align=3D"center" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"" role=3D"presentation=
+" style=3D"width:674px;" width=3D"674" ><tr><td style=3D"line-height:0px;fo=
+nt-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style=3D"margin=
+:0px auto;max-width:674px;"><table align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"width:100%;"><tbod=
+y><tr><td style=3D"direction:ltr;font-size:0px;padding:0;padding-bottom:24p=
+x;padding-left:16px;padding-right:16px;text-align:center;"><!--[if mso | IE=
+]><table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0"><tr><td class=3D"card-outlook card-body-with-logo-bottom-outlook" st=
+yle=3D"vertical-align:top;width:642px;" ><![endif]--><div class=3D"mj-colum=
+n-per-100 mj-outlook-group-fix card card-body-with-logo-bottom" style=3D"fo=
+nt-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-ali=
+gn:top;width:100%;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ role=3D"presentation" width=3D"100%" style=3D"border-collapse: separate;">=
+<tbody><tr><td style=3D"background-color:#FFFFFF;border:1px solid #e0e0e0;b=
+order-radius:0px 0px 12px 12px;border-top:none;vertical-align:top;padding:0=
+px 40px 36px;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=
+=3D"presentation" width=3D"100%"><tbody><tr><td align=3D"left" style=3D"fon=
+t-size:0px;padding:0;word-break:break-word;"><div style=3D"font-family:-app=
+le-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;fon=
+t-size:24px;font-weight:600;line-height:30px;text-align:left;color:#202020;=
+">You=E2=80=99ve been invited to Cursor</div></td></tr><tr><td style=3D"fon=
+t-size:0px;padding:0;word-break:break-word;"><div style=3D"height:16px;line=
+-height:16px;">=E2=80=8A</div></td></tr><tr><td align=3D"left" style=3D"fon=
+t-size:0px;padding:0;word-break:break-word;"><div style=3D"font-family:-app=
+le-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;fon=
+t-size:16px;line-height:24px;text-align:left;color:#202020;">You=E2=80=99ve=
+ been invited to join SLEXN's Team on Cursor. Set up your account:</div></t=
+d></tr><tr><td style=3D"font-size:0px;padding:0;word-break:break-word;"><di=
+v style=3D"height:24px;line-height:24px;">=E2=80=8A</div></td></tr><td alig=
+n=3D"left" class=3D"button-accent" style=3D"font-size:0px;padding:0;word-br=
+eak:break-word" vertical-align=3D"middle"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"border-collapse:sep=
+arate;line-height:100%"><tbody><tr><td align=3D"center" bgcolor=3D"#000000"=
+ role=3D"presentation" valign=3D"middle" style=3D"border:1px solid transpar=
+ent;border-radius:3px;background:#000000;cursor:auto;mso-padding-alt:7px 11=
+px"><a href=3D"https://authenticator.cursor.sh/invite?invitation_token=3Dz8=
+JUQ1TYQUcqKkmCYI0BxUhkq" rel=3D"noreferrer" target=3D"_blank" style=3D"padd=
+ing:7px 11px;border-radius:3px;display:inline-block;background:#000000;colo=
+r:#FFFFFF;font-family:-apple-system, BlinkMacSystemFont, Helvetica, Arial, =
+sans-serif;font-size:14px;font-weight:600;line-height:16px;margin:0;text-de=
+coration:none;text-transform:none;mso-padding-alt:0px">Open Cursor</a></td>=
+</tr></tbody></table></td><tr><td style=3D"font-size:0px;padding:0;word-bre=
+ak:break-word;"><div style=3D"height:32px;line-height:32px;">=E2=80=8A</div=
+></td></tr><tr><td align=3D"center" style=3D"font-size:0px;padding:0;word-b=
+reak:break-word;"><p style=3D"border-top:solid 1px #d9d9d9;font-size:1px;ma=
+rgin:0px auto;width:100%;"></p><!--[if mso | IE]><table align=3D"center" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-top:solid 1p=
+x #d9d9d9;font-size:1px;margin:0px auto;width:560px;" role=3D"presentation"=
+ width=3D"560px" ><tr><td style=3D"height:0;line-height:0;"> &nbsp;
+</td></tr></table><![endif]--></td></tr><tr><td style=3D"font-size:0px;padd=
+ing:0;word-break:break-word;"><div style=3D"height:32px;line-height:32px;">=
+=E2=80=8A</div></td></tr><tr><td align=3D"left" style=3D"font-size:0px;padd=
+ing:0;word-break:break-word;"><div style=3D"font-family:-apple-system, Blin=
+kMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;font-size:12px;lin=
+e-height:18px;text-align:left;color:#646464;">This invitation expires in 7 =
+days.</div></td></tr><tr><td style=3D"font-size:0px;padding:0;word-break:br=
+eak-word;"><div style=3D"height:12px;line-height:12px;">=E2=80=8A</div></td=
+></tr><tr><td align=3D"left" style=3D"font-size:0px;padding:0;word-break:br=
+eak-word;"><div style=3D"font-family:-apple-system, BlinkMacSystemFont, 'Se=
+goe UI', Helvetica, Arial, sans-serif;font-size:12px;line-height:18px;text-=
+align:left;color:#646464;">If you didn't request to join SLEXN's Team, you =
+can safely ignore this email. Someone else might have typed your email addr=
+ess by mistake.</div></td></tr></tbody></table></td></tr></tbody></table></=
+div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></tab=
+le></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody>=
+</table></div></body></html>=
+
+--66481a86ab19bbdb8ae03189c11c4120dc0c09263c0bc7d41e0bb622388f--

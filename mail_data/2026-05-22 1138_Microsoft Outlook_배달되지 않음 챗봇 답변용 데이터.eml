@@ -1,0 +1,290 @@
+Received: from HSNC-EX01P.hsnc.hanwha.com (172.20.150.41) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17 via Mailbox Transport; Fri, 22 May 2026 11:38:30 +0900
+From: Microsoft Outlook
+	<MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@hanwha.com>
+To: <youjin0404@hanwha.com>
+Date: Fri, 22 May 2026 11:38:30 +0900
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="896766d7-562b-47cb-9d79-6a375ba3394d"
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Message-Is-Ndr:
+Content-Language: ko-KR
+Message-ID: <20f3ba3b-c3a8-4d99-81de-80c56e84b43a@HSNC-EX01P.hsnc.hanwha.com>
+In-Reply-To: <d623ff7a51d04cb39fe13f99a0af873d@hanwha.com>
+References: <d623ff7a51d04cb39fe13f99a0af873d@hanwha.com>
+Thread-Topic: =?ks_c_5601-1987?B?w6q6vyC05Lqvv+sgtaXAzMXN?=
+Thread-Index: AQHc6ZPTSeqpfBv/D0+9Z6RpvjKmIbYZVP7O
+Subject: =?ks_c_5601-1987?B?uei03rXHwfYgvsrAvTogw6q6vyC05Lqvv+sgtaXAzMXN?=
+Auto-Submitted: auto-replied
+X-MS-Exchange-Organization-AuthSource: HSNC-EX01P.hsnc.hanwha.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 05
+X-MS-Exchange-Organization-Network-Message-Id: 51f394c8-0c6f-42cf-4e42-08deb7ab35c0
+Return-Path: <>
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.1803147
+X-MS-Exchange-Processed-By-BccFoldering: 15.02.2562.016
+MIME-Version: 1.0
+
+--896766d7-562b-47cb-9d79-6a375ba3394d
+Content-Type: multipart/alternative; differences=Content-Type;
+	boundary="2f062cf0-04fe-4416-a8c8-f03bd75fa2d0"
+
+--2f062cf0-04fe-4416-a8c8-f03bd75fa2d0
+Content-Type: text/plain; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: quoted-printable
+
+=B4=D9=C0=BD =B9=DE=B4=C2 =BB=E7=B6=F7=C0=CC=B3=AA =B1=D7=B7=EC=BF=A1 =B8=
+=DE=BD=C3=C1=F6=B8=A6 =B9=E8=B4=DE=C7=CF=C1=F6 =B8=F8=C7=D4:
+
+swpark@innobery.co.kr (swpark@innobery.co.kr)<mailto:swpark@innobery.co.kr>
+=B9=AE=C1=A6=B0=A1 =B9=DF=BB=FD=C7=CF=BF=A9 =C0=CC =B8=DE=BD=C3=C1=F6=B8=A6=
+ =B9=E8=B4=DE=C7=CF=C1=F6 =B8=F8=C7=DF=BD=C0=B4=CF=B4=D9. =C0=FC=C0=DA =B8=
+=DE=C0=CF =C1=D6=BC=D2=B0=A1 =BF=C3=B9=D9=B8=A5=C1=F6 =C8=AE=C0=CE=C7=CF=BC=
+=BC=BF=E4. =B9=AE=C1=A6=B0=A1 =B0=E8=BC=D3=B5=C7=B8=E9 =C0=FC=C0=DA =B8=DE=
+=C0=CF =B0=FC=B8=AE=C0=DA=BF=A1=B0=D4 =B9=AE=C0=C7=C7=CF=BC=BC=BF=E4.
+
+
+
+
+
+
+
+
+=B0=FC=B8=AE=C0=DA=B8=A6 =C0=A7=C7=D1 =C1=F8=B4=DC =C1=A4=BA=B8:
+
+=BB=FD=BC=BA =BC=AD=B9=F6: HSNC-EX01P.hsnc.hanwha.com
+
+swpark@innobery.co.kr
+Remote Server returned '554 5.4.4 SMTPSEND.DNS.NonExistentDomain; nonexiste=
+nt domain innobery.co.kr -> DnsDomainDoesNotExist: InfoDomainNonexistent'
+
+=BF=F8=BA=BB =B8=DE=BD=C3=C1=F6 =B8=D3=B8=AE=B1=DB:
+
+DKIM-Signature: v=3D1; a=3Drsa-sha256; d=3Dhanwha.com; s=3D20220405;
+        c=3Drelaxed/relaxed; t=3D1779417510; h=3Dfrom:subject:to:date:messa=
+ge-id;
+        bh=3DlxB0jZYigWDXJUISCnUlIeJ7oeNA+65Udivy2FDXR7U=3D;
+        b=3DSeb4IUEf9GK+q5PaF3vc3uItNVfwt+0Z5Up1bwzOUJss8yNk0t0Ssk3QjaEG1CD=
+Xs1BJslK69z/
+        KGXuJARJ8XNhJj+AkiDJOD/PLELJ+rEM4cIlhqstzp8hqjJINSEOwp/z6n6b+6T6d9z=
+JKIv7nUq/U
+        6vzORS1OxSxldy5aDT3Ly+8/YX/vcJVONZ+c7syQeGHMazhdjl2F6RBt/mVoCgimq58=
+LlYpzKD+Hq
+        G0knFftyJvTGezKoL6P/rEOGez2zdlnwFK7WMKEu9k9DY6w98xJtINweD9LYAjSVfpP=
+sBY+n2a9Rc
+        pB2HF2Hw29TLpf67zYdouVyafhfJ/B91BSzg=3D=3D
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX01P.hsnc.hanwha.com (172.20.150.41) with Microsoft SMTP Server
+ (version=3DTLS1_2, cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17; Fri, 22 May 2026 11:38:29 +0900
+Received: from HSNC-EX02P.hsnc.hanwha.com ([172.20.150.42]) by
+ HSNC-EX02P.hsnc.hanwha.com ([172.20.150.42]) with mapi id 15.02.2562.017;
+ Fri, 22 May 2026 11:38:29 +0900
+From: =3D?ks_c_5601-1987?B?wPzAr8H4IMfRyK29w726xdsvSUNU?=3D
+        <youjin0404@hanwha.com>
+To: "swpark@innobery.co.kr" <swpark@innobery.co.kr>
+CC: =3D?ks_c_5601-1987?B?wMzH9sDaKExlZSBIeXVuamEpIMfRyK29w726xdsvSUNU?=3D
+        <cutytory22@hanwha.com>
+Subject: =3D?ks_c_5601-1987?B?w6q6vyC05Lqvv+sgtaXAzMXN?=3D
+Thread-Topic: =3D?ks_c_5601-1987?B?w6q6vyC05Lqvv+sgtaXAzMXN?=3D
+Thread-Index: AQHc6ZPTSeqpfBv/D0+9Z6RpvjKmIQ=3D=3D
+Date: Fri, 22 May 2026 02:38:29 +0000
+Message-ID: <d623ff7a51d04cb39fe13f99a0af873d@hanwha.com>
+Accept-Language: ko-KR, en-US
+Content-Language: ko-KR
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [203.231.48.139]
+x-hanwha-onprem-passed: True
+Content-Type: multipart/mixed;
+        boundary=3D"_005_d623ff7a51d04cb39fe13f99a0af873dhanwhacom_"
+MIME-Version: 1.0
+
+
+--2f062cf0-04fe-4416-a8c8-f03bd75fa2d0
+Content-Type: text/html; charset="ks_c_5601-1987"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dks_c_5601=
+-1987"></head><body>
+<p><b><font color=3D"#000066" size=3D"3" face=3D"Arial">=B4=D9=C0=BD =B9=DE=
+=B4=C2 =BB=E7=B6=F7=C0=CC=B3=AA =B1=D7=B7=EC=BF=A1 =B8=DE=BD=C3=C1=F6=B8=A6=
+ =B9=E8=B4=DE=C7=CF=C1=F6 =B8=F8=C7=D4:</font></b></p>
+<font color=3D"#000000" size=3D"2" face=3D"Tahoma"><p><a href=3D"mailto:swp=
+ark@innobery.co.kr">swpark@innobery.co.kr (swpark@innobery.co.kr)</a><br>
+</font>
+<font color=3D"#000000" size=3D"3" face=3D"Arial">=B9=AE=C1=A6=B0=A1 =B9=DF=
+=BB=FD=C7=CF=BF=A9 =C0=CC =B8=DE=BD=C3=C1=F6=B8=A6 =B9=E8=B4=DE=C7=CF=C1=F6=
+ =B8=F8=C7=DF=BD=C0=B4=CF=B4=D9. =C0=FC=C0=DA =B8=DE=C0=CF =C1=D6=BC=D2=B0=
+=A1 =BF=C3=B9=D9=B8=A5=C1=F6 =C8=AE=C0=CE=C7=CF=BC=BC=BF=E4. =B9=AE=C1=A6=
+=B0=A1 =B0=E8=BC=D3=B5=C7=B8=E9 =C0=FC=C0=DA =B8=DE=C0=CF =B0=FC=B8=AE=C0=
+=DA=BF=A1=B0=D4 =B9=AE=C0=C7=C7=CF=BC=BC=BF=E4.<br>
+</font>
+<font color=3D"#000000" size=3D"2" face=3D"Tahoma"><br>
+</p>
+</font>
+<br><br><br><br><br><br>
+<font color=3D"#808080" size=3D"2" face=3D"Tahoma"><p><b>=B0=FC=B8=AE=C0=DA=
+=B8=A6 =C0=A7=C7=D1 =C1=F8=B4=DC =C1=A4=BA=B8:</b></p>
+<p>=BB=FD=BC=BA =BC=AD=B9=F6: HSNC-EX01P.hsnc.hanwha.com<br>
+</p>
+<p>swpark@innobery.co.kr<br>
+Remote Server  returned '554 5.4.4 SMTPSEND.DNS.NonExistentDomain; nonexist=
+ent domain innobery.co.kr -&gt; DnsDomainDoesNotExist: InfoDomainNonexisten=
+t'<br>
+</p>
+<p>=BF=F8=BA=BB =B8=DE=BD=C3=C1=F6 =B8=D3=B8=AE=B1=DB:</p>
+<pre>DKIM-Signature: v=3D1; a=3Drsa-sha256; d=3Dhanwha.com; s=3D20220405;
+	c=3Drelaxed/relaxed; t=3D1779417510; h=3Dfrom:subject:to:date:message-id;
+	bh=3DlxB0jZYigWDXJUISCnUlIeJ7oeNA&#43;65Udivy2FDXR7U=3D;
+	b=3DSeb4IUEf9GK&#43;q5PaF3vc3uItNVfwt&#43;0Z5Up1bwzOUJss8yNk0t0Ssk3QjaEG1C=
+DXs1BJslK69z/
+	KGXuJARJ8XNhJj&#43;AkiDJOD/PLELJ&#43;rEM4cIlhqstzp8hqjJINSEOwp/z6n6b&#43;6=
+T6d9zJKIv7nUq/U
+	6vzORS1OxSxldy5aDT3Ly&#43;8/YX/vcJVONZ&#43;c7syQeGHMazhdjl2F6RBt/mVoCgimq5=
+8LlYpzKD&#43;Hq
+	G0knFftyJvTGezKoL6P/rEOGez2zdlnwFK7WMKEu9k9DY6w98xJtINweD9LYAjSVfpPsBY&#43=
+;n2a9Rc
+	pB2HF2Hw29TLpf67zYdouVyafhfJ/B91BSzg=3D=3D
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX01P.hsnc.hanwha.com (172.20.150.41) with Microsoft SMTP Server
+ (version=3DTLS1_2, cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17; Fri, 22 May 2026 11:38:29 &#43;0900
+Received: from HSNC-EX02P.hsnc.hanwha.com ([172.20.150.42]) by
+ HSNC-EX02P.hsnc.hanwha.com ([172.20.150.42]) with mapi id 15.02.2562.017;
+ Fri, 22 May 2026 11:38:29 &#43;0900
+From: =3D?ks_c_5601-1987?B?wPzAr8H4IMfRyK29w726xdsvSUNU?=3D
+	&lt;youjin0404@hanwha.com&gt;
+To: &quot;swpark@innobery.co.kr&quot; &lt;swpark@innobery.co.kr&gt;
+CC: =3D?ks_c_5601-1987?B?wMzH9sDaKExlZSBIeXVuamEpIMfRyK29w726xdsvSUNU?=3D
+	&lt;cutytory22@hanwha.com&gt;
+Subject: =3D?ks_c_5601-1987?B?w6q6vyC05Lqvv&#43;sgtaXAzMXN?=3D
+Thread-Topic: =3D?ks_c_5601-1987?B?w6q6vyC05Lqvv&#43;sgtaXAzMXN?=3D
+Thread-Index: AQHc6ZPTSeqpfBv/D0&#43;9Z6RpvjKmIQ=3D=3D
+Date: Fri, 22 May 2026 02:38:29 &#43;0000
+Message-ID: &lt;d623ff7a51d04cb39fe13f99a0af873d@hanwha.com&gt;
+Accept-Language: ko-KR, en-US
+Content-Language: ko-KR
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [203.231.48.139]
+x-hanwha-onprem-passed: True
+Content-Type: multipart/mixed;
+	boundary=3D&quot;_005_d623ff7a51d04cb39fe13f99a0af873dhanwhacom_&quot;
+MIME-Version: 1.0
+</pre>
+</font>
+</body>
+</html>=
+
+--2f062cf0-04fe-4416-a8c8-f03bd75fa2d0--
+
+--896766d7-562b-47cb-9d79-6a375ba3394d
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;HSNC-EX01P.hsnc.hanwha.com
+Received-From-MTA: dns;HSNC-EX02P.hsnc.hanwha.com
+Arrival-Date: Fri, 22 May 2026 02:38:29 +0000
+
+Final-Recipient: rfc822;swpark@innobery.co.kr
+Action: failed
+Status: 5.4.4
+Diagnostic-Code: smtp;554 5.4.4 SMTPSEND.DNS.NonExistentDomain; nonexistent domain innobery.co.kr -> DnsDomainDoesNotExist: InfoDomainNonexistent
+X-Display-Name: swpark@innobery.co.kr
+
+
+--896766d7-562b-47cb-9d79-6a375ba3394d
+Content-Type: text/rfc822-headers
+
+DKIM-Signature: v=1; a=rsa-sha256; d=hanwha.com; s=20220405;
+	c=relaxed/relaxed; t=1779417510; h=from:subject:to:date:message-id;
+	bh=lxB0jZYigWDXJUISCnUlIeJ7oeNA+65Udivy2FDXR7U=;
+	b=Seb4IUEf9GK+q5PaF3vc3uItNVfwt+0Z5Up1bwzOUJss8yNk0t0Ssk3QjaEG1CDXs1BJslK69z/
+	KGXuJARJ8XNhJj+AkiDJOD/PLELJ+rEM4cIlhqstzp8hqjJINSEOwp/z6n6b+6T6d9zJKIv7nUq/U
+	6vzORS1OxSxldy5aDT3Ly+8/YX/vcJVONZ+c7syQeGHMazhdjl2F6RBt/mVoCgimq58LlYpzKD+Hq
+	G0knFftyJvTGezKoL6P/rEOGez2zdlnwFK7WMKEu9k9DY6w98xJtINweD9LYAjSVfpPsBY+n2a9Rc
+	pB2HF2Hw29TLpf67zYdouVyafhfJ/B91BSzg==
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX01P.hsnc.hanwha.com (172.20.150.41) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17; Fri, 22 May 2026 11:38:29 +0900
+Received: from HSNC-EX02P.hsnc.hanwha.com ([172.20.150.42]) by
+ HSNC-EX02P.hsnc.hanwha.com ([172.20.150.42]) with mapi id 15.02.2562.017;
+ Fri, 22 May 2026 11:38:29 +0900
+From: =?ks_c_5601-1987?B?wPzAr8H4IMfRyK29w726xdsvSUNU?=
+	<youjin0404@hanwha.com>
+To: "swpark@innobery.co.kr" <swpark@innobery.co.kr>
+CC: =?ks_c_5601-1987?B?wMzH9sDaKExlZSBIeXVuamEpIMfRyK29w726xdsvSUNU?=
+	<cutytory22@hanwha.com>
+Subject: =?ks_c_5601-1987?B?w6q6vyC05Lqvv+sgtaXAzMXN?=
+Thread-Topic: =?ks_c_5601-1987?B?w6q6vyC05Lqvv+sgtaXAzMXN?=
+Thread-Index: AQHc6ZPTSeqpfBv/D0+9Z6RpvjKmIQ==
+Date: Fri, 22 May 2026 02:38:29 +0000
+Message-ID: <d623ff7a51d04cb39fe13f99a0af873d@hanwha.com>
+Accept-Language: ko-KR, en-US
+Content-Language: ko-KR
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: HSNC-EX02P.hsnc.hanwha.com
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-Network-Message-Id: 707538c0-d4db-46bd-49a8-08deb7ab358a
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-exchange-organization-recordreviewcfmtype: 0
+x-ms-exchange-organization-originalsize: 84277
+x-ms-exchange-organization-originalarrivaltime: 22 May 2026 02:38:29.6673
+ (UTC)
+x-ms-exchange-organization-messagesource: StoreDriver
+x-ms-exchange-organization-fromentityheader: Hosted
+x-ms-exchange-organization-messagedirectionality: Originating
+x-ms-exchange-organization-id: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-BCC:
+x-ms-exchange-organization-originalclientipaddress: 203.231.48.139
+x-originating-ip: [203.231.48.139]
+x-ms-exchange-organization-originalserveripaddress: 172.20.150.42
+x-ms-exchange-organization-submissionrecipientcount: 2
+x-ms-exchange-organization-orderedprecisionlatencyinprogress:
+	LSRV=HSNC-EX01P.hsnc.hanwha.com:TOTAL-HUB=0.325|SMR=0.130(SMRDI=0.015|SMRC=0.115(SMRCL=0.103|X-SMRCR=0.115))|CAT=0.194(CATRESL=0.001
+ |CATORES=0.062(CATRS=0.062(CATRS-Transport Rule
+ Agent=0.017(X-ETREX=0.008|X-MBROF=0.008 )|CATRS-Index Routing
+ Agent=0.044))|CATORT=0.108(CATRT=0.108(CATRT-Journal Agent=0.107
+ ))|CATCC=0.007|CATOC=0.011(CATCM=0.011(CATCM-Exchange
+ DkimSigner=0.010)));2026-05-22T02:38:30.215Z
+x-ms-exchange-forest-arrivalhubserver: HSNC-EX01P.hsnc.hanwha.com
+x-ms-exchange-organization-cross-premises-headers-processed: HSNC-EX01P.hsnc.hanwha.com
+x-ms-exchange-organization-hygienepolicy: Standard
+x-ms-exchange-organization-messagelatency: SRV=HSNC-EX02P.hsnc.hanwha.com:TOTAL-SUB=0.225|SA=0.181|MTSS-PEN=0.044(MTSSD-PEN=0.044(MTSSDA=0.004|MTSSDC=0.011|SDSSO-PEN=0.018
+ (SMSC=0.014|MTSSDM-PEN=0.003)))
+x-ms-exchange-organization-recipient-limit-verified: True
+x-ms-exchange-organization-totalrecipientcount: 2
+x-ms-exchange-organization-rules-execution-history: eb84d1d1-0583-434b-b2fd-85f29be03812%%%e76340e4-a5c5-4e92-98f2-9ad1c1b149e2%%%7969374d-7e12-4895-b5ff-73e227e6fbe9%%%1f437859-c7b8-4a92-bb72-c72a0553b6fa%%%a0d1cb47-e61c-4e0d-975d-a1661dbd3f27%%%450bfd23-a744-46d3-a5d6-e3bd71369e3d%%%f6a695a9-ef9b-4aad-9590-bceec5d80c98%%%066dabc0-3164-46fc-a361-043d0d149a58%%%556a9c6e-bafa-4bcd-9662-4982e83ab748%%%eca398a4-1712-41db-99e7-0a9dcbadfd0c%%%59465287-56a3-4e7b-9b42-8c47e1db16c8%%%f9a57d44-76eb-40fd-924a-200d5b6d4a5c%%%d3258dd5-d116-4c24-abcc-ba2941369591%%%f009e197-1170-4095-9e52-57111ac3bde4%%%541874ca-22a4-4f5f-b514-f7d487dce6f3%%%eddb2fbc-7132-4daf-abd5-2021d8fad1f9%%%95ab89bb-d756-40f9-ac7c-8e4326666ae5%%%0304a921-d44a-4fbc-909b-471e51b6ab8d%%%7d8f2039-de76-4912-a0e1-774a014a2dce
+x-hanwha-onprem-passed: True
+x-ms-exchange-forest-rulesexecuted: HSNC-EX01P
+x-ms-exchange-organization-rulesexecuted: HSNC-EX01P
+x-ms-exchange-forest-indexagent-0: AQ0Ca28AAcgAAAAPAAADH4sIAAAAAAAEAFWMUQqCQBRF3zhqJbSHt4
+ BojSJG0hAEKUkYGIkVzMdUGn3UhnzPPWQERj+Xy7mcexRjj5OIZkmb
+ pBw+eBtPOnLZUDVHUjXdfN6ekZaGd1UbGuR73Bif9hlyHpLSSOuMyh
+ epiFQxHXtN5VN+Qj5GpB/IKqMgpVJzWtAiRjYnPjx5s/qzdXPNeVH/
+ PsyKA90m554ggmUJcGBoCSkBJNhS2N9igbRh0GU3OQCOcHvuwuhjvQ
+ F2aL0o5QAAAAEOzwFSZXRyaWV2ZXJPcGVyYXRvciwxMCwwO1JldHJp
+ ZXZlck9wZXJhdG9yLDExLDE7UG9zdERvY1BhcnNlck9wZXJhdG9yLD
+ EwLDM4O1Bvc3REb2NQYXJzZXJPcGVyYXRvciwxMSwwO1Bvc3RXb3Jk
+ QnJlYWtlckRpYWdub3N0aWNPcGVyYXRvciwxMCwwO1Bvc3RXb3JkQn
+ JlYWtlckRpYWdub3N0aWNPcGVyYXRvciwxMSwwO1RyYW5zcG9ydFdy
+ aXRlclByb2R1Y2VyLDIwLDA=
+x-ms-exchange-forest-indexagent: 1 422
+x-ms-exchange-forest-emailmessagehash: 871C7A5C,7AFCCD6B,55890969
+x-ms-exchange-forest-language: ko
+x-ms-exchange-organization-journaled-to-recipients: HSNCJournal01@hanwha.mail.onmicrosoft.com
+x-ms-exchange-organization-journalrecipientlist: e1ca4293-c1b4-48a8-8412-d2255f162a97
+x-ms-exchange-organization-processed-by-journaling: Journal Agent
+Content-Type: multipart/mixed;
+	boundary="_005_d623ff7a51d04cb39fe13f99a0af873dhanwhacom_"
+MIME-Version: 1.0
+X-MS-Exchange-Organization-ContentConversionOptions: False;00160000;True;;ks_c_5601-1987
+
+--896766d7-562b-47cb-9d79-6a375ba3394d--

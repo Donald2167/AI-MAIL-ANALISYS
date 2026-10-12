@@ -1,0 +1,885 @@
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17 via Mailbox Transport; Mon, 18 May 2026 21:17:11 +0900
+Received: from HSNC-EX03P.hsnc.hanwha.com (172.20.150.43) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17; Mon, 18 May 2026 21:17:11 +0900
+Received: from spam1.hanwha.com (121.168.9.111) by HSNC-EX03P.hsnc.hanwha.com
+ (172.20.150.43) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.2562.17 via Frontend
+ Transport; Mon, 18 May 2026 21:17:11 +0900
+X-Original-SPF: pass (121.168.9.111: SPF record at 360bounces.sas.com designates 192.174.86.158 as permitted sender)
+Authentication-Results: spam.hanwha.com;
+	dkim=pass (2048-bit key) header.d=sas.com header.i=@sas.com header.b=T8Y2jFY5;
+	spf=pass (121.168.9.111: SPF record at 360bounces.sas.com designates 192.174.86.158 as permitted sender) smtp.mailfrom=msprvs1=20598HWpCkdTT=bounces-266671-7@360bounces.sas.com
+Received: from unknown (HELO mta-86-158.sparkpostmail.com) (192.174.86.158)
+	by 121.168.9.111 with ESMTP; 18 May 2026 21:16:47 +0900
+X-Original-SENDERIP: 192.174.86.158
+X-Original-SENDERCOUNTRY: US, United States
+X-Original-MAILFROM: msprvs1=20598HWpCkdTT=bounces-266671-7@360bounces.sas.com
+X-Original-RCPTTO: youjin0404@hanwha.com
+Return-Path: msprvs1=20598HWpCkdTT=bounces-266671-7@360bounces.sas.com
+X-MSFBL: D0b1aF4Fs162NxZfXGtqi4LyYIsohqh8guyLGf+fuNY=|eyJtZXNzYWdlX2lkIjo
+	iNmEwNjJkMDMwYjZhMjhhZDJjYmQiLCJjdXN0b21lcl9pZCI6IjI2NjY3MSIsInI
+	iOiJ5b3VqaW4wNDA0QGhhbndoYS5jb20iLCJzdWJhY2NvdW50X2lkIjoiNyIsInR
+	lbmFudF9pZCI6InNwYyJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sas.com; s=scph0723;
+	t=1779106605; i=@sas.com;
+	bh=R4+ypddRSP23lM7hGDQvHPL43LsgNRXpNgBblZ0NtYo=;
+	h=To:Message-ID:Date:Content-Type:Subject:From:List-Unsubscribe:
+	 List-Unsubscribe-Post:From:To:Cc:Subject;
+	b=T8Y2jFY5k05w83OCCoNnoGSaz5VHXWQYgIr/zE2tk7TtWy35ZtyBCy8UcBm2qA53D
+	 OT/ul7n8TT/+92wKdH4d3lngUtFqcpYUaPqg/7uZElRqhjU7Y/pkZJXfswcV1jttD+
+	 RLE5oo3nBRloi2TknY+SlhVrCvBsncXdP2p7avP0yLZh1OHzs5F1tE5kf/8KABG1r9
+	 KZThx8dp/1+2LtWzKGaGex86cNHIpxAEuk9EayXn34y1jq+ZRiJpHP8fOD5mE1oh6e
+	 0wYpTMmVeIRxu5zdCfP3Iet2jh8Da7fvSmCzXLXTkF+DTPrbZqKAgoyQwAJaOr6Vzx
+	 QytC6Ufox5vGg==
+Received: from [10.90.30.157] ([10.90.30.157])
+	by i-0f52fc3119f15b46b.mta1vrest.sd.prd.sparkpost (ecelerity 5.2.0.75738 r(msys-ecelerity:tags/5.2.0.21)) with REST
+	id DB/C2-03769-D230B0A6; Mon, 18 May 2026 12:16:45 +0000
+To: youjin0404@hanwha.com
+Message-ID: <DB.C2.03769.D230B0A6@i-0f52fc3119f15b46b.mta1vrest.sd.prd.sparkpost>
+Date: Mon, 18 May 2026 12:16:45 +0000
+Content-Type: multipart/alternative; boundary="_----lNZN3Zqod+QZvhFP7DScoQ===_7B/C2-03769-D230B0A6"
+Reply-To: SAS Customer Engagement Center <SASCustomerEngagementCenter@sas.com>
+Subject: Fair, transparent, explainable: Is your AI all three?
+From: SAS Customer Engagement Center  <SASCustomerEngagementCenter@sas.com>
+List-Unsubscribe: <mailto:unsubscribe@unsub.spmta.com?subject=unsubscribe:zHVdw7NsR-__-9NPpjLHRXxCQWyN_NfM1k67iCb8v8s~|eyAicmNwdF90byI6ICJ5b3VqaW4wNDA0QGhhbndoYS5jb20iLCAidGVuYW50X2lkIjogInNwYyIsICJjdXN0b21lcl9pZCI6ICIyNjY2NzEiLCAibWVzc2FnZV9pZCI6ICI2YTA2MmQwMzBiNmEyOGFkMmNiZCIsICJzdWJhY2NvdW50X2lkIjogIjciIH0~>,<https://unsubscribe.spmta.com/u/C4xYC78IexjUciJ4Lbl2yA~~/AAQRrxA~/L6Ii_HmRy_W872uBG75ChHi5Svoh-0usz3n2P6Mz741jprbfwqnRltbQaigb63h2-qIw5AmXODI4UNO8fUxiXw~~>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Id: <spc.266671.7.sparkpostmail.com>
+X-MS-Exchange-Organization-Network-Message-Id: ac92d69e-331d-47cc-d9a3-08deb4d7639c
+X-MS-Exchange-Organization-AuthSource: HSNC-EX03P.hsnc.hanwha.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2951336
+X-MS-Exchange-Processed-By-BccFoldering: 15.02.2562.016
+MIME-Version: 1.0
+
+--_----lNZN3Zqod+QZvhFP7DScoQ===_7B/C2-03769-D230B0A6
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+
+View as a web page >> https://link.sas.com/f/a/mk7FXIWCcHLhRTgyIZDdow~~/AAQ=
+RrxA~/yipn6tapzgErYI0jQcx1_WkNrYtxh8cxmGg76AhiWvzoTUmCIZ-46mm7nY1Iak6HuHme6=
+J6uz64kHfivAJN0cJNiS13stbvU6YQYvUKbESJSJigKubB_j0DpPpmIzDRc067ZgjrcgBk_vtI4=
+zkrqHhXADw-7abQIrpS-qCcFbY54x7Pb-OyPYjUXG8EAZbPnhTlEH6kgucSFGoCyCfVLHg~~=0A=
+-------------------------------------------------------------------------=
+=0AThe Trust Gap: Can Insurers Really Trust Their AI=3F=0A=0ABrewing Curios=
+ity: Insurance Unfiltered =E2=80=93 Episode 2 Preview=0A=0ABrewing Curiosit=
+y: Insurance Unfiltered is back, and this episode gets into something every=
+ insurer is quietly wrestling with. Episode 2 takes an honest look at fairn=
+ess and transparency in underwriting, pricing and claims models. Because bu=
+ilding AI that works is one thing. Building AI you can explain, govern and =
+stand behind is another entirely.=0A=0ADrawing on insights from the IDC Tru=
+st Imperative report, Franklin Manchester is joined by Kristi Boyd and Dr. =
+Iain Brown to explore what it takes to develop AI systems insurers can trus=
+t =E2=80=93 and scale =E2=80=93 with confidence.=0A=0AEarly reaction to the=
+ series says it all:=0A"The idea of Insurance Unfiltered really stood out =
+=E2=80=93 it made the conversation feel honest and grounded, rather than ov=
+erly polished."=0A=0AWatch the trailer below for a taste of what's ahead.=
+=0A=0AClip >> https://link.sas.com/f/a/5JknZGPtEY5M95KOqFbeHg~~/AAQRrxA~/Uf=
+hQcDjFjgTFi44VkqFqbUV5S8-r8Y7iEIGgcdXFCqir8Va-R-Vlivszr0H1qcsn0swT7hbMhyuSv=
+QEb47Fn3J948Z4BCTQqJtxlMz-9uy3fKVIYLNDH3nU1F7MHNhAKNNwkkQBvD5I86fQbxBJd3Prv=
+Vbi50M_IxIIRFf1X2Mh1t4XtJz50UPxFFZLRViw_pYp4fZSiSy_f37qsnxgEWUVhxpwLDIAIWRy=
+f1E99QMepqENgklLsuSSDgpTcj9Cf=0A=0AThe full episode drops next week. We=E2=
+=80=99ll save you a seat.=0A=0ACan't view it on YouTube=3F Watch it on sas.=
+com >> www.sas.com/gms/redirect.jsp=3Fdetail=3DPLN71456_1439687138&C2P=3D20=
+460547305626770490983079169980083070304441D3590D36060.=0A=0A---------------=
+----------------------------------------------------------=0AThis email was=
+ sent to youjin0404@hanwha.com.=0A=0A=09Opt Out >> https://link.sas.com/f/a=
+/jdku8vPOC01HAEX6f5dnKg~~/AAQRrxA~/zUkecFREKaNbkerLUf1GyGltGXuWxD-ATQDrTvxN=
+QbBUSbrtY-Qlck-g4hiwdCpGlsovkxeGWGkwUEw4GqZdruvawEUNdATUrtNr8ektOlLNNxCvI6X=
+OEEaJrqqQKui4=0A=09SAS Privacy Policy >> https://link.sas.com/f/a/a-tEa0YYP=
+mUMVN-764Z7dg~~/AAQRrxA~/-tGFPCO5a0zTG_3rsKaW5AzvxWCw5ZuiH2jWMUx99rgEsrKZX-=
+7YnDPIKX3jkX_WPBK0XF37OhZhYPXUhDKOVhOWS_gqG6GCXHf-sN2Tvhy9IOB-3WF1o9fIrbMeS=
+k85=0A=09=0A=C2=A9 SAS Institute Inc. SAS Campus Drive, Cary NC 27513 USA.
+--_----lNZN3Zqod+QZvhFP7DScoQ===_7B/C2-03769-D230B0A6
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html><!doctype html><html xmlns=3D"http://www.w3.org/1999/xhtml" =
+xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-=
+com:office:office"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+=0A=
+<!--[if mso | IE]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerI=
+nch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->=0A=
+<style>=0A=
+a {=0A=
+color: #0766d1;=0A=
+text-decoration: none !important;=0A=
+}=0A=
+body {=0A=
+font-size: 16px !important;=0A=
+font-family: Arial, Helvetica, sans-serif;=0A=
+color: #485365 !important;=0A=
+line-height: 125% !important;=0A=
+}=0A=
+h1 {=0A=
+font-size: 28px !important;=0A=
+margin: 12px 0 !important;=0A=
+font-family: Arial, Helvetica, sans-serif;=0A=
+color: #485365 !important;=0A=
+line-height: 125% !important;=0A=
+}=0A=
+h2 {=0A=
+font-size: 24px !important;=0A=
+margin: 0 0 12px 0 !important;=0A=
+font-family: Arial, Helvetica, sans-serif;=0A=
+color: #485365 !important;=0A=
+line-height: 125% !important;=0A=
+}=0A=
+h3 {=0A=
+font-size: 20px !important;=0A=
+margin: 0 0 12px 0 !important;=0A=
+font-family: Arial, Helvetica, sans-serif;=0A=
+color: #485365 !important;=0A=
+line-height: 125% !important;=0A=
+}=0A=
+sup {=0A=
+line-height: 0 !important;=0A=
+font-size: 45% margin-left: .15em !important;=0A=
+}=0A=
+.textBlockTD {=0A=
+padding: 0 15px 15px;=0A=
+}=0A=
+.energy-bar {=0A=
+height: 9px !important;=0A=
+}=0A=
+.energy-bar td {=0A=
+padding: 0 !important;=0A=
+}=0A=
+table.footer {=0A=
+text-align: center !important;=0A=
+}=0A=
+.footer ul {=0A=
+list-style-type: none !important;=0A=
+width: 100%;=0A=
+margin: 10px auto;=0A=
+padding-left: 0;=0A=
+}=0A=
+.footer ul li span {=0A=
+padding: 0 3px;=0A=
+}=0A=
+.footer ul li {=0A=
+display: inline-table;=0A=
+}=0A=
+@media only screen and (max-width:600px) {=0A=
+.emailEditorBlockTable {=0A=
+width: 440px !important;=0A=
+padding: 0 !important;=0A=
+}=0A=
+.mobile-table {=0A=
+width: 440px !important;=0A=
+padding: 0 !important;=0A=
+}=0A=
+.group-element {=0A=
+width: 100% !important;=0A=
+}=0A=
+.multicolumnBlockTd {=0A=
+padding: 0 !important=0A=
+}=0A=
+.emailEditorBlockTable-multiColumn {=0A=
+width: 440px !important;=0A=
+padding: 0 !important;=0A=
+}=0A=
+.group-element .emailEditorBlockTable-multiColumn {=0A=
+width: 100%=0A=
+}=0A=
+.mobile-table {=0A=
+float: none !important;=0A=
+}=0A=
+.button {=0A=
+padding-bottom: 25px !important=0A=
+}=0A=
+.emailCenteringTable {=0A=
+width: 100% !important;=0A=
+}=0A=
+.emailWrapperTable {=0A=
+width: 100% !important;=0A=
+}=0A=
+.emailEditorBlockTable {=0A=
+width: 100% !important;=0A=
+}=0A=
+.emailImg {=0A=
+width: 100% !important;=0A=
+height: auto !important=0A=
+}=0A=
+div {=0A=
+width: 100% !important;=0A=
+}=0A=
+.image img {=0A=
+width: 40% !important;=0A=
+margin: 0 auto !important;=0A=
+}=0A=
+.image-noscale img {=0A=
+width: 100% !important;=0A=
+margin: 0 auto !important;=0A=
+}=0A=
+.sas-logo img {=0A=
+width: 30% !important;=0A=
+margin: 0 auto 20px !important;=0A=
+}=0A=
+.button .alignTD table {=0A=
+margin: 0 auto 25px !important;=0A=
+}=0A=
+.button .emailCustomBlockDiv {=0A=
+text-align: center !important;=0A=
+margin-bottom: 20px !important;=0A=
+}=0A=
+.legal-links td {=0A=
+display: block;=0A=
+text-align: center;=0A=
+width: 100%;=0A=
+}=0A=
+}=0A=
+@media only screen and (max-width:479px) {=0A=
+.emailEditorBlockTable {=0A=
+width: 280px !important;=0A=
+padding: 0 !important;=0A=
+}=0A=
+.mobile-table {=0A=
+width: 280px !important;=0A=
+padding: 0 !important;=0A=
+}=0A=
+.group-element {=0A=
+width: 100% !important;=0A=
+}=0A=
+.multicolumnBlockTd {=0A=
+padding: 0 !important=0A=
+}=0A=
+.emailEditorBlockTable-multiColumn {=0A=
+width: 280px !important;=0A=
+padding: 0 !important;=0A=
+}=0A=
+.group-element .emailEditorBlockTable-multiColumn {=0A=
+width: 100% !important;=0A=
+}=0A=
+.mobile-table {=0A=
+float: none !important;=0A=
+}=0A=
+.button {=0A=
+padding-bottom: 25px !important=0A=
+}=0A=
+.emailCenteringTable {=0A=
+width: 100% !important;=0A=
+}=0A=
+.emailWrapperTable {=0A=
+width: 100% !important;=0A=
+}=0A=
+.emailEditorBlockTable {=0A=
+width: 100% !important;=0A=
+}=0A=
+.emailImg {=0A=
+width: 100% !important;=0A=
+height: auto !important;=0A=
+}=0A=
+div {=0A=
+width: 100% !important;=0A=
+}=0A=
+.footer ul li {=0A=
+display: block !important;=0A=
+padding: 0 !important;=0A=
+text-indent: unset;=0A=
+}=0A=
+</style>=0A=
+    <title>Fair, transparent, explainable: Is your AI all three?</title>=0A=
+</head>=0A=
+<body>=0A=
+<div class=3D"emailPreviewText" style=3D"display: none; mso-hide: all; max-=
+height: 0px; overflow: hidden;">Episode 2 of Brewing Curiosity: Insurance U=
+nfiltered is almost here, and AI trust is on the table.=CD=8F =E2=80=8C &nb=
+sp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp;=
+ =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =
+=CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=
+=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F=
+ =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =
+=E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=
+=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=
+=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C=
+ &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &n=
+bsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp=
+; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =
+=CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=
+=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F=
+ =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =
+=E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=
+=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=8C &nbsp; =CD=8F =E2=80=
+=8C &nbsp; =CD=8F =E2=80=8C &nbsp; </div>=0A=
+<div>=0A=
+<table class=3D"emailCenteringTable" width=3D"100%" style=3D"border-collaps=
+e: collapse; border-spacing: 0; Margin-left: auto;Margin-right: auto; backg=
+round-color: #ffffff">=0A=
+<tbody><tr>=0A=
+<td>=0A=
+<center>=0A=
+<table class=3D"emailWrapperTable" width=3D"602" data-layout-background-col=
+or=3D"#ffffff" data-default-font-name=3D"Arial, Helvetica, sans-serif" data=
+-default-font-size=3D"16px" data-default-font-weight=3D"normal" data-defaul=
+t-font-style=3D"normal" data-default-font-underline=3D"none" data-default-t=
+ext-color=3D"#485365" data-default-text-alignment=3D"left" data-link-tracki=
+ng-count=3D"38" style=3D"border-collapse: collapse; border-spacing: 0; Marg=
+in-left: auto; Margin-right: auto;background-color: #ffffff">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td>=0A=
+<table class=3D"emailEditorBlockTable view-on-web" width=3D"600" data-block=
+-type=3D"viewonweb" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"table-layout: fixed; text-align: left; padding:0px 0px 0px 0px; mso-tab=
+le-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:=
+0;Margin:0px;" data-guid=3D"7287c98a-0886-452a-eca4-b12d59dca37b">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"textBlockTD anchorLinkBlock" bgcolor=3D"transparent" style=3D"=
+padding: 10px 30px 15px; border-collapse: collapse; border: 0px; margin: 0p=
+x; overflow-wrap: break-word; word-break: break-word; cursor: auto;" data-c=
+ss-classes=3D"view-on-web">=0A=
+<p style=3D"color:#50505A;font-family:Arial,Helvetica,sans-serif;font-size:=
+16px;font-style:normal;font-weight:normal;margin:0;text-align:center;"><spa=
+n style=3D"font-size:14px;">To view this email in your web browser, click <=
+/span><a href=3D"https://link.sas.com/f/a/Cmu4oGiPI8XfPC7ZKGmmuA~~/AAQRrxA~=
+/qfb-gRs8zIWCYTiRrsOWQk1yFF5P5eZs8I6sw2KESz7y2Pl89FkOm1AmjJBELFrA_TmT4Gr9vB=
+RxUs7wple__zjePX2eE9h78dM6sEdNLC2GF50A4mvTZTB-BVEoIfsjDGDphXsoNmzUQsiB1neN2=
+kKnbPAKaHRSm_07c1GZphEGzCzWKVrqjhJD-w1gH8mZeQQ8y46pq5KyHW-j-d0P6vEVdJyXSb9r=
+SPochL5GGDcEeaG7H_lx4PWzgDXpBAr8" target=3D"_blank" data-cke-saved-href=3D"=
+https://dsqjvx52uljvw.cloudfront.net/2/cisasusp/255394c9-9381-4047-a0db-bce=
+3ae043690.html" data-link-tracking-id=3D"21" data-link-tracking-label=3D"Vi=
+ew as a webpage" data-link-tracking-group=3D"View as a webpage" data-link-t=
+racking-enabled=3D"true"><span style=3D"font-size:14px;">here</span></a><sp=
+an style=3D"font-size:14px;">.</span></p>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+<table class=3D"emailEditorBlockTable multi-column two-column" width=3D"600=
+" data-block-type=3D"multicolumn" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"table-layout: fixed; text-align: left; Margin: 0px; border=
+-spacing: 0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspa=
+ce:0pt;" data-guid=3D"61e94d5f-d371-08ac-9e0b-0a59c7963915">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"multicolumnBlockTd" bgcolor=3D"transparent" align=3D"center" s=
+tyle=3D"height: 40px; word-wrap: break-word; padding-left: 30px; padding-ri=
+ght: 0px; padding-top: 0px; padding-bottom: 12px; mso-table-lspace:0pt;mso-=
+table-rspace:0pt;border-collapse:collapse;border:0px;Margin:0;" data-multi-=
+column-id=3D"id-081bf5e9-16dc-4410-836d-63afbac30134" data-num-columns=3D"2=
+" data-column-width=3D"270" data-column2-width=3D"270" data-bgcolor=3D"tran=
+sparent" data-css-classes=3D"two-column">=0A=
+<!-- =3D=3D=3D=3D=3D=3D=3D start columns =3D=3D=3D=3D=3D=3D=3D -->=0A=
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"270" style=3D"float:left;mso-table-lspace:0pt;mso-table-rspace:0pt;bor=
+der-collapse:collapse;border-spacing:0;border:0px;Margin:0px;" class=3D"mob=
+ile-table ">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td align=3D"center" class=3D"multiColumn1" valign=3D"top" style=3D"mso-tab=
+le-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border:0px;Marg=
+in:0;padding:0;"><!-- =3D=3D=3D=3D=3D=3D=3D start column 1 content =3D=3D=
+=3D=3D=3D=3D=3D -->=0A=
+<table class=3D"emailEditorBlockTable-multiColumn sas-logo" width=3D"270" d=
+ata-block-type=3D"image" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"table-layout: fixed; text-align: left; padding:0px 0px 0px 0px; mso=
+-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spac=
+ing:0;Margin:0px;" data-guid=3D"b7a7bfdc-ea17-4b34-6208-247f3a303364">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"imageBlockTd anchorLinkBlock" bgcolor=3D"transparent" data-has=
+-image=3D"true" data-image-border-style=3D"none" align=3D"left" style=3D"ov=
+erflow-wrap: break-word; padding: 0px; cursor: auto;" data-image-width=3D"8=
+5" data-multi-column-id=3D"id-081bf5e9-16dc-4410-836d-63afbac30134" data-mu=
+lti-column-num=3D"1" data-css-classes=3D"sas-logo" data-image-border-color=
+=3D"#000000" data-block-image-url=3D"https://dam.sas.com/AssetLink/3tpr3ycw=
+gfm32y82v7oy0xj4f6nec70g/sas-blue.png.png" data-block-image-source=3D"fromU=
+rl" data-block-image-asset-namedata-block-initial-height=3D"165" data-block=
+-initial-width=3D"400" data-block-alt-text=3D"SAS logo" data-bgcolor=3D"tra=
+nsparent" data-block-original-size=3D"400px x 165px" data-image-height=3D"3=
+5">=0A=
+<div class=3D"imageBlockDiv" style=3D"width: 85px;"><a class=3D"imageBlockA=
+nchor" target=3D"_blank"><img src=3D"https://dam.sas.com/AssetLink/3tpr3ycw=
+gfm32y82v7oy0xj4f6nec70g/sas-blue.png.png" alt=3D"SAS logo" style=3D"displa=
+y: block;" class=3D"emailImg" width=3D"85" data-load-error-image=3D"false">=
+</a></div>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table><!-- =3D=3D=3D=3D=3D=3D=3D end column 1 content =3D=3D=3D=3D=3D=3D=
+=3D -->=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"270" style=3D"float:left;mso-table-lspace:0pt;mso-table-rspace:0pt;bor=
+der-collapse:collapse;border-spacing:0;border:0px;Margin:0;" class=3D"mobil=
+e-table">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td align=3D"center" class=3D"multiColumn2" valign=3D"top" style=3D"mso-tab=
+le-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border:0px;Marg=
+in:0;padding:0;"><!-- =3D=3D=3D=3D=3D=3D=3D start column 2 content =3D=3D=
+=3D=3D=3D=3D=3D -->=0A=
+<table class=3D"emailEditorBlockTable-multiColumn button" width=3D"270" dat=
+a-block-type=3D"button" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"table-layout: fixed; text-align: left; padding:0px 0px 0px 0px; mso-=
+table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spaci=
+ng:0;Margin:0px;" data-guid=3D"fb805947-b50f-4ae9-29b0-4ece0319e53f">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"anchorLinkBlock" bgcolor=3D"transparent" data-button-alignment=
+=3D"right" data-vml-enabled=3D"true" style=3D"padding-left: 0px; padding-ri=
+ght: 0px; cursor: auto;" data-multi-column-id=3D"id-081bf5e9-16dc-4410-836d=
+-63afbac30134" data-multi-column-num=3D"2" data-css-classes=3D"button" data=
+-block-button-text=3D"Watch the Trailer =E2=96=B6" data-bgcolor=3D"transpar=
+ent" data-block-call-to-action=3D"https://www.sas.com/gms/redirect.jsp?deta=
+il=3DPLN71456_583336489&amp;C2P=3D20460547305626770490983079169980083070304=
+441D3590D36060">=0A=
+<table class=3D"buttonBlockTopSpaceTable" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"button_top_td" height=3D"0" width=3D"100%" style=3D"font-weigh=
+t: normal; font-size: 0px; line-height: 0px;">&nbsp;</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+<table class=3D"buttonBlockTable alignTable" width=3D"100%" border=3D"0" al=
+ign=3D"right" cellpadding=3D"0" cellspacing=3D"0">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"alignTD" align=3D"right">=0A=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=
+<tbody>=0A=
+<tr>=0A=
+<!--[if mso]><td class=3D"mso_button_td" align=3D"center" style=3D"display:=
+none;mso-hide:none;"><a href=3D"https://link.sas.com/f/a/Use_pddoL_KcXaaNgU=
+1lPw~~/AAQRrxA~/AsEsBv1AmAW_BwuBumo_3ThVCCvHLIzGg-xY4VDErCeqeES7cq09dSWeDu3=
+65PBfI5eAKKl7bE-BDIrk975uPU3yncD0TWeIU9XPwwz8_itr9cX9p8XCGlTm4OMJTd0-sbOleN=
+K5lfvzcPPDtZPq2-voMea81reciY212hsMRPRxUybsONhP3gmInjWpPuzyaJvVKi96MTZnUH4yh=
+EavLma_BzE75P1jmKTEDDKKQyifyEe_Nvzvqldb1UYxSGjP" ><v:roundrect xmlns:v=3D"u=
+rn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:w=
+ord" href=3D"https://link.sas.com/f/a/5JknZGPtEY5M95KOqFbeHg~~/AAQRrxA~/Ufh=
+QcDjFjgTFi44VkqFqbUV5S8-r8Y7iEIGgcdXFCqir8Va-R-Vlivszr0H1qcsn0swT7hbMhyuSvQ=
+Eb47Fn3J948Z4BCTQqJtxlMz-9uy3fKVIYLNDH3nU1F7MHNhAKNNwkkQBvD5I86fQbxBJd3PrvV=
+bi50M_IxIIRFf1X2Mh1t4XtJz50UPxFFZLRViw_pYp4fZSiSy_f37qsnxgEWUVhxpwLDIAIWRyf=
+1E99QMepqENgklLsuSSDgpTcj9Cf" style=3D"height:40px;v-text-anchor:middle;wid=
+th:182px;" arcsize=3D"25%" strokecolor=3D"#0766D1" fillcolor=3D"#0766D1"> <=
+w:anchorlock/><center style=3D"color:#FFFFFF; font-family:Arial, Helvetica,=
+ sans-serif; font-size:16px; font-weight:normal; display:none;mso-hide:none=
+;">Watch the Trailer =E2=96=B6</center></v:roundrect></a></td><![endif]-->=
+=0A=
+<!--[if !mso]><!-- -->=0A=
+<td class=3D"button_td" align=3D"center" bgcolor=3D"#0766D1" style=3D"mso-h=
+ide:all;-moz-border-radius:15px; -webkit-border-radius:15px; border-radius:=
+15px;" data-font-family=3D"Arial, Helvetica, sans-serif" data-font-size=3D"=
+16px" data-font-weight=3D"normal" data-font-color=3D"#FFFFFF"><a class=3D"b=
+utton_link" data-button-min-width=3D"180px" data-border-style=3D"none" targ=
+et=3D"_blank" style=3D"padding: 10px; width: 160px; display: block; text-de=
+coration: none; text-align: center; overflow-wrap: break-word; font-weight:=
+ normal; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color:=
+ rgb(255, 255, 255); background-color: rgb(7, 102, 209); border: 1px solid =
+rgb(7, 102, 209); line-height: 18px; letter-spacing: normal; font-style: no=
+rmal; border-radius: 15px;mso-hide:all;" href=3D"https://link.sas.com/f/a/y=
+a0Cu_bLqS6FQDg_uhAONQ~~/AAQRrxA~/_MpyhdeAUx8FIKf9fomuOoiy8Iw0Oqi8UOBqkmJFn1=
+bVm0a058EbUADIJsJVlcwZGjEvUnXCVYbMd6N_kCnW5DvkdCw6jk0DeoFGDRTdnzxmRrINuqsPk=
+2exGuwD7tqp9_o8XW8ie13X_lSMR6ZNu5uEOxBL4vuLLAUEIa6KvszNljOlRxawZQPnhNL35cFB=
+iW8wQNTCb9dgMZ-nkv-rVupRrkVv-bxTVb4eQlvCiFgIxhofBuDwRq4xi-B8rXpYfvha50WtBv5=
+ofzHY7en8Ew~~" data-link-tracking-id=3D"34" data-link-tracking-label=3D"top=
+_btn" data-link-tracking-group=3D"CTA" data-link-tracking-enabled=3D"true">=
+Watch the Trailer =E2=96=B6</a></td>=0A=
+<!--<![endif]-->=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+<table class=3D"buttonBlockBottomSpaceTable" width=3D"100%" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"button_bottom_td" height=3D"0" width=3D"100%" style=3D"font-si=
+ze: 0px; line-height: 0px;">&nbsp;</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table><!-- =3D=3D=3D=3D=3D=3D=3D end column 2 content =3D=3D=3D=3D=3D=3D=
+=3D -->=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table> <!-- =3D=3D=3D=3D=3D=3D=3D end columns =3D=3D=3D=3D=3D=3D=3D -->=
+=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+<table class=3D"emailEditorBlockTable image-noscale" width=3D"600" data-blo=
+ck-type=3D"image" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"table-layout: fixed; text-align: left; padding:0px 0px 0px 0px; mso-table-=
+lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0;M=
+argin:0px;" data-guid=3D"bbb365dc-bd78-f39e-3061-ae6d8c8f6603">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"imageBlockTd anchorLinkBlock" bgcolor=3D"transparent" data-has=
+-image=3D"true" data-image-border-style=3D"none" align=3D"center" style=3D"=
+overflow-wrap: break-word; padding: 0px; cursor: auto;" data-image-width=3D=
+"600" data-css-classes=3D"image-noscale" data-image-border-color=3D"#000000=
+" data-block-image-url=3D"https://dam-cdn.sas.orangelogic.com/AssetLink/472=
+y0b50rb5shl703x17g1f182237u61/blue-half-circles-dots-circles-line.jpg.jpg" =
+data-block-image-source=3D"fromUrl" data-block-image-asset-namedata-block-i=
+nitial-height=3D"300" data-block-initial-width=3D"1200" data-bgcolor=3D"tra=
+nsparent" data-block-original-size=3D"1200px x 300px" data-image-height=3D"=
+150" data-block-alt-text=3D"blue dots moving through connected shapes" data=
+-block-call-to-action=3D"https://www.sas.com/gms/redirect.jsp?detail=3DPLN7=
+1456_583336489&amp;C2P=3D20460547305626770490983079169980083070304441D3590D=
+36060">=0A=
+<div class=3D"imageBlockDiv" style=3D"width: 600px;"><a class=3D"imageBlock=
+Anchor" target=3D"_blank" href=3D"https://link.sas.com/f/a/3qq-80pfo0wadCzt=
+_0pJhQ~~/AAQRrxA~/NXMcvxLNOucjwQD5OQ3-I2-_NBilMKUIXe7f8w7d43Om9CofFaiCaGWOp=
+EAA_XA5LQ7mOUlzdboaoWo9Yyjesb_-5etPpEg22Uei3VmtUTzYc9cNrF1C66kWawVzlUOCilVc=
+waO0olPpxYIt1lq9hDHRgKtMqm7CuFINIBiZoP_fsY4aJLebEo7Xc5FGACjAydFAG1VTQrKrcMD=
+hHXsqswP4_l7z-3GcwBjlYg6lIxY7yIj3ge0N2QEgpK5h6pw1tOoLYmM9Vm6ykPFQNmIGCA~~" =
+data-link-tracking-id=3D"35" data-link-tracking-label=3D"banner" data-link-=
+tracking-group=3D"CTA" data-link-tracking-enabled=3D"true"><img src=3D"http=
+s://dam-cdn.sas.orangelogic.com/AssetLink/472y0b50rb5shl703x17g1f182237u61/=
+blue-half-circles-dots-circles-line.jpg.jpg" alt=3D"blue dots moving throug=
+h connected shapes" style=3D"display: block;" class=3D"emailImg" width=3D"6=
+00" data-load-error-image=3D"false"></a></div>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+<table class=3D"emailEditorBlockTable text" width=3D"600" data-block-type=
+=3D"text" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"table-l=
+ayout: fixed; text-align: left; padding:0px 0px 0px 0px; mso-table-lspace:0=
+pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0;Margin:0p=
+x;" data-guid=3D"d8018b75-6ce6-6bf1-0f49-5f7729a84a94">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"textBlockTD anchorLinkBlock" bgcolor=3D"transparent" style=3D"=
+padding: 10px 30px 0px; border-collapse: collapse; border: 0px; margin: 0px=
+; overflow-wrap: break-word; word-break: keep-all; cursor: auto;" data-css-=
+classes=3D"text" data-bgcolor=3D"transparent">=0A=
+<h4 style=3D"text-align:center;"><span style=3D"color:#485365;font-family:A=
+rial, Helvetica, sans-serif;font-size:20px;"><span style=3D"margin:0px;text=
+-align:left;">The Trust Gap: Can Insurers Really Trust Their AI?</span></sp=
+an></h4>=0A=
+<p style=3D"margin-left:0;text-align:center;"><span style=3D"color:#485365;=
+font-family:Arial, Helvetica, sans-serif;font-size:16px;"><span style=3D"ma=
+rgin:0px;text-align:left;"><strong>Brewing Curiosity: Insurance Unfiltered =
+=E2=80=93 Episode 2 Preview</strong></span></span></p>=0A=
+<p><span style=3D"color:#485365;font-family:Arial, Helvetica, sans-serif;fo=
+nt-size:16px;"><i><span style=3D"margin:0;text-align:left;"><strong>Brewing=
+ Curiosity: Insurance Unfiltered</strong></span></i><span style=3D"margin:0=
+;text-align:left;"> is back, and this episode gets into something every ins=
+urer is quietly wrestling with. Episode 2 takes an honest look at fairness =
+and transparency in underwriting, pricing and claims models. Because buildi=
+ng AI that works is one thing. Building AI you can explain, govern and stan=
+d behind is another entirely.</span></span><br><br><span style=3D"color:#48=
+5365;font-family:Arial, Helvetica, sans-serif;font-size:16px;">Drawing on i=
+nsights from the IDC Trust Imperative report, Franklin Manchester is joined=
+ by Kristi Boyd and Dr. Iain Brown to explore what it takes to develop AI s=
+ystems insurers can trust =E2=80=93 and scale =E2=80=93 with confidence.</s=
+pan></p>=0A=
+<p><span style=3D"color:#485365;font-family:Arial, Helvetica, sans-serif;fo=
+nt-size:16px;"><strong>Early reaction to the series says it all:</strong></=
+span><br><span style=3D"color:#485365;font-family:Arial, Helvetica, sans-se=
+rif;font-size:16px;">&quot;The idea of <i>Insurance Unfiltered</i> really s=
+tood out =E2=80=93 it made the conversation feel honest and grounded, rathe=
+r than overly polished.&quot;</span></p>=0A=
+<p><span style=3D"color:#485365;font-family:Arial, Helvetica, sans-serif;fo=
+nt-size:16px;">Watch the trailer below for a taste of what's ahead.</span><=
+/p>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+<table class=3D"emailEditorBlockTable image-noscale" width=3D"600" data-blo=
+ck-type=3D"image" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"table-layout: fixed; text-align: left; padding:0px 0px 0px 0px; mso-table-=
+lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0;M=
+argin:0px;" data-guid=3D"63c3ff1d-6b1b-74f1-b345-fd18f658065c">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"imageBlockTd anchorLinkBlock" data-has-image=3D"true" data-ima=
+ge-border-style=3D"none" align=3D"center" style=3D"overflow-wrap: break-wor=
+d; background-color: transparent; padding: 10px 0px;" data-image-width=3D"6=
+00" data-css-classes=3D"image-noscale" data-block-image-source=3D"fromUrl" =
+data-block-image-url=3D"https://dam-cdn.sas.orangelogic.com/AssetLink/k41t5=
+28m87a5wn30p73kd3jh245f2vdu/insurance-ep2-play.png.jpg" data-block-image-as=
+set-namedata-block-initial-width=3D"1200" data-image-height=3D"337" data-bl=
+ock-initial-height=3D"675" data-block-original-size=3D"1200px x 675px" data=
+-block-alt-text=3D"Brewing Curiosity: Insurance Unfiltered Episode 2" data-=
+block-call-to-action=3D"https://www.sas.com/gms/redirect.jsp?detail=3DPLN71=
+456_583336489&amp;C2P=3D20460547305626770490983079169980083070304441D3590D3=
+6060">=0A=
+<div class=3D"imageBlockDiv" style=3D"border: 3px rgb(0, 0, 0); width: 600p=
+x;"><a class=3D"imageBlockAnchor" target=3D"_blank" href=3D"https://link.sa=
+s.com/f/a/jciv37a_vKU2KJBnOS82RA~~/AAQRrxA~/dwTiOF0dLGtXL1fSvv49kThxi12KnJF=
+_-NcHh3V4ryrQWb85n2vkaqb3qcz2lw_I6vwuztcGamDcqQA9h8qAjbDBg7HiBJWgbYMHQgD0aF=
+kejHXfV2EgXzgwdPhCzGZCbm6Gqo0R392UE6_lb0R8NojgwSfu-NZHxYTjWWSPyQsYADPMqhsM_=
+1KPeaT2qcnDGONGJg1RnzxxkUMMmKYJd37mXqeNXAHfWq_tKdxsGD9ynOjvCuj691WZUxJqRz7l=
+9erhdhwCCchW9Btys9cUag~~" data-link-tracking-id=3D"37" data-link-tracking-l=
+abel=3D"clip" data-link-tracking-group=3D"CTA" data-link-tracking-enabled=
+=3D"true"><img src=3D"https://dam-cdn.sas.orangelogic.com/AssetLink/k41t528=
+m87a5wn30p73kd3jh245f2vdu/insurance-ep2-play.png.jpg" class=3D"imageBlockZe=
+roImg emailImg" style=3D"vertical-align: bottom; display: block; height: au=
+to;" alt=3D"Brewing Curiosity: Insurance Unfiltered Episode 2" width=3D"600=
+" data-load-error-image=3D"false"></a></div>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+<table class=3D"emailEditorBlockTable text" width=3D"600" data-block-type=
+=3D"text" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"table-l=
+ayout: fixed; text-align: left; padding:0px 0px 0px 0px; mso-table-lspace:0=
+pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0;Margin:0p=
+x;" data-guid=3D"273eb7f0-53ba-a39a-777d-f696fc1622af">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"textBlockTD anchorLinkBlock" style=3D"padding-top: 10px; paddi=
+ng-bottom: 10px; padding-left: 30px; padding-right:30px; mso-table-lspace:0=
+pt; mso-table-rspace:0pt; border-collapse:collapse; border:0px; Margin:0; b=
+ackground-color:transparent; overflow-wrap: break-word; word-break: keep-al=
+l; cursor: auto; font-family: Arial, Helvetica, sans-serif; text-align: lef=
+t;" data-css-classes=3D"text">=0A=
+<p style=3D"color:#485365;font-family:Arial, Helvetica, sans-serif;font-siz=
+e:16px;margin:0;text-align:left;" data-placeholder=3D"Enter text"><span sty=
+le=3D"color:#485365;font-family:Arial, Helvetica, sans-serif;font-size:16px=
+;"><span style=3D"margin:0;text-align:left;">=E2=80=8B</span>The full episo=
+de drops next week. We=E2=80=99ll save you a seat.</span></p>=0A=
+<p><span style=3D"color:#485365;font-family:Arial, Helvetica, sans-serif;fo=
+nt-size:16px;">Can't view it on YouTube? Watch it on </span><a class=3D"ck-=
+link_selected" href=3D"https://link.sas.com/f/a/L9oBdFs_AGpb6Fvpa-MbZQ~~/AA=
+QRrxA~/w8GMIWxAv562JBUBOxkDiGb2IHsxvNKYp4E0CF-dg8GUhq-lBabzVdiSKpK4lZHdVq-f=
+OgqKwsJb9poDzlij-Vct5GYWk10hN6YJnNB7ccnXDTlocVeHZne1hLcaa0CzAl-oJm6oq6TTEbs=
+mlunmxMYolSQ8ODuhF6md38dhUcteoFcTpNe9IRFo2ENgRNfZpfiuMHbXmmDUlqsAqqOduJmtGq=
+XISrJtlHYFYOEn383E46kaHP0W73JUl2kqDz00gkzFXiZJ3_VONhhORRi5Jg~~" target=3D"_=
+blank" data-link-tracking-id=3D"38" data-link-tracking-label=3D"body_txt" d=
+ata-link-tracking-group=3D"sas_video" data-link-tracking-enabled=3D"true">s=
+as.com</a><span style=3D"color:#485365;font-family:Arial, Helvetica, sans-s=
+erif;font-size:16px;">.</span></p>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+<table class=3D"emailEditorBlockTable horizontal-line" width=3D"600" data-b=
+lock-type=3D"line" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"table-layout: fixed; text-align: left; padding:0px 0px 0px 0px; mso-tab=
+le-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:=
+0;Margin:0px;" data-guid=3D"a1229a64-b2ba-5c3e-e5ca-4fecf2b6334b">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"lineBlockTd" bgcolor=3D"transparent" data-line-width-pct=3D"60=
+" data-line-border-style=3D"none" style=3D"overflow-wrap: break-word; min-w=
+idth: 100%; padding: 12px 30px; cursor: auto;" data-css-classes=3D"horizont=
+al-line" data-bgcolor=3D"transparent">=0A=
+<table class=3D"divider_content" height=3D"0px" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"60%" align=3D"center" style=3D"border-collap=
+se: collapse; table-layout: fixed; border-spacing: 0px; vertical-align: top=
+; border-top: 1px solid rgb(175, 186, 205);">=0A=
+<tbody>=0A=
+<tr style=3D"vertical-align: top">=0A=
+<td style=3D" word-break: break-word;border-collapse: collapse !important;v=
+ertical-align: top; font-size: 0px;line-height: 0px;mso-line-height-rule: e=
+xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">&nbsp;</t=
+d>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+<table class=3D"emailEditorBlockTable custom-block" width=3D"600" data-bloc=
+k-type=3D"custom" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"table-layout: fixed; text-align: left; padding:0px 0px 0px 0px; mso-table-=
+lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0;M=
+argin:0px;" data-guid=3D"94625f69-2018-0137-ead7-d6bd26fad1d8">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"contentBlockTd" bgcolor=3D"transparent" align=3D"center" style=
+=3D"padding: 0px 30px; overflow-wrap: break-word; cursor: auto;" data-block=
+-file-name=3D"social-table.html" data-block-file-source=3D"fromFile" data-c=
+ss-classes=3D"custom-block">=0A=
+<div class=3D"emailCustomBlockDiv" style=3D"border:3px none rgb(0,0,0);posi=
+tion:relative;display:block;overflow:hidden;min-height:0px;" data-custom-el=
+ement-height=3D"0px" data-custom-element-width=3D"534px">=0A=
+<table cellpadding=3D"5" class=3D"social" style=3D"margin:15px 0 25px;">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td><a target=3D"_blank" href=3D"https://link.sas.com/f/a/mFpJmHsKNw3O_EcIJ=
+O2x-Q~~/AAQRrxA~/FjL-bE_cbxWmbn9R0mjCfZciwHELsApiQ9cxWU4W9pMflw6jRq3QolpaD2=
+rSINzHNe38yJNWzp94NUsv6NCXee-zroN7mRKBdmkur1OlIG3KKPLDxqyBgReA6c_3Hv5_dvLVC=
+xObHNxB5lLS4bFTUCSDwdlQOsvPPvXzV-BmQY8~" data-link-tracking-label=3D"Facebo=
+ok" data-link-tracking-group=3D"Social" data-link-tracking-enabled=3D"true"=
+ data-link-tracking-id=3D"1"><img src=3D"https://content.mktg.sas.com/tngci=
+sasusp/2/b4a51086-f12b-4494-8fa0-220e796fe1e1" alt=3D"Facebook" border=3D"0=
+" width=3D"24" height=3D"24" style=3D"display:block;border:none;outline:non=
+e;text-decoration:none;"></a></td>=0A=
+<td><a target=3D"_blank" href=3D"https://link.sas.com/f/a/aIbfnOC6fxehf9cnS=
+FI38g~~/AAQRrxA~/XxvqYhMSi0clHmpcZrDtPJ2X7zX28TkLFVQhyooHFksEXY1vexCz5cf-wN=
+xB7s9Ski7Os7L9wj-Wzq3MQKAlzfQKLdZtOpWZopQ7AdbxnjXEkgI1T7vuTAPQ4AaT66dL7fg7_=
+XERvQgBdUOTGDb88Q~~" data-link-tracking-label=3D"Twitter" data-link-trackin=
+g-group=3D"Social" data-link-tracking-enabled=3D"true" data-link-tracking-i=
+d=3D"2"><img src=3D"https://content.mktg.sas.com/tngcisasusp/2/316ce08a-388=
+5-4ff0-9178-6c82d8ac0912" alt=3D"X" border=3D"0" width=3D"24" height=3D"24"=
+ style=3D"display:block;border:none;outline:none;text-decoration:none;"></a=
+></td>=0A=
+<td><a target=3D"_blank" href=3D"https://link.sas.com/f/a/vZwxc0bMNToJjpFMk=
+pN2Yw~~/AAQRrxA~/VJG0r0n_cwh-1kuK5Zr09or2M6WycjkX-V7v_KvPwybR5WgfphG1BxcmVj=
+GgZ0PSd_9go9zS0AHJa9xGfi3T1bkrf8LZ2QXf-7_WJEZvf6MVNR0KiR8VSob9n8dYSzmzyIfZK=
+2xlyZUO3aH_sB5bwaN4iuhBp3SdhjYiHqtIS-0~" data-link-tracking-label=3D"Linked=
+In" data-link-tracking-group=3D"Social" data-link-tracking-enabled=3D"true"=
+ data-link-tracking-id=3D"3"><img src=3D"https://content.mktg.sas.com/tngci=
+sasusp/2/41787468-7963-4353-83ad-ab29b6433bc7" alt=3D"LinkedIn" border=3D"0=
+" width=3D"24" height=3D"24" style=3D"display:block;border:none;outline:non=
+e;text-decoration:none;"></a></td>=0A=
+<td><a target=3D"_blank" href=3D"https://link.sas.com/f/a/7WL3GNVx7glMQ0acU=
+Im1Gw~~/AAQRrxA~/coVkEvAXVFVfIUXHK2DhmEue2E_YbX05kMzHIugF5xa2SJroYJ_TtD8WyL=
+FNCjhr8E2kkC7DbRO0muQSLZ8IcdrmSkRSgo2uutgo65KkkpbvcfMEQIBIw8BIm5l1Un1jUGJBm=
+a4wIhVrD3icupHhug~~" data-link-tracking-label=3D"Communities" data-link-tra=
+cking-group=3D"Social" data-link-tracking-enabled=3D"true" data-link-tracki=
+ng-id=3D"4"><img src=3D"https://content.mktg.sas.com/tngcisasusp/2/8cac1790=
+-bc74-43b8-be35-0d512cb4c1b8" alt=3D"SAS Blog" border=3D"0" width=3D"24" he=
+ight=3D"24" style=3D"display:block;border:none;outline:none;text-decoration=
+:none;"></a></td>=0A=
+<td><a target=3D"_blank" href=3D"https://link.sas.com/f/a/daeifs4fxDVPGjY5G=
+EljdA~~/AAQRrxA~/2pMnoUMp87nb7icgeXHQbB4keD9BikB7HgDdJ_tpdZhQjeVIlEmVT8BXWp=
+r3WCahKOVo1-yip87nTdtiM0trEueLTCO3rylpqriAJ4iaPFzcYch70UCvxjFRh_lbT20YrwFnT=
+rWgnDpP1N4Mxavt6055-3YMcdp83v5GPD2Ea7Y~" data-link-tracking-label=3D"YouTub=
+e" data-link-tracking-group=3D"Social" data-link-tracking-enabled=3D"true" =
+data-link-tracking-id=3D"5"><img src=3D"https://content.mktg.sas.com/tngcis=
+asusp/2/3f0d03a3-2ea4-4d66-acf7-cd60dc918552" alt=3D"YouTube" border=3D"0" =
+width=3D"24" height=3D"24" style=3D"display:block;border:none;outline:none;=
+text-decoration:none;"></a></td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+</div>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+<table class=3D"emailEditorBlockTable footer" width=3D"600" data-block-type=
+=3D"text" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"table-l=
+ayout: fixed; text-align: left; padding:0px 0px 0px 0px; mso-table-lspace:0=
+pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0;Margin:0p=
+x;" data-guid=3D"c7d85417-c76a-324c-68d8-1ed0e4af1096">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"textBlockTD anchorLinkBlock" bgcolor=3D"transparent" style=3D"=
+padding: 0px 30px 10px; border-collapse: collapse; border: 0px; margin: 0px=
+; overflow-wrap: break-word; word-break: break-word; cursor: auto;" data-cs=
+s-classes=3D"footer">=0A=
+<p style=3D"color:rgb(0,0,0);font-family:Arial,Helvetica,sans-serif;font-si=
+ze:16px;font-weight:normal;margin:0px;text-align:center;text-decoration:non=
+e;"><span style=3D"color:#50505a;font-size:14px;">This email was sent to yo=
+ujin0404@hanwha.com.</span><span style=3D"font-size:14px;"><span style=3D"f=
+ont-family:Arial,Helvetica,sans-serif;line-height:normal;">=E2=80=8B=E2=80=
+=8B=E2=80=8B=E2=80=8B=E2=80=8B=E2=80=8B</span></span></p>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+<table class=3D"emailEditorBlockTable dynamic-asset" width=3D"600" data-blo=
+ck-type=3D"dynamicasset" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"table-layout: fixed; text-align: left; padding:0px 0px 0px 0px; mso=
+-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spac=
+ing:0;Margin:0px;" data-guid=3D"61daa88f-2672-a9eb-40cb-220e4e32d851">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"contentBlockTd" align=3D"center" style=3D"padding: 0px; word-w=
+rap: break-word; background-color: transparent;" data-block-asset-id=3D"888=
+47316-498a-48ac-b87f-70c620189f8c" data-block-asset-name=3D"NHIFooter" data=
+-block-counter=3D"1">=0A=
+<div class=3D"emailDynamicAssetBlockDiv" style=3D"border: 3px none #000000;=
+ display: block; overflow: hidden; position: relative;">=0A=
+<div><table width=3D"100%" cellpadding=3D"5" style=3D"font-size:14px;" clas=
+s=3D"legal-links">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td align=3D"center"><a target=3D"_blank" href=3D"https://link.sas.com/f/a/=
+-C7i7hwuaOhrDnYMPyn-zg~~/AAQRrxA~/rEEv_J9OB0pU0E8wiWhLDp70nmdrwh72oZKfBVUNs=
+jp3yjVK7WwdEekvijnxX2yh1Dk2oukX4-SYbyChBLkuLWpQhVkBZCYYXWcH84VfuM97Sbdq03vI=
+hkNJHh07lSzT2l3VqKJuUMsk0H7loW4tp_SVZUjZ9QQtVgkGky18VEU~" data-link-trackin=
+g-label=3D"Edit_SAS_Email" data-link-tracking-group=3D"Footer" data-link-tr=
+acking-enabled=3D"true" data-link-tracking-id=3D"1025">Edit SAS Profile</a>=
+</td>=0A=
+<td align=3D"center"><a target=3D"_blank" href=3D"https://link.sas.com/f/a/=
+0MsdGrKd9OhcrxJCHN9udg~~/AAQRrxA~/oPXjZL5n4emTttOM9972FaKBmbSo1_zn30B3EcZk5=
+Wrj42_RVgj7t-mYq6_YSKunUB3_vjaALrEo1MM31gGXMbfNC3aDFBDRfhJhOtekhU0j2GbXbERI=
+4v2WtFVWnteh2Vk0KbV88BCcnoPpuiCcOg~~" data-link-tracking-label=3D"Opt_Out" =
+data-link-tracking-group=3D"Footer" data-link-tracking-enabled=3D"true" dat=
+a-link-tracking-id=3D"1026">Opt Out</a></td>=0A=
+<td align=3D"center"><a target=3D"_blank" href=3D"https://link.sas.com/f/a/=
+Vh0uPzFWXIckdV2VQnsU-g~~/AAQRrxA~/Pico0Y6G9GVdjNwCB454OVIo6_2ofjxZuB9tu8LKt=
+ppcrqM4GGYZ4lqXH87XzjOD5yv6pqniVpw67-GI7wrhGh49k--EHqkuO8DenIQ2iK2HFWXhbm4J=
+b1JwCGkyuNgiwDDAEPlVDPnxK2T4AF25YRP6BKI6rHDuIVRK4bBdOVs~" data-link-trackin=
+g-label=3D"SAS_Privacy_Policy" data-link-tracking-group=3D"Footer" data-lin=
+k-tracking-enabled=3D"true" data-link-tracking-id=3D"1027">SAS Privacy Stat=
+ement</a><a target=3D"_blank" href=3D"https://link.sas.com/f/a/yoAU0n5oBqge=
+S22wEClV2A~~/AAQRrxA~/sMmD7LWCBShVUm9J_a_2O4as8tgqiBFGCzxD35icg0cF7eeOv3IRW=
+gw4uJ6oylhchS446aIYvChOxI2XCsg1ldEiBHjQvgeXqcCg_W5zGVRyw1xVpxv5T1qDJ-Xkh8Kj=
+ywSE6EEaQa9NlZf6vaVHlE0Y0O1u4adKyEv6_UalBHeI3o-s7w9AKFlNoWZvrZpf" data-link=
+-tracking-label=3D"lowpro" data-link-tracking-group=3D"Footer" data-link-tr=
+acking-enabled=3D"true" data-link-tracking-id=3D"1028" style=3D"text-decora=
+tion:none;">&nbsp;</a></td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table></div>=0A=
+</div>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+<table class=3D"emailEditorBlockTable dynamic-asset" width=3D"600" data-blo=
+ck-type=3D"dynamicasset" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"table-layout: fixed; text-align: left; padding:0px 0px 0px 0px; mso=
+-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spac=
+ing:0;Margin:0px;" data-guid=3D"b61332e0-4a3f-82c7-3fab-b9874f313e75">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td class=3D"contentBlockTd" align=3D"center" style=3D"padding: 0px; word-w=
+rap: break-word; background-color: transparent;" data-block-asset-id=3D"632=
+adeca-d27c-4d14-a893-264711f15e27" data-block-asset-name=3D"footeraddress" =
+data-block-counter=3D"2">=0A=
+<div class=3D"emailDynamicAssetBlockDiv" style=3D"border: 3px none #000000;=
+ display: block; overflow: hidden; position: relative;">=0A=
+<div>=0A=
+<table width=3D"100%" cellpadding=3D"5" class=3D"legal-links" style=3D"font=
+-size:14px;">=0A=
+<tbody>=0A=
+<tr>=0A=
+<td align=3D"center">=C2=A9 SAS Institute Inc. SAS Campus Drive, Cary NC 27=
+513 USA.</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table></div>=0A=
+</div>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody>=0A=
+</table>=0A=
+</center>=0A=
+</td>=0A=
+</tr>=0A=
+</tbody></table>=0A=
+</div>=0A=
+<!--SASLayoutManager-->
+<img border=3D"0" width=3D"1" height=3D"1" alt=3D"" src=3D"https://link.sas=
+.com/q/jKfYdJ4du9LbNWtK7_tHdQ~~/AAQRrxA~/oIfpBj1YysrU0zfJ_J0Y7tKKOmI0PA5JNr=
+HDJY2EyBAQXkJTmTkFJuDuKlI8V8e4YueebUX-6VB6iI0DHjJQvQ~~">
+</body>=0A=
+</html>=
+
+--_----lNZN3Zqod+QZvhFP7DScoQ===_7B/C2-03769-D230B0A6--

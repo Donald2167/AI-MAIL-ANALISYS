@@ -1,0 +1,238 @@
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17 via Mailbox Transport; Wed, 6 May 2026 17:00:30 +0900
+Received: from HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) by
+ HSNC-EX02P.hsnc.hanwha.com (172.20.150.42) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.17; Wed, 6 May 2026 17:00:30 +0900
+Received: from spam.hanwha.com (121.168.9.110) by HSNC-EX02P.hsnc.hanwha.com
+ (172.20.150.42) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.2562.17 via Frontend
+ Transport; Wed, 6 May 2026 17:00:30 +0900
+X-Original-SPF: pass (121.168.9.110: SPF record at amazonses.com designates 54.240.27.58 as permitted sender)
+Authentication-Results: spam.hanwha.com;
+	dkim=pass (2048-bit key) header.d=inflearn.com header.i=@inflearn.com header.b=6L1Mw5BT;
+	spf=pass (121.168.9.110: SPF record at amazonses.com designates 54.240.27.58 as permitted sender) smtp.mailfrom=0101019dfc4d0cd1-a96bfd43-31b4-4988-8d08-14c66006783d-000000@us-west-2.ses.inflearn.com
+Received: from unknown (HELO a27-58.smtp-out.us-west-2.amazonses.com) (54.240.27.58)
+	by 121.168.9.110 with ESMTP; 6 May 2026 17:00:02 +0900
+X-Original-SENDERIP: 54.240.27.58
+X-Original-SENDERCOUNTRY: US, United States
+X-Original-MAILFROM: 0101019dfc4d0cd1-a96bfd43-31b4-4988-8d08-14c66006783d-000000@us-west-2.ses.inflearn.com
+X-Original-RCPTTO: youjin0404@hanwha.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=chgkgp4mwos3gcfiby4jynzugr74jt3c; d=inflearn.com; t=1778054401;
+	h=From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date;
+	bh=KDD/WpDlLeMtP33e2LPVCBfRkepNiUkopXDaXeLhfu8=;
+	b=6L1Mw5BTDYJSGQryG/JyBERChPoToPYRXJtgPY5WyqH8q2qDlEpemqNYq+LSNGPx
+	JnGhpWcR2XMtNDIb7BFN4havLDr5z1F+JCZQB/H7SpawZIiWzpsStFrjjCMB+s/gGAs
+	vFvDkDsul8TdFvqvffjutLo4Re1pLgwCEAEvNZd8sDV2xNO+KX7A+C/AdoTr9lfAt/M
+	VEOkworJJXY2s1VvXdX7Pzw7/IsADQTSFcbYWquIVufdWOuGESE7CdwrAGAdn4DEWO/
+	0ibxqVgFhXzVV6TdAG6WE3R4EhLEdG7RdvWObJnVWtrXozKPcKDrQXe4xXNTzq+Mv2R
+	OCBSd9XvUQ==
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=hsbnp7p3ensaochzwyq5wwmceodymuwv; d=amazonses.com; t=1778054401;
+	h=From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date:Feedback-ID;
+	bh=KDD/WpDlLeMtP33e2LPVCBfRkepNiUkopXDaXeLhfu8=;
+	b=h6hQ9xVxn/ET93UqhINCrlICu0NTmAMiCmWUT682BwjY+DfPKyPUuIyGB9itP4jg
+	JkrPzTBCyTMRtVEyyfSINtDcACFnplpH78tmkvM62bblQiCdrZRE0YxR2KPMQy3wbZ/
+	oimJ4udieE2xM9hihvYWBc20kIDS4ea/xSYVW60o=
+From: =?utf-8?B?7J247ZSE65+wIO2VmeyKtSDshozsi50=?= <study@inflearn.com>
+To: youjin0404@hanwha.com
+Subject: =?UTF-8?B?W+yduO2UhOufsF0g7KeA7Iud6rO17Jyg7J6QIEpTQ09E?=
+ =?UTF-8?B?ReuLmOydtCDsg4jshozsi53snYQg65Ox66Gd7ZaI7Ja07JqULvCfk6s=?=
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <0101019dfc4d0cd1-a96bfd43-31b4-4988-8d08-14c66006783d-000000@us-west-2.amazonses.com>
+Date: Wed, 6 May 2026 08:00:01 +0000
+Feedback-ID: ::1.us-west-2.X3288MAbiovRzErLfKoDsW798hX5VjP3yUurcBlPehM=:AmazonSES
+X-SES-Outgoing: 2026.05.06-54.240.27.58
+Return-Path: 0101019dfc4d0cd1-a96bfd43-31b4-4988-8d08-14c66006783d-000000@us-west-2.ses.inflearn.com
+X-MS-Exchange-Organization-Network-Message-Id: 952af487-6db8-4167-c608-08deab458ac9
+X-MS-Exchange-Organization-AuthSource: HSNC-EX02P.hsnc.hanwha.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2291233
+X-MS-Exchange-Processed-By-BccFoldering: 15.02.2562.016
+MIME-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml" lang=3D"ko"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">  <title>=EC=A7=80=EA=B3=B5=EC=9E=90 =EC=83=88=EC=86=8C=EC=8B=9D =EC=
+=95=8C=EB=A6=BC</title> =20
+ =20
+ =20
+ =20
+  </head>
+
+<body>
+
+  <!-- container -->
+  <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"padding: 32px 0 32px 0;background-color: #f1f3f5;">
+    <tr>
+      <td>
+        <!-- main -->
+        <table align=3D"center" width=3D"600" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" style=3D"margin: auto; padding: 0 20px 0 20px;backgroun=
+d-color: #fff;">
+          <!-- header -->
+          <tr>
+            <td style=3D"padding: 20px 0 21px 0;">
+              <table width=3D"100%">
+                <tr>
+                  <td width=3D"100"><img width=3D"100" height=3D"19" src=3D=
+"https://cdn.inflearn.com/assets/email_templates/assets/brand-logo.png"></t=
+d>
+                  <td width=3D"460" style=3D"text-align: right;">
+                    <img src=3D"https://cdn.inflearn.com/assets/email_templ=
+ates/assets/slogan.png" height=3D"19" style=3D"vertical-align: bottom;">
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td style=3D"border-bottom: 1px solid #f1f3f5;"></td>
+          </tr>
+          <!-- // header -->          <!-- title -->
+          <tr>
+            <td style=3D"overflow: hidden; padding: 32px 0 32px 0; font-siz=
+e: 26px; font-weight: 500; line-height: 1.31; letter-spacing: -0.3px; color=
+: #1b1c1d; word-break: break-all;">=EC=A7=80=EC=8B=9D=EA=B3=B5=EC=9C=A0=EC=
+=9E=90 JSCODE=EB=8B=98=EC=9D=B4 =EC=83=88=EC=86=8C=EC=8B=9D=EC=9D=84 =EB=93=
+=B1=EB=A1=9D=ED=96=88=EC=96=B4=EC=9A=94.</td>
+          </tr>
+          <!-- // title -->          <!-- contents -->
+          <tr>
+            <td>
+              <table align=3D"center" width=3D"560" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0">
+                <tr>
+                  <td align=3D"center" style=3D"padding: 20px 20px 20px 20p=
+x; border: 1px solid #f1f3f5;">
+                    <table width=3D"518" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0">
+                      <!-- =EC=A0=9C=EB=AA=A9 -->
+                      <tr>
+                        <td style=3D"font-size: 15px; line-height: 1.47; le=
+tter-spacing: -0.3px; color: #1b1c1d;">=F0=9F=8E=81 5=EC=9B=94 =EA=B0=80=EC=
+=A0=95=EC=9D=98 =EB=8B=AC =ED=8A=B9=EB=B3=84 =EC=9D=B4=EB=B2=A4=ED=8A=B8 | =
+=EC=A0=84=EA=B0=95=EC=9D=98 25% =ED=95=A0=EC=9D=B8 =F0=9F=8E=81</td>
+                      </tr>
+                      <tr><td style=3D"padding: 8px 0 0 0;"></td></tr>
+                      <!-- =EC=9E=91=EC=84=B1 =EC=A0=95=EB=B3=B4 -->
+                      <tr>
+                        <td>
+                          <table width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">
+                            <tr>
+                              <td width=3D"16" valign=3D"top">
+                                <img src=3D"https://cdn.inflearn.com/public=
+/users/thumbnails/1602738/44f3d951-04af-4bbc-ad8f-6a906433d3dc" width=3D"16=
+" height=3D"16" style=3D"border-radius: 16px;">
+                              </td>
+                              <td width=3D"402" style=3D"font-size: 15px; l=
+ine-height: 1.47; letter-spacing: -0.3px; color: #abb0b5; overflow: hidden;=
+ padding: 0 0 0 5px; max-width: 402px; word-break: break-all;">JSCODE</td>
+                              <td width=3D"100" valign=3D"top" style=3D"fon=
+t-size: 15px; line-height: 1.47; letter-spacing: -0.3px; color: #abb0b5; te=
+xt-align: right;">2026-05-06</td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr><td style=3D"padding: 8px 0 0 0;"></td></tr>
+                      <!-- =EA=B2=8C=EC=8B=9C=EA=B8=80 =EC=9A=94=EC=95=BD -=
+->
+                      <tr>
+                        <td style=3D"font-size: 15px; line-height: 1.47; le=
+tter-spacing: -0.3px; color: #616568;">
+                          <p style=3D"text-align: left">=EC=95=88=EB=85=95=
+=ED=95=98=EC=84=B8=EC=9A=94, JSCODE =EC=88=98=EA=B0=95=EC=83=9D =EC=97=AC=
+=EB=9F=AC=EB=B6=84 <span data-name=3D"blush" data-type=3D"emoji">=F0=9F=98=
+=8A</span></p><p style=3D"text-align: left">=EB=94=B0=EB=9C=BB=ED=95=9C 5=
+=EC=9B=94, =EA=B0=80=EC=A0=95=EC=9D=98 =EB=8B=AC=EC=9D=84 =EB=A7=9E=EC=95=
+=84 =EA=B0=90=EC=82=AC=EC=9D=98 =EB=A7=88=EC=9D=8C=EC=9D=84 =EB=8B=B4=EC=9D=
+=80 =ED=8A=B9=EB=B3=84=ED=95=9C =ED=98=9C=ED=83=9D=EC=9D=84 =EC=A4=80=EB=B9=
+=84=ED=96=88=EC=8A=B5=EB=8B=88=EB=8B=A4.</p><p>&nbsp;</p><p style=3D"text-a=
+lign: left"><strong><u>5/25(=EC=9B=94)</u></strong>=EA=B9=8C=EC=A7=80 <stro=
+ng><u>JSCODE =EB=B0=95=EC=9E=AC=EC=84=B1</u></strong> =EB=8B=98=EC=9D=98 <s=
+trong><u>=EC=A0=84=EC=B2=B4 =EA=B0=95=EC=9D=98</u></strong>=EB=A5=BC <stron=
+g><u>25% =ED=95=A0=EC=9D=B8=EB=90=9C =EA=B0=80=EA=B2=A9</u></strong>=EC=9C=
+=BC=EB=A1=9C =EB=A7=8C=EB=82=98=EB=B3=B4=EC=8B=A4 =EC=88=98 =EC=9E=88=EC=8A=
+=B5=EB=8B=88=EB=8B=A4.</p><p style=3D"text-align: left">=EC=95=84=EC=A7=81 =
+=EA=B0=95=EC=9D=98 =EA=B5=AC=EB=A7=A4=EB=A5=BC =EB=A7=9D=EC=84=A4=EC=9D=B4=
+=EA=B3=A0 =EA=B3=84=EC=85=A8=EB=8D=98 =EB=B6=84=EB=93=A4=EA=BB=98 =EC=A2=8B=
+=EC=9D=80 =EA=B8=B0=ED=9A=8C=EA=B0=80 =EB=90=98=EA=B8=B8 =EB=B0=94=EB=9E=8D=
+=EB=8B=88=EB=8B=A4.</p><p>&nbsp;</p><p style=3D"text-align: left">=ED=95=AD=
+=EC=83=81 =EB=8D=94 =EC=A2=8B=EC=9D=80 =EC=BD=98=ED=85=90=EC=B8=A0=EB=A1=9C=
+ =EB=B3=B4=EB=8B=B5=ED=95=98=EA=B2=A0=EC=8A=B5=EB=8B=88=EB=8B=A4.</p><p sty=
+le=3D"text-align: left">=EA=B0=90=EC=82=AC=ED=95=A9=EB=8B=88=EB=8B=A4.</p>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr><td style=3D"padding: 32px 0 0 0;"></td></tr>
+          <tr>
+            <td style=3D"text-align: center;">
+              <a href=3D"https://us-west-2.ses.inflearn.com/CL0/https:%2F%2=
+Fwww.inflearn.com%2Fcourse%2F%EC%8B%A4%EC%A0%84%EC%97%90%EC%84%9C-%EB%B0%94=
+%EB%A1%9C-%EC%8D%A8%EB%A8%B9%EB%8A%94-kafka-%EC%9E%85%EB%AC%B8%2Fnews%2F181=
+1098/1/0101019dfc4d0cd1-a96bfd43-31b4-4988-8d08-14c66006783d-000000/vKaEyjU=
+np1R3TPfFWfIEQJlV3lmQ6neUB61LNr7xFmo=3D452" style=3D"font-size: 15px; lette=
+r-spacing: -0.3px; font-weight: bold; background-color: #00c471; color: #ff=
+f; display: inline-block; box-sizing: border-box; padding: 15px 20px; width=
+: 180px; height: auto; line-height: normal; text-align: center; text-decora=
+tion: none; border-radius: 4px; cursor: default;">=EB=8D=94=EB=B3=B4=EA=B8=
+=B0</a>
+            </td>
+          </tr>
+          <tr><td style=3D"padding: 32px 0 0 0;"></td></tr>
+          <!-- // contents -->          <!-- footer -->
+          <tr>
+            <td style=3D"border-top: 1px solid #f1f3f5;"></td>
+          </tr>
+          <tr>
+            <td>
+              <table style=3D"width: 100%;">
+                <tr><td style=3D"padding: 20px 0 0 0;"></td></tr>
+                <tr>
+                  <td style=3D"font-size: 14px; line-height: 1.43; letter-s=
+pacing: -0.3px; text-align: center; color: #868E96;">=EC=9A=B0=EB=A6=AC=EB=
+=8A=94 =EC=84=B1=EC=9E=A5=EA=B8=B0=ED=9A=8C=EC=9D=98 =ED=8F=89=EB=93=B1=EC=
+=9D=84 =EC=B6=94=EA=B5=AC=ED=95=A9=EB=8B=88=EB=8B=A4.</td>
+                </tr>
+                <tr>
+                  <td style=3D"font-size: 12px; line-height: 1.38; letter-s=
+pacing: -0.3px; text-align: center; color: #868E96;">=C2=A9InfLab. All righ=
+ts reserved. | <a href=3D"https://us-west-2.ses.inflearn.com/CL0/https:%2F%=
+2Fwww.inflearn.com%2Fmy%2Fsettings%2Fnotification/1/0101019dfc4d0cd1-a96bfd=
+43-31b4-4988-8d08-14c66006783d-000000/qVRCeKOAVL2mTPy26cJlFd4uz3BexJeLRyjiy=
+PVSUwk=3D452" style=3D"color: #868E96;">=EA=B5=AC=EB=8F=85=EC=B7=A8=EC=86=
+=8C</a></td>
+                </tr>
+                <tr><td style=3D"padding: 20px 0 0 0;"></td></tr>
+              </table>
+            </td>
+          </tr>
+          <!-- // footer -->
+        </table>
+        <!-- // main -->
+      </td>
+    </tr>
+  </table>
+  <!-- // container -->
+<img alt=3D"" src=3D"http://us-west-2.ses.inflearn.com/CI0/0101019dfc4d0cd1=
+-a96bfd43-31b4-4988-8d08-14c66006783d-000000/6MKgFF9dFVXgVUqve77--ivSjvDJ-u=
+vgRoc77fwBx24=3D452" style=3D"display: none; width: 1px; height: 1px;">
+</body>
+</html>

@@ -1,0 +1,273 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 910" width="960" height="910" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#555"/>
+    </marker>
+    <marker id="arr-b" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1565C0"/>
+    </marker>
+    <marker id="arr-o" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#E65100"/>
+    </marker>
+    <marker id="arr-p" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4527A0"/>
+    </marker>
+    <marker id="arr-g" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#2E7D32"/>
+    </marker>
+    <filter id="sh" x="-5%" y="-5%" width="112%" height="112%">
+      <feDropShadow dx="1" dy="2" stdDeviation="3" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="960" height="910" fill="#F5F7FA"/>
+
+  <!-- Title -->
+  <rect x="100" y="14" width="760" height="42" rx="8" fill="#DDEEFF" stroke="#4A90D9" stroke-width="1.5"/>
+  <text x="480" y="40" text-anchor="middle" font-size="17" font-weight="bold" fill="#1C2E40">📧 메일 기반 업무 리포팅 자동화 AI  |  워크플로우</text>
+
+  <!-- ============================================================ -->
+  <!-- COLUMN BACKGROUNDS  (height 720 → y=70~790) -->
+  <!-- ============================================================ -->
+  <!-- Col1: EML 가져오기 -->
+  <rect x="18"  y="70" width="290" height="720" rx="10" fill="#E3F2FD" stroke="#1976D2" stroke-width="1.5" opacity="0.4"/>
+  <!-- Col2: 대시보드 -->
+  <rect x="328" y="70" width="290" height="720" rx="10" fill="#FFF3E0" stroke="#EF6C00" stroke-width="1.5" opacity="0.4"/>
+  <!-- Col3: 자동 배치 -->
+  <rect x="638" y="70" width="302" height="720" rx="10" fill="#E8F5E9" stroke="#388E3C" stroke-width="1.5" opacity="0.4"/>
+
+  <!-- Column Headers -->
+  <rect x="30"  y="80" width="266" height="38" rx="8" fill="#1565C0" filter="url(#sh)"/>
+  <text x="163" y="104" text-anchor="middle" font-size="13" font-weight="bold" fill="white">EML 가져오기 흐름</text>
+
+  <rect x="340" y="80" width="266" height="38" rx="8" fill="#E65100" filter="url(#sh)"/>
+  <text x="473" y="104" text-anchor="middle" font-size="13" font-weight="bold" fill="white">대시보드 흐름</text>
+
+  <rect x="650" y="80" width="278" height="38" rx="8" fill="#2E7D32" filter="url(#sh)"/>
+  <text x="789" y="104" text-anchor="middle" font-size="13" font-weight="bold" fill="white">자동 배치 흐름</text>
+
+  <!-- ============================================================ -->
+  <!-- COLUMN 1: EML 가져오기 흐름 -->
+  <!-- ============================================================ -->
+
+  <!-- 시작 박스 -->
+  <rect x="38" y="134" width="250" height="52" rx="8" fill="#1565C0" filter="url(#sh)"/>
+  <text x="163" y="154" text-anchor="middle" font-size="11" font-weight="bold" fill="white">시작</text>
+  <text x="163" y="170" text-anchor="middle" font-size="9.5" fill="#BBDEFB">python main.py  또는  start.bat</text>
+  <line x1="163" y1="186" x2="163" y2="208" stroke="#1565C0" stroke-width="2" marker-end="url(#arr-b)"/>
+
+  <!-- mail_data/ 스캔 -->
+  <rect x="38" y="208" width="250" height="42" rx="8" fill="#1976D2" filter="url(#sh)"/>
+  <text x="163" y="225" text-anchor="middle" font-size="10" font-weight="bold" fill="white">mail_data/ 폴더 스캔</text>
+  <text x="163" y="241" text-anchor="middle" font-size="9.5" fill="#BBDEFB">.eml 파일 목록 수집</text>
+  <line x1="163" y1="250" x2="163" y2="272" stroke="#1565C0" stroke-width="2" marker-end="url(#arr-b)"/>
+
+  <!-- EML 파싱 -->
+  <rect x="38" y="272" width="250" height="68" rx="8" fill="#1E88E5" filter="url(#sh)"/>
+  <text x="163" y="291" text-anchor="middle" font-size="10" font-weight="bold" fill="white">EML 파싱 (parse_eml_file)</text>
+  <line x1="60" y1="297" x2="268" y2="297" stroke="white" stroke-width="0.6" opacity="0.5"/>
+  <text x="163" y="310" text-anchor="middle" font-size="9.5" fill="#E3F2FD">subject / sender / date</text>
+  <text x="163" y="324" text-anchor="middle" font-size="9.5" fill="#E3F2FD">body / attachments 추출</text>
+  <text x="163" y="338" text-anchor="middle" font-size="9.5" fill="#E3F2FD">전달(FW) 실 발신자 추출</text>
+  <line x1="163" y1="340" x2="163" y2="362" stroke="#1565C0" stroke-width="2" marker-end="url(#arr-b)"/>
+
+  <!-- 중복 체크 마름모 -->
+  <polygon points="163,378 230,398 163,418 96,398" fill="#42A5F5" filter="url(#sh)"/>
+  <text x="163" y="403" text-anchor="middle" font-size="10" font-weight="bold" fill="white">중복 체크?</text>
+
+  <!-- YES → 건너뜀 (수평 화살표만, 마름모 좌측 y=396에 정렬) -->
+  <line x1="96" y1="398" x2="86" y2="398" stroke="#90A4AE" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="67" y="392" text-anchor="middle" font-size="8.5" fill="#78909C">YES</text>
+  <!-- 건너뜀 박스 – 마름모 좌측에 붙어 있으며 y=384~412, MailClassifier(y=440)와 겹치지 않음 -->
+  <rect x="22" y="382" width="64" height="28" rx="5" fill="#90A4AE" filter="url(#sh)"/>
+  <text x="54" y="395" text-anchor="middle" font-size="9" font-weight="bold" fill="white">건너뜀</text>
+  <text x="54" y="408" text-anchor="middle" font-size="8" fill="white">(skip)</text>
+
+  <!-- NO 화살표 -->
+  <line x1="163" y1="418" x2="163" y2="440" stroke="#1565C0" stroke-width="2" marker-end="url(#arr-b)"/>
+  <text x="175" y="432" font-size="8.5" fill="#1565C0">NO(신규)</text>
+
+  <!-- MailClassifier 분류 -->
+  <rect x="38" y="440" width="250" height="66" rx="8" fill="#2196F3" filter="url(#sh)"/>
+  <text x="163" y="460" text-anchor="middle" font-size="10" font-weight="bold" fill="white">키워드 기반 분류 (MailClassifier)</text>
+  <line x1="60" y1="466" x2="268" y2="466" stroke="white" stroke-width="0.6" opacity="0.5"/>
+  <text x="163" y="480" text-anchor="middle" font-size="8.5" fill="#E3F2FD">회신필요 / 결재요청 / 회의참석요청</text>
+  <text x="163" y="494" text-anchor="middle" font-size="8.5" fill="#E3F2FD">업무요청 / 보고 / 단순공지 / 기타</text>
+  <line x1="163" y1="506" x2="163" y2="528" stroke="#1565C0" stroke-width="2" marker-end="url(#arr-b)"/>
+
+  <!-- EmailAnalyzer -->
+  <rect x="38" y="528" width="250" height="66" rx="8" fill="#42A5F5" filter="url(#sh)"/>
+  <text x="163" y="548" text-anchor="middle" font-size="10" font-weight="bold" fill="white">긴급·마감 분석 (EmailAnalysis)</text>
+  <line x1="60" y1="554" x2="268" y2="554" stroke="white" stroke-width="0.6" opacity="0.5"/>
+  <text x="163" y="568" text-anchor="middle" font-size="8.5" fill="#E3F2FD">긴급 여부 판별 / 마감일 추출</text>
+  <text x="163" y="582" text-anchor="middle" font-size="8.5" fill="#E3F2FD">우선순위 점수 / 액션 아이템</text>
+  <line x1="163" y1="594" x2="163" y2="616" stroke="#1565C0" stroke-width="2" marker-end="url(#arr-b)"/>
+
+  <!-- emails.json 저장 -->
+  <rect x="38" y="616" width="250" height="42" rx="8" fill="#64B5F6" filter="url(#sh)"/>
+  <text x="163" y="633" text-anchor="middle" font-size="10" font-weight="bold" fill="#1A2B3C">emails.json 병합 저장</text>
+  <text x="163" y="649" text-anchor="middle" font-size="9" fill="#1A2B3C">data/emails.json</text>
+
+  <!-- ============================================================ -->
+  <!-- COLUMN 2: 대시보드 흐름 -->
+  <!-- ============================================================ -->
+
+  <!-- 시작 -->
+  <rect x="348" y="134" width="250" height="60" rx="8" fill="#E65100" filter="url(#sh)"/>
+  <text x="473" y="154" text-anchor="middle" font-size="11" font-weight="bold" fill="white">시작</text>
+  <text x="473" y="170" text-anchor="middle" font-size="9.5" fill="#FFE0B2">streamlit run dashboard.py</text>
+  <text x="473" y="184" text-anchor="middle" font-size="9" fill="#FFCCBC">http://localhost:8501</text>
+  <line x1="473" y1="194" x2="473" y2="216" stroke="#E65100" stroke-width="2" marker-end="url(#arr-o)"/>
+
+  <!-- emails.json 로드 -->
+  <rect x="348" y="216" width="250" height="36" rx="8" fill="#F57C00" filter="url(#sh)"/>
+  <text x="473" y="239" text-anchor="middle" font-size="10" font-weight="bold" fill="white">emails.json 로드</text>
+  <line x1="473" y1="252" x2="473" y2="274" stroke="#E65100" stroke-width="2" marker-end="url(#arr-o)"/>
+
+  <!-- 메뉴 선택 마름모 -->
+  <polygon points="473,290 548,310 473,330 398,310" fill="#FB8C00" filter="url(#sh)"/>
+  <text x="473" y="315" text-anchor="middle" font-size="10" font-weight="bold" fill="white">메뉴 선택</text>
+  <line x1="473" y1="330" x2="473" y2="350" stroke="#E65100" stroke-width="2" marker-end="url(#arr-o)"/>
+
+  <!-- 메뉴 목록 -->
+  <rect x="348" y="350" width="250" height="34" rx="6" fill="#FF9800"/>
+  <text x="380" y="364" font-size="9.5" font-weight="bold" fill="white">📊 대시보드</text>
+  <text x="380" y="378" font-size="8.5" fill="#FFF8E1">전체 통계 / 카테고리별 현황 / 우선처리 메일</text>
+
+  <rect x="348" y="392" width="250" height="34" rx="6" fill="#FFA726"/>
+  <text x="380" y="406" font-size="9.5" font-weight="bold" fill="white">📋 메일 목록</text>
+  <text x="380" y="420" font-size="8.5" fill="#FFF8E1">카테고리·키워드 필터 / 상세 보기</text>
+
+  <rect x="348" y="434" width="250" height="34" rx="6" fill="#FFB74D"/>
+  <text x="380" y="448" font-size="9.5" font-weight="bold" fill="#1A2B3C">👤 발신자별</text>
+  <text x="380" y="462" font-size="8.5" fill="#1A2B3C">발신자 그룹핑 / 메일 수 정렬 / 검색</text>
+
+  <rect x="348" y="476" width="250" height="34" rx="6" fill="#FFC107"/>
+  <text x="380" y="490" font-size="9.5" font-weight="bold" fill="#1A2B3C">🔍 검색/질의</text>
+  <text x="380" y="504" font-size="8.5" fill="#1A2B3C">키워드 검색  /  Gemini AI 질의 (RAG)</text>
+
+  <rect x="348" y="518" width="250" height="34" rx="6" fill="#FFD54F"/>
+  <text x="380" y="532" font-size="9.5" font-weight="bold" fill="#1A2B3C">⚙️ 설정</text>
+  <text x="380" y="546" font-size="8.5" fill="#1A2B3C">LLM API 키 입력 / 모델 선택</text>
+
+  <line x1="473" y1="552" x2="473" y2="572" stroke="#E65100" stroke-width="2" marker-end="url(#arr-o)"/>
+
+  <!-- RAG 서브 흐름 -->
+  <rect x="348" y="572" width="250" height="76" rx="8" fill="#EF6C00" filter="url(#sh)"/>
+  <text x="473" y="592" text-anchor="middle" font-size="10" font-weight="bold" fill="white">RAG 검색 (SimpleVectorStore)</text>
+  <line x1="368" y1="598" x2="578" y2="598" stroke="white" stroke-width="0.6" opacity="0.5"/>
+  <text x="473" y="612" text-anchor="middle" font-size="9" fill="#FFE0B2">TF 임베딩 → 코사인 유사도 검색</text>
+  <text x="473" y="626" text-anchor="middle" font-size="9" fill="#FFE0B2">Top-K 문서 추출</text>
+  <text x="473" y="640" text-anchor="middle" font-size="9" fill="#FFE0B2">LLM 컨텍스트 조합 → 자연어 답변</text>
+  <line x1="473" y1="648" x2="473" y2="668" stroke="#E65100" stroke-width="2" marker-end="url(#arr-o)"/>
+
+  <!-- LLM 요약 -->
+  <rect x="348" y="668" width="250" height="42" rx="8" fill="#F57C00" filter="url(#sh)"/>
+  <text x="473" y="685" text-anchor="middle" font-size="10" font-weight="bold" fill="white">LLM 요약 생성</text>
+  <text x="473" y="701" text-anchor="middle" font-size="9.5" fill="#FFE0B2">Gemini / GPT / Ollama / Mock</text>
+  <line x1="473" y1="710" x2="473" y2="730" stroke="#E65100" stroke-width="2" marker-end="url(#arr-o)"/>
+
+  <!-- HTML 보고서 -->
+  <rect x="348" y="730" width="250" height="36" rx="8" fill="#FB8C00" filter="url(#sh)"/>
+  <text x="473" y="748" text-anchor="middle" font-size="10" font-weight="bold" fill="#1A2B3C">HTML 보고서 생성</text>
+  <text x="473" y="762" text-anchor="middle" font-size="9" fill="#1A2B3C">다운로드 제공</text>
+
+  <!-- ============================================================ -->
+  <!-- COLUMN 3: 자동 배치 흐름 (기존 Col4, x-280 이동) -->
+  <!-- ============================================================ -->
+
+  <!-- 시작 -->
+  <rect x="658" y="134" width="216" height="52" rx="8" fill="#2E7D32" filter="url(#sh)"/>
+  <text x="766" y="152" text-anchor="middle" font-size="10" font-weight="bold" fill="white">시작</text>
+  <text x="766" y="167" text-anchor="middle" font-size="8.5" fill="#C8E6C9">start.bat  또는</text>
+  <text x="766" y="180" text-anchor="middle" font-size="8.5" fill="#C8E6C9">python scheduler.py</text>
+  <line x1="766" y1="186" x2="766" y2="208" stroke="#2E7D32" stroke-width="2" marker-end="url(#arr-g)"/>
+
+  <!-- 환경변수 설정 -->
+  <rect x="658" y="208" width="216" height="52" rx="8" fill="#388E3C" filter="url(#sh)"/>
+  <text x="766" y="226" text-anchor="middle" font-size="9.5" font-weight="bold" fill="white">환경변수로 설정 오버라이드</text>
+  <line x1="678" y1="232" x2="854" y2="232" stroke="white" stroke-width="0.6" opacity="0.5"/>
+  <text x="766" y="246" text-anchor="middle" font-size="8.5" fill="#C8E6C9">SMTP_SERVER / LLM_API_KEY</text>
+  <text x="766" y="259" text-anchor="middle" font-size="8.5" fill="#C8E6C9">WEEKLY_REPORT_DAY 등</text>
+  <line x1="766" y1="260" x2="766" y2="280" stroke="#2E7D32" stroke-width="2" marker-end="url(#arr-g)"/>
+
+  <!-- APScheduler 대기 -->
+  <rect x="658" y="280" width="216" height="36" rx="8" fill="#43A047" filter="url(#sh)"/>
+  <text x="766" y="298" text-anchor="middle" font-size="10" font-weight="bold" fill="white">APScheduler 대기</text>
+  <text x="766" y="312" text-anchor="middle" font-size="8.5" fill="#C8E6C9">(블로킹 실행)</text>
+  <line x1="766" y1="316" x2="766" y2="336" stroke="#2E7D32" stroke-width="2" marker-end="url(#arr-g)"/>
+
+  <!-- 타이머 트리거 -->
+  <rect x="658" y="336" width="216" height="48" rx="8" fill="#66BB6A" filter="url(#sh)"/>
+  <text x="766" y="355" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#1A2B3C">⏰ 매주 월요일 09:00 트리거</text>
+  <line x1="678" y1="361" x2="854" y2="361" stroke="#1A2B3C" stroke-width="0.6" opacity="0.4"/>
+  <text x="766" y="376" text-anchor="middle" font-size="8.5" fill="#1A2B3C">job_weekly_report_and_send()</text>
+  <line x1="766" y1="384" x2="766" y2="404" stroke="#2E7D32" stroke-width="2" marker-end="url(#arr-g)"/>
+
+  <!-- emails.json 로드 -->
+  <rect x="658" y="404" width="216" height="42" rx="8" fill="#81C784" filter="url(#sh)"/>
+  <text x="766" y="422" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#1A2B3C">emails.json 로드</text>
+  <text x="766" y="438" text-anchor="middle" font-size="8.5" fill="#1A2B3C">이번 주 메일 필터링</text>
+  <line x1="766" y1="446" x2="766" y2="466" stroke="#2E7D32" stroke-width="2" marker-end="url(#arr-g)"/>
+
+  <!-- LLM 주간 보고서 생성 -->
+  <rect x="658" y="466" width="216" height="52" rx="8" fill="#388E3C" filter="url(#sh)"/>
+  <text x="766" y="484" text-anchor="middle" font-size="9.5" font-weight="bold" fill="white">LLM 주간 보고서 생성</text>
+  <line x1="678" y1="490" x2="854" y2="490" stroke="white" stroke-width="0.6" opacity="0.5"/>
+  <text x="766" y="503" text-anchor="middle" font-size="8.5" fill="#C8E6C9">generate_weekly_report_file()</text>
+  <text x="766" y="515" text-anchor="middle" font-size="8.5" fill="#C8E6C9">Gemini / GPT / Ollama</text>
+
+  <!-- 분기 → data/weekly/ 와 SMTP 동시 출력 -->
+  <line x1="708" y1="518" x2="708" y2="538" stroke="#2E7D32" stroke-width="2" marker-end="url(#arr-g)"/>
+  <line x1="824" y1="518" x2="824" y2="538" stroke="#2E7D32" stroke-width="2" marker-end="url(#arr-g)"/>
+
+  <!-- data/weekly/ 저장 -->
+  <rect x="658" y="538" width="96" height="42" rx="8" fill="#2E7D32" filter="url(#sh)"/>
+  <text x="706" y="556" text-anchor="middle" font-size="8.5" font-weight="bold" fill="white">data/weekly/</text>
+  <text x="706" y="570" text-anchor="middle" font-size="8" fill="#C8E6C9">저장</text>
+
+  <!-- SMTP 발송 -->
+  <rect x="778" y="538" width="96" height="42" rx="8" fill="#1B5E20" filter="url(#sh)"/>
+  <text x="826" y="556" text-anchor="middle" font-size="8.5" font-weight="bold" fill="white">SMTP 발송</text>
+  <text x="826" y="570" text-anchor="middle" font-size="8" fill="#C8E6C9">MailSender.send()</text>
+
+  <!-- 수신자 전송 -->
+  <rect x="658" y="604" width="216" height="42" rx="8" fill="#43A047" filter="url(#sh)"/>
+  <text x="766" y="621" text-anchor="middle" font-size="9" font-weight="bold" fill="white">수신자 목록으로 HTML 메일 전송</text>
+  <text x="766" y="637" text-anchor="middle" font-size="8.5" fill="#C8E6C9">첨부파일 포함</text>
+
+  <line x1="706" y1="580" x2="706" y2="604" stroke="#2E7D32" stroke-width="1.5" marker-end="url(#arr-g)"/>
+  <line x1="826" y1="580" x2="826" y2="592" stroke="#1B5E20" stroke-width="1.5"/>
+  <line x1="826" y1="592" x2="766" y2="604" stroke="#1B5E20" stroke-width="1.5" marker-end="url(#arr-g)"/>
+
+  <!-- 완료 -->
+  <rect x="658" y="670" width="216" height="36" rx="8" fill="#1B5E20" filter="url(#sh)"/>
+  <text x="766" y="693" text-anchor="middle" font-size="11" font-weight="bold" fill="white">✅ 주간 보고서 발송 완료</text>
+  <line x1="766" y1="646" x2="766" y2="670" stroke="#2E7D32" stroke-width="2" marker-end="url(#arr-g)"/>
+
+  <!-- ============================================================ -->
+  <!-- LEGEND -->
+  <!-- ============================================================ -->
+  <rect x="20" y="806" width="920" height="90" rx="8" fill="white" stroke="#CCC" stroke-width="1"/>
+  <text x="40" y="826" font-size="11" font-weight="bold" fill="#444">범례</text>
+
+  <rect x="100" y="814" width="16" height="14" rx="3" fill="#1565C0"/>
+  <text x="122" y="826" font-size="10" fill="#333">EML 가져오기</text>
+  <rect x="230" y="814" width="16" height="14" rx="3" fill="#E65100"/>
+  <text x="252" y="826" font-size="10" fill="#333">대시보드</text>
+  <rect x="340" y="814" width="16" height="14" rx="3" fill="#2E7D32"/>
+  <text x="362" y="826" font-size="10" fill="#333">자동 배치</text>
+  <line x1="460" y1="821" x2="500" y2="821" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="508" y="826" font-size="10" fill="#333">처리 흐름</text>
+  <polygon points="610,814 620,821 610,828 600,821" fill="#FB8C00"/>
+  <text x="628" y="826" font-size="10" fill="#333">분기(조건)</text>
+  <rect x="730" y="814" width="16" height="14" rx="3" fill="#42A5F5"/>
+  <text x="752" y="826" font-size="10" fill="#333">검색/분류</text>
+  <rect x="850" y="814" width="16" height="14" rx="3" fill="#90A4AE"/>
+  <text x="872" y="826" font-size="10" fill="#333">건너뜀(skip)</text>
+
+  <text x="40" y="848" font-size="10" fill="#555">• EML 가져오기 흐름 : .eml 파일 파싱 → 중복 체크 → 분류 (MailClassifier) → 긴급·마감 분석 (EmailAnalysis) → emails.json 저장</text>
+  <text x="40" y="866" font-size="10" fill="#555">• 대시보드 흐름 : Streamlit UI → 메뉴 선택 → RAG 검색 (SimpleVectorStore) → LLM 요약 → HTML 보고서 다운로드</text>
+  <text x="40" y="884" font-size="10" fill="#555">• 자동 배치 흐름 : APScheduler 매주 월 09:00 트리거 → LLM 주간 보고서 생성 → data/weekly/ 저장 + SMTP 발송</text>
+</svg>

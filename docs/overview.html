@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>📧 메일 기반 업무 리포팅 자동화 AI</title>
+  <style>
+    :root {
+      --blue:   #1565C0;
+      --orange: #E65100;
+      --green:  #2E7D32;
+      --pink:   #AD1457;
+      --purple: #4527A0;
+      --bg:     #F5F7FA;
+      --card:   #FFFFFF;
+      --border: #E0E6EF;
+      --text:   #1C2E40;
+      --muted:  #5A6A7A;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+
+    /* ── HERO ── */
+    .hero {
+      background: linear-gradient(135deg, #0D47A1 0%, #1565C0 40%, #1976D2 70%, #42A5F5 100%);
+      color: white;
+      text-align: center;
+      padding: 64px 24px 52px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute; inset: 0;
+      background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.04'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    }
+    .hero-icon { font-size: 56px; margin-bottom: 16px; }
+    .hero h1 { font-size: 2rem; font-weight: 800; letter-spacing: -0.5px; margin-bottom: 10px; }
+    .hero p  { font-size: 1.05rem; opacity: 0.88; max-width: 560px; margin: 0 auto; }
+    .hero-badges { margin-top: 24px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+    .badge {
+      background: rgba(255,255,255,0.18);
+      border: 1px solid rgba(255,255,255,0.35);
+      border-radius: 20px;
+      padding: 5px 14px;
+      font-size: 0.82rem;
+      backdrop-filter: blur(4px);
+    }
+
+    /* ── LAYOUT ── */
+    .container { max-width: 880px; margin: 0 auto; padding: 38px 18px; }
+    section { margin-bottom: 44px; }
+
+    /* ── SECTION TITLE ── */
+    .section-title {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid var(--border);
+    }
+    .section-num {
+      background: var(--blue);
+      color: white;
+      font-size: 0.75rem;
+      font-weight: 700;
+      width: 26px; height: 26px;
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0;
+    }
+    .section-title h2 { font-size: 1.15rem; font-weight: 700; }
+
+    /* ── CARD ── */
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 11px;
+      padding: 22px 24px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      overflow-x: auto;
+    }
+
+    /* ── TABLE ── */
+    table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+    thead tr { background: #EEF3FB; }
+    th { padding: 8px 10px; text-align: left; font-weight: 700; color: var(--blue); border-bottom: 2px solid #C9D9F0; }
+    td { padding: 7px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #FAFBFF; }
+    code {
+      background: #EEF3FB;
+      color: var(--blue);
+      padding: 2px 5px;
+      border-radius: 3px;
+      font-size: 0.82em;
+      font-family: 'Consolas', 'D2Coding', monospace;
+    }
+
+    /* ── EFFECT CARDS ── */
+    .effect-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 11px; }
+    @media (max-width: 600px) { .effect-grid { grid-template-columns: 1fr; } }
+    .effect-item {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 9px;
+      padding: 12px 14px;
+      display: flex; gap: 10px; align-items: flex-start;
+    }
+    .effect-icon { font-size: 1.3rem; flex-shrink: 0; }
+    .effect-item h4 { font-size: 0.8rem; font-weight: 700; margin-bottom: 2px; }
+    .effect-item p  { font-size: 0.77rem; color: var(--muted); }
+
+    /* ── FEATURE GRID ── */
+    .feature-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 10px; }
+    @media (max-width: 640px) { .feature-grid { grid-template-columns: 1fr; } }
+    .feature-item {
+      background: white;
+      border: 1px solid var(--border);
+      border-left: 4px solid var(--blue);
+      border-radius: 0 8px 8px 0;
+      padding: 11px 13px;
+    }
+    .feature-item.highlight-new {
+      border-left-color: #E65100;
+    }
+    .feature-item h4 { font-size: 0.83rem; font-weight: 700; margin-bottom: 2px; }
+    .feature-item p  { font-size: 0.77rem; color: var(--muted); }
+    .new-badge {
+      display: inline-block;
+      background: #FFF3E0;
+      color: #E65100;
+      font-size: 0.65rem;
+      font-weight: 700;
+      padding: 1px 5px;
+      border-radius: 8px;
+      margin-left: 5px;
+      vertical-align: middle;
+    }
+
+    /* ── LLM CARDS ── */
+    .llm-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 10px; margin-bottom: 18px; }
+    @media (max-width: 600px) { .llm-grid { grid-template-columns: 1fr; } }
+    .llm-card {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 11px 13px;
+      display: flex; gap: 11px; align-items: center;
+    }
+    .llm-badge {
+      width: 34px; height: 34px; border-radius: 7px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1rem; flex-shrink: 0;
+    }
+    .llm-card h4 { font-size: 0.8rem; font-weight: 700; margin-bottom: 1px; }
+    .llm-card p  { font-size: 0.75rem; color: var(--muted); }
+
+    /* ── MENU BADGES ── */
+    .menu-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+    .menu-badge {
+      background: #EEF3FB;
+      border: 1px solid #C9D9F0;
+      border-radius: 18px;
+      padding: 4px 11px;
+      font-size: 0.81rem;
+      font-weight: 600;
+      color: var(--blue);
+      white-space: nowrap;
+    }
+
+    /* ── HIGHLIGHT BOX ── */
+    .info-box {
+      background: #F0F7FF;
+      border: 1px solid #C9D9F0;
+      border-left: 4px solid var(--blue);
+      border-radius: 0 7px 7px 0;
+      padding: 11px 14px;
+      font-size: 0.82rem;
+      margin: 12px 0;
+      line-height: 1.5;
+    }
+    .info-box strong { color: var(--blue); }
+
+    /* ── MODULE TABLE accent ── */
+    .mod-table td:first-child code { background: #FFF3E0; color: var(--orange); }
+
+    /* ── FOOTER ── */
+    footer {
+      text-align: center;
+      padding: 32px 16px;
+      font-size: 0.82rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      margin-top: 24px;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════ HERO -->
+<header class="hero">
+  <div class="hero-icon">📧</div>
+  <h1>메일 기반 업무 리포팅 자동화 AI</h1>
+  <p>EML 자동 분류 · AI 요약 · LLM 회신 초안 작성 · 자연어 질의를 통한 메일 업무 효율화</p>
+  <div class="hero-badges">
+    <span class="badge">🐍 Python</span>
+    <span class="badge">⚡ Streamlit</span>
+    <span class="badge">🤖 Gemini / GPT / Ollama</span>
+    <span class="badge">📅 APScheduler</span>
+    <span class="badge">📬 Exchange Online SMTP</span>
+  </div>
+</header>
+
+<div class="container">
+
+  <!-- ══════════════════════════════════════════ 1. 과제 개요 -->
+  <section id="overview">
+    <div class="section-title">
+      <div class="section-num">1</div>
+      <h2>과제 개요</h2>
+    </div>
+
+    <div class="card" style="margin-bottom:20px">
+      <table>
+        <thead><tr><th>구분</th><th>현황 및 문제점</th></tr></thead>
+        <tbody>
+          <tr><td>메일 과부하</td><td>1인당 하루 평균 30~50통 수신, 확인/분류에 상당 시간 소요</td></tr>
+          <tr><td>우선순위 파악 어려움</td><td>긴급/중요 메일이 일반 메일에 묻혀 대응 지연 발생</td></tr>
+          <tr><td>수동 정리 비효율</td><td>메일 분류·요약·보고서 작성을 수작업으로 진행하여 반복 업무 증가</td></tr>
+          <tr><td>정보 검색 한계</td><td>과거 메일 확인 시 일일이 검색해야 하며 맥락 파악에 시간 소요</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 달성 목표 표 -->
+    <div class="card" style="margin-bottom:20px">
+      <p style="font-weight:700; margin-bottom:14px">📊 달성 목표 (효율 공수 절감)</p>
+      <table>
+        <thead><tr><th>구분</th><th>As-Is</th><th>To-Be</th><th>절감</th></tr></thead>
+        <tbody>
+          <tr><td>메일 확인 및 분류</td><td>45분/일</td><td>5분/일</td><td style="color:#2E7D32;font-weight:700">-40분</td></tr>
+          <tr><td>우선순위 파악/정리</td><td>15분/일</td><td>—</td><td style="color:#2E7D32;font-weight:700">-15분</td></tr>
+          <tr><td>주요 메일 요약 정리</td><td>40분/일</td><td>15분/일</td><td style="color:#2E7D32;font-weight:700">-25분</td></tr>
+          <tr><td>메일 검색/히스토리</td><td>20분/일</td><td>5분/일</td><td style="color:#2E7D32;font-weight:700">-15분</td></tr>
+          <tr style="background:#F0FFF4">
+            <td><strong>합계</strong></td>
+            <td><strong>120분/일</strong></td>
+            <td><strong>25분/일</strong></td>
+            <td style="color:#1B5E20;font-weight:800">-95분/일 (79%↓)</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="info-box" style="margin-top:12px;font-size:0.85rem">
+        <strong>📈 효율 절감</strong> — 1인 기준 연간 <strong>2.6 MM</strong> 절감 / 10인 팀 기준 연간 <strong>26 MM</strong> 절감
+      </div>
+    </div>
+
+    <!-- 기대 효과 -->
+    <p style="font-weight:700; margin-bottom:14px">🎯 기대 효과</p>
+      <div class="effect-item">
+        <div class="effect-icon">⏱️</div>
+        <div>
+          <h4>업무 시간 절감</h4>
+          <p>1인당 연간 약 420시간 절감 (120분 → 25분/일, 79%↓)</p>
+        </div>
+      </div>
+      <div class="effect-item">
+        <div class="effect-icon">🚨</div>
+        <div>
+          <h4>대응 속도 향상</h4>
+          <p>긴급 메일 식별 시간 80% 단축 (30분 → 5분)</p>
+        </div>
+      </div>
+      <div class="effect-item">
+        <div class="effect-icon">🎯</div>
+        <div>
+          <h4>핵심 업무 집중</h4>
+          <p>단순 반복 업무 감소로 고부가가치 업무 시간 확보</p>
+        </div>
+      </div>
+      <div class="effect-item">
+        <div class="effect-icon">📊</div>
+        <div>
+          <h4>업무 가시성 향상</h4>
+          <p>대시보드를 통한 메일 현황 한눈에 파악</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════ 2. 아키텍처 구성도 -->
+  <section id="architecture">
+    <div class="section-title">
+      <div class="section-num">2</div>
+      <h2>아키텍처 구성도</h2>
+    </div>
+
+    <div class="card" style="text-align: center;">
+      <img src="아키텍처 구성도.png" alt="아키텍처 구성도" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════ 3. 워크플로우 -->
+  <section id="workflow">
+    <div class="section-title">
+      <div class="section-num">3</div>
+      <h2>워크플로우</h2>
+    </div>
+    <div class="card">
+      <table>
+        <thead><tr><th>단계</th><th>처리 내용</th></tr></thead>
+        <tbody>
+          <tr><td>① EML 스캔</td><td><code>mail_data/</code> 폴더의 .eml 파일 목록 수집</td></tr>
+          <tr><td>② 파싱</td><td>제목·발신자·날짜·본문·첨부파일 추출, 전달(FW) 메일 실 발신자 추출</td></tr>
+          <tr><td>③ 중복 체크</td><td>eml_ID 비교 → 신규만 처리 (<code>--force</code> 시 전체 재파싱)</td></tr>
+          <tr><td>④ 자동 분류</td><td>키워드 기반 7개 카테고리 분류 (LLM 분류 선택 가능)</td></tr>
+          <tr><td>⑤ 우선순위 분석</td><td>긴급 여부 판별 / 마감일 추출 / 우선순위 점수 / 액션 아이템</td></tr>
+          <tr><td>⑥ 저장</td><td><code>data/emails.json</code>에 병합 저장</td></tr>
+          <tr><td>⑦ 대시보드</td><td>Streamlit 대시보드 → <code>http://localhost:8501</code></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════ 4. 주요 기능 -->
+  <section id="features">
+    <div class="section-title">
+      <div class="section-num">4</div>
+      <h2>주요 기능</h2>
+    </div>
+    <div class="feature-grid">
+      <div class="feature-item">
+        <h4>📂 EML 일괄 파싱</h4>
+        <p><code>mail_data/</code> 폴더의 .eml 파일 자동 파싱, 중복 건너뜀 (<code>--force</code> 재파싱 지원)</p>
+      </div>
+      <div class="feature-item">
+        <h4>🏷️ 자동 분류</h4>
+        <p>회신필요 / 결재요청 / 회의참석요청 / 단순공지 / 보고/공유 / 업무요청 / 기타 (7개 카테고리)</p>
+      </div>
+      <div class="feature-item">
+        <h4>👤 발신자 추출</h4>
+        <p>전달(FW) 메일의 실 발신자를 본문 HTML에서 정확히 추출 (<code>ForwardedEmailInfo</code>)</p>
+      </div>
+      <div class="feature-item">
+        <h4>🚨 긴급·마감 분석</h4>
+        <p>긴급 여부 자동 판별, 마감일 추출, 우선순위 점수 산정, 액션 아이템 추출</p>
+      </div>
+      <div class="feature-item highlight-new">
+        <h4>💬 회신 필요 메일 관리 <span class="new-badge">NEW</span></h4>
+        <p>스크롤 가능한 회신필요 메일 목록 + LLM 메일 요약 + 간결·정중한 LLM 회신 초안 자동 작성</p>
+      </div>
+      <div class="feature-item highlight-new">
+        <h4>🤖 AI 질의 <span class="new-badge">NEW</span></h4>
+        <p>설정 탭에 저장된 LLM을 재사용, 점수 기반 관련 메일 우선 검색 후 자연어 답변 생성</p>
+      </div>
+      <div class="feature-item">
+        <h4>📊 Streamlit 대시보드</h4>
+        <p>통계·우선순위·발신자별 분류 웹 UI (http://localhost:8501)</p>
+      </div>
+      <div class="feature-item">
+        <h4>📄 HTML 보고서</h4>
+        <p>Chart.js 기반 시각화 포함 HTML 보고서 자동 생성 및 다운로드</p>
+      </div>
+      <div class="feature-item">
+        <h4>🔍 RAG 질의</h4>
+        <p>TF 임베딩(<code>SimpleVectorStore</code>) 코사인 유사도 검색 + LLM 자연어 질의</p>
+      </div>
+      <div class="feature-item">
+        <h4>📬 주간 보고서 자동 발송</h4>
+        <p>Exchange Online SMTP 기반 HTML 메일 자동 발송, 첨부파일 지원</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════ 5. 대시보드 메뉴 -->
+  <section id="dashboard">
+    <div class="section-title">
+      <div class="section-num">5</div>
+      <h2>대시보드 메뉴</h2>
+    </div>
+    <div class="card">
+      <div class="menu-row">
+        <span class="menu-badge">📊 대시보드</span>
+        <span class="menu-badge">📬 메일 목록</span>
+        <span class="menu-badge">📁 발신자별</span>
+        <span class="menu-badge">🔍 검색/질의</span>
+        <span class="menu-badge">⚙️ 설정</span>
+      </div>
+      <table>
+        <thead><tr><th>메뉴</th><th>내용</th></tr></thead>
+        <tbody>
+          <tr>
+            <td>📊 대시보드</td>
+            <td>전체 통계 카드 · 카테고리별 현황 · <strong>회신필요 메일 섹션</strong> (LLM 요약/회신 작성) · 우선처리 메일 목록</td>
+          </tr>
+          <tr><td>📬 메일 목록</td><td>카테고리/키워드 필터링 · 상세 보기</td></tr>
+          <tr><td>📁 발신자별</td><td>이름+이메일 표시 · 검색 · 메일 수 순 정렬</td></tr>
+          <tr>
+            <td>🔍 검색/질의</td>
+            <td>
+              <strong>키워드 검색</strong> 탭 — 제목·본문·발신자 대상 검색<br/>
+              <strong>🤖 AI 질의</strong> 탭 — 설정 탭의 LLM 자동 사용, 점수 기반 관련 메일 우선 표시
+            </td>
+          </tr>
+          <tr><td>⚙️ 설정</td><td>LLM 제공자 · API 키 · 모델명 · <strong>Max Tokens</strong> 설정 및 저장 (<code>data/llm_config.json</code>)</td></tr>
+        </tbody>
+      </table>
+
+      <div class="info-box" style="margin-top:20px">
+        <strong>💬 회신 필요 메일 섹션</strong> — 대시보드 상단에 고정 표시<br/>
+        스크롤 가능한 목록에서 메일 선택 →
+        <strong>📝 LLM 요약</strong>으로 핵심 파악 →
+        <strong>✍️ LLM 회신 작성</strong>으로 간결·정중한 회신 초안 즉시 생성
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════ 6. LLM 연동 -->
+  <section id="llm">
+    <div class="section-title">
+      <div class="section-num">6</div>
+      <h2>LLM 연동</h2>
+    </div>
+
+    <div class="llm-grid">
+      <div class="llm-card">
+        <div class="llm-badge" style="background:#E8F5E9">🤖</div>
+        <div>
+          <h4>OpenAI &nbsp;<code>OpenAIClient</code></h4>
+          <p>모델: <code>gpt-4o-mini</code> · 환경변수: <code>OPENAI_API_KEY</code></p>
+        </div>
+      </div>
+      <div class="llm-card">
+        <div class="llm-badge" style="background:#E3F2FD">✨</div>
+        <div>
+          <h4>Google Gemini &nbsp;<code>GeminiClient</code></h4>
+          <p>모델: <code>gemini-2.5-flash</code> · 환경변수: <code>GEMINI_API_KEY</code></p>
+        </div>
+      </div>
+      <div class="llm-card">
+        <div class="llm-badge" style="background:#FFF3E0">🦙</div>
+        <div>
+          <h4>Ollama (로컬) &nbsp;<code>OllamaClient</code></h4>
+          <p>모델: <code>llama3</code> · 주소: <code>http://localhost:11434</code></p>
+        </div>
+      </div>
+      <div class="llm-card">
+        <div class="llm-badge" style="background:#F3E5F5">🧪</div>
+        <div>
+          <h4>Mock (테스트) &nbsp;<code>MockLLMClient</code></h4>
+          <p>API 키 없이 동작 확인 가능</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-bottom:16px">
+      <p style="font-weight:700; margin-bottom:14px">⚙️ LLM 설정 항목 (설정 탭)</p>
+      <table>
+        <thead><tr><th>항목</th><th>설명</th></tr></thead>
+        <tbody>
+          <tr><td>LLM 제공자</td><td>openai / gemini / ollama 중 선택</td></tr>
+          <tr><td>API 키</td><td>OpenAI 또는 Gemini API 키 (Ollama는 불필요)</td></tr>
+          <tr><td>모델명</td><td><code>gpt-4o-mini</code> / <code>gemini-2.5-flash</code> / <code>llama3</code> 등</td></tr>
+          <tr><td><strong>Max Tokens</strong></td><td>LLM 응답 최대 토큰 수 (기본값: 1000, 범위: 100~8000) — 모든 LLM 호출에 공통 적용</td></tr>
+        </tbody>
+      </table>
+      <div class="info-box">
+        <strong>한 번 저장하면 전체 적용</strong> — 설정 탭에서 저장한 LLM 설정이 메일 요약, 회신 작성, AI 질의 모든 기능에 자동으로 적용됩니다. (<code>data/llm_config.json</code>)
+      </div>
+    </div>
+
+    <div class="card">
+      <p style="font-weight:700; margin-bottom:12px">💡 AI 질의 사용법</p>
+      <ol style="padding-left:20px; font-size:0.92rem; color:var(--muted); line-height:2">
+        <li><b>⚙️ 설정</b> 탭에서 LLM 제공자 및 API 키 저장</li>
+        <li><b>🔍 검색/질의</b> 메뉴 → <b>🤖 AI 질의</b> 탭 선택</li>
+        <li>자연어로 질문 입력 후 <b>질문하기</b> 클릭</li>
+      </ol>
+      <div style="background:#F8FBFF; border-radius:8px; padding:14px 16px; margin-top:16px; font-family:monospace; font-size:0.87rem; color:var(--muted); line-height:2">
+        💬 심우송님이 보낸 메일 내용 요약해줘<br/>
+        💬 이번 주 회신해야 할 메일 정리해줘<br/>
+        💬 결재 요청 중 아직 처리 안 된 건 있어?<br/>
+        💬 실시간 시스템 관련 메일 알려줘
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════ 7. 환경변수 -->
+  <section id="env">
+    <div class="section-title">
+      <div class="section-num">7</div>
+      <h2>스케줄러 환경변수 설정</h2>
+    </div>
+    <div class="card">
+      <table>
+        <thead><tr><th>환경변수</th><th>기본값</th><th>설명</th></tr></thead>
+        <tbody>
+          <tr><td><code>SMTP_SERVER</code></td><td><code>smtp.office365.com</code></td><td>Exchange Online SMTP</td></tr>
+          <tr><td><code>SMTP_PORT</code></td><td><code>587</code></td><td>SMTP 포트</td></tr>
+          <tr><td><code>MAIL_EMAIL</code></td><td>—</td><td>발신 이메일 주소</td></tr>
+          <tr><td><code>MAIL_PASSWORD</code></td><td>—</td><td>이메일 비밀번호</td></tr>
+          <tr><td><code>MAIL_RECIPIENTS</code></td><td>—</td><td>수신자 목록 (쉼표 구분)</td></tr>
+          <tr><td><code>LLM_PROVIDER</code></td><td><code>openai</code></td><td>openai / gemini / ollama</td></tr>
+          <tr><td><code>LLM_API_KEY</code></td><td>—</td><td>LLM API 키</td></tr>
+          <tr><td><code>LLM_MODEL</code></td><td><code>gpt-4o-mini</code></td><td>사용할 모델명</td></tr>
+          <tr><td><code>LLM_MAX_TOKENS</code></td><td><code>1000</code></td><td>LLM 최대 생성 토큰 수</td></tr>
+          <tr><td><code>LLM_BASE_URL</code></td><td>—</td><td>Ollama 등 로컬 LLM URL</td></tr>
+          <tr><td><code>WEEKLY_REPORT_DAY</code></td><td><code>0</code></td><td>보고서 발송 요일 (0=월요일)</td></tr>
+          <tr><td><code>WEEKLY_REPORT_TIME</code></td><td><code>09:00</code></td><td>발송 시각</td></tr>
+          <tr><td><code>LOG_FILE</code></td><td><code>./data/scheduler.log</code></td><td>스케줄러 로그 경로</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+</div>
+
+
